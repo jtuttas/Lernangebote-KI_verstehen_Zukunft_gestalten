@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Bewertung von Schülerleistungen im Zeitalter von KI
+Angebotskennung: M2.2-22
 
 ## Inhaltiche Gestaltung
 
@@ -7,19 +7,21 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Dieses Modul thematisiert die Bewertung von Schülerleistungen im Zeitalter der Künstlichen Intelligenz (KI). Es beleuchtet, wie KI die Prüfungslandschaft und Bewertungsmodelle verändert, und vermittelt, wie Sie als Lehrkraft oder pädagogische Fachkraft faire, transparente und lernförderliche Bewertungspraxis gestalten und Eigenleistung im KI-Zeitalter nachweisbar halten können. Im Fokus steht die Integration von Kompetenzen wie kritisches Denken und der souveräne Umgang mit digitalen Werkzeugen in die Bewertung.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Prüfungen und KI: Wie verändert KI die Anforderungen an Prüfungen und Bewertungsmodelle? Es wird beleuchtet, welche Formen von Eigenleistung im KI-Zeitalter noch nachweisbar sind und welche neuen Prüfungsformate sich abzeichnen.
+* Chancen und Herausforderungen: Wo liegen die Potenziale der KI-Nutzung für transparente, faire und vielfältige Bewertung? Welche Risiken wie Intransparenz, unfaire Vorteile, BIAS-Verzerrungen oder der Verlust der Eigenständigkeit (Deskilling) müssen bedacht werden?
+* Kompetenzen und Kriterien: Welche Fähigkeiten und Haltungen brauchen Lehrkräfte und Lernende, um mit KI verantwortungsvoll umzugehen (z.B. Prompt-Kompetenz, kritische Reflexion, KI-Kompetenz)? Es wird thematisiert, was bei der Gestaltung und Bewertung von Prüfungen zu beachten ist.
+* Rechtliche und ethische Leitplanken: Welche rechtlichen und ethischen Leitplanken (z.B. DSGVO, EU AI Act) sind für den verantwortungsvollen Einsatz von KI in Bewertungsprozessen relevant?
+* Reflexion und Praxis: Wie können Prüfungen so gestaltet werden, dass der Lernprozess sichtbar und die Eigenständigkeit gefördert wird – auch bei KI-Einsatz (z.B. durch Prozessjournale, mündliche Verteidigung)?
 
 **Lernziele**
 
-...
+Lehrkräfte sollen verstehen, wie Künstliche Intelligenz Prüfungen und Bewertungsmodelle verändert, und lernen, Eigenleistung, Fairness und Kompetenzorientierung auch im KI-Zeitalter sicherzustellen.
 
 **Format**
 
@@ -27,17 +29,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal).
 
 **Voraussetzungen und Hinweise**
 
-...
+Das Angebot setzt Basiswissen über die Funktionsweise und Einsatzmöglichkeiten von KI in Bildungsprozessen voraus.
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos](https://speicher.nibis.de/s/LHSFQwniRn7846a)
 - Audiospur
 - Transkript
 
@@ -47,7 +49,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50781)**
 
 ## Contribution
 
