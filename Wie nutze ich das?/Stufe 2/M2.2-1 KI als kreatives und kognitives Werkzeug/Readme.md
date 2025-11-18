@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# KI als kreatives und kognitives Werkzeug
+Angebotskennung: M2.2-1
 
 ## Inhaltiche Gestaltung
 
@@ -7,19 +7,22 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Künstliche Intelligenz kann Lern- und Lehrprozesse grundlegend verändern. Dieses Modul zeigt Ihnen, wie Sie KI gezielt als kreatives und kognitives Werkzeug im Unterricht einsetzen können. Der Fokus liegt auf den Möglichkeiten, wie KI kreative Impulse beim Schreiben, Malen oder Komponieren liefert und Denkprozesse strukturiert und unterstützt. Gleichzeitig werden die ethischen und rechtlichen Fragen (z.B. Urheberrecht, Deepfakes) thematisiert, um einen bewussten und reflektierten Umgang zu fördern.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Einsatz von KI zur Förderung kreativer Prozesse in Bereichen wie Literatur (kreatives Schreiben), Musik (Komposition) und Kunst (Bildgenerierung).
+* Nutzung von KI als kognitives Werkzeug zur Unterstützung des Denkens, Strukturierens und Problemlösens (z.B. Argumentationshilfen, Strukturierung komplexer Themen).
+* Die rechtlich-ethische Dimension und Diskussionen zu Urheberrecht, Fairness und Transparenz im Umgang mit KI-generierten Werken.
+* Gesellschaftliche Debatten rund um KI-Kreativität, wie die Bedrohung für Kreativschaffende vs. die Demokratisierung kreativer Werkzeuge
+* Praktische Anwendungsszenarien für den Unterricht und Reflexionsfragen zur bewussten Nutzung von KI.
 
 **Lernziele**
 
-...
+Lehrkräfte sollen verstehen, wie KI zur Förderung kreativer Prozesse
+und als Unterstützung für das eigene Denken eingesetzt werden kann.
 
 **Format**
 
@@ -27,17 +30,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). Da sich das Angebot speziell an Lehrkräfte richtet, sind grundlegende Erfahrungen im Unterrichten hilfreich, um die vorgestellten Szenarien und Reflexionsfragen auf den eigenen Fach- und Schulkontext übertragen zu können.
 
 **Voraussetzungen und Hinweise**
 
-...
+Für die Teilnahme sind keine speziellen technischen Vorkenntnisse erforderlich. Wichtig ist vor allem die Bereitschaft, sich neugierig und offen mit den Möglichkeiten und Grenzen von KI auseinanderzusetzen.
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Script
+- [Videos](https://speicher.nibis.de/s/tX2NZFMr3wDQAMM)
 - Audiospur
 - Transkript
 
@@ -47,7 +50,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50793)**
 
 ## Contribution
 

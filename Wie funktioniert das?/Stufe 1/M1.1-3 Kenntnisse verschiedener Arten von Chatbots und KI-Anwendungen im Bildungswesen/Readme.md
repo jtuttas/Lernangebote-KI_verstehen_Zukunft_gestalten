@@ -38,7 +38,7 @@ Keine
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
+- Script
 - [Videos](https://speicher.nibis.de/s/Hwbd8z2BTKeJL8E)
 - Audiospur
 - Transkript

@@ -1,0 +1,489 @@
+WEBVTT
+
+1
+00:00:06.560 --> 00:00:08.640
+Willkommen zum zweiten Video.
+
+2
+00:00:08.640 --> 00:00:11.360
+Hier geht es um die praktische Seite.
+
+3
+00:00:11.360 --> 00:00:12.960
+Wie richtet man ein lokales
+
+4
+00:00:12.960 --> 00:00:15.999
+Modell wie jan.ai auf dem eigenen
+
+5
+00:00:15.999 --> 00:00:18.120
+Rechner ein und welche technischen
+
+6
+00:00:18.120 --> 00:00:19.760
+Voraussetzungen sind wichtig?
+
+7
+00:00:23.680 --> 00:00:26.240
+Erstens: Die Installation von jan.ai.
+
+8
+00:00:26.980 --> 00:00:28.100
+Der erste Schritt ist der
+
+9
+00:00:28.100 --> 00:00:29.820
+Download des Programms von der
+
+10
+00:00:29.820 --> 00:00:31.860
+offiziellen Internetseite.
+
+11
+00:00:31.860 --> 00:00:33.500
+Nach der Auswahl des passenden
+
+12
+00:00:33.500 --> 00:00:35.420
+Betriebssystems laden Sie
+
+13
+00:00:35.420 --> 00:00:37.300
+die Datei herunter und öffnen
+
+14
+00:00:37.300 --> 00:00:39.380
+sie durch einen Doppelklick.
+
+15
+00:00:39.380 --> 00:00:41.220
+Damit ist die Benutzeroberfläche
+
+16
+00:00:41.220 --> 00:00:44.180
+von jan.ai startklar.
+
+17
+00:00:44.180 --> 00:00:46.100
+Sie stellt die Plattform dar,
+
+18
+00:00:46.100 --> 00:00:47.780
+über die Sie mit verschiedenen
+
+19
+00:00:47.780 --> 00:00:49.620
+Sprachmodellen arbeiten können.
+
+20
+00:00:49.633 --> 00:00:51.060
+Zweitens:
+
+21
+00:00:51.060 --> 00:00:53.900
+Das Herunterladen eines Modells über
+
+22
+00:00:53.900 --> 00:00:56.980
+den sogenannten Hub innerhalb von jan.ai
+
+23
+00:00:56.980 --> 00:00:59.780
+wählen Sie ein Sprachmodell aus.
+
+24
+00:01:01.060 --> 00:01:03.060
+Für den Einstieg wird ein kleineres
+
+25
+00:01:03.060 --> 00:01:07.300
+Modell wie Gemma-2-2B-Q4 empfohlen.
+
+26
+00:01:07.300 --> 00:01:09.140
+Es benötigt vergleichsweise wenig
+
+27
+00:01:09.140 --> 00:01:11.260
+Speicherplatz und lässt sich auf
+
+28
+00:01:11.260 --> 00:01:13.860
+handelsüblichen Rechnern ausführen.
+
+29
+00:01:13.860 --> 00:01:15.780
+Achten Sie darauf, das richtige
+
+30
+00:01:15.780 --> 00:01:17.420
+Modell zu wählen und es
+
+31
+00:01:17.420 --> 00:01:19.060
+vollständig herunterzuladen.
+
+32
+00:01:19.920 --> 00:01:21.520
+Sobald dies geschehen ist,
+
+33
+00:01:21.520 --> 00:01:23.280
+können Sie das Modell auch ohne
+
+34
+00:01:23.280 --> 00:01:24.960
+Internetverbindung nutzen.
+
+35
+00:01:25.066 --> 00:01:26.080
+Drittens:
+
+36
+00:01:26.080 --> 00:01:27.840
+Die technischen Voraussetzungen.
+
+37
+00:01:28.480 --> 00:01:30.280
+Sprachmodelle unterscheiden sich
+
+38
+00:01:30.280 --> 00:01:32.560
+in der Anzahl ihrer Parameter.
+
+39
+00:01:32.560 --> 00:01:34.880
+Je mehr Parameter, desto größer
+
+40
+00:01:34.880 --> 00:01:37.280
+der Speicher und Rechenbedarf.
+
+41
+00:01:37.280 --> 00:01:39.040
+Das lässt sich mit einem Vergleich
+
+42
+00:01:39.040 --> 00:01:41.033
+aus der Biologie verdeutlichen.
+
+43
+00:01:41.033 --> 00:01:42.200
+Das Gehirn einer
+
+44
+00:01:42.200 --> 00:01:45.120
+Maus hat deutlich weniger Nervenzellen
+
+45
+00:01:45.120 --> 00:01:46.550
+als das eines Menschen.
+
+46
+00:01:47.110 --> 00:01:48.750
+Entsprechend kann die Maus nur
+
+47
+00:01:48.750 --> 00:01:50.630
+einfache Aufgaben bewältigen,
+
+48
+00:01:50.630 --> 00:01:52.910
+während das menschliche Gehirn viel
+
+49
+00:01:52.910 --> 00:01:54.950
+komplexere Aufgaben lösen kann.
+
+50
+00:01:55.510 --> 00:01:57.030
+Ähnlich verhält es sich bei
+
+51
+00:01:57.033 --> 00:01:58.150
+Sprachmodellen.
+
+52
+00:01:58.150 --> 00:02:00.910
+Mehr Parameter erhöhen in der Regel die
+
+53
+00:02:00.910 --> 00:02:04.070
+Modellkapazität. Ausdrucks bzw.
+
+54
+00:02:04.070 --> 00:02:06.870
+Repräsentationsfähigkeit, benötigen
+
+55
+00:02:06.870 --> 00:02:09.350
+aber auch erheblich stärkere Hardware.
+
+56
+00:02:09.990 --> 00:02:12.190
+Für einfache Modelle reichen bereits
+
+57
+00:02:12.190 --> 00:02:14.630
+Rechner mit 8 GB Arbeitsspeicher.
+
+58
+00:02:15.410 --> 00:02:16.890
+Leistungsfähigere Modelle
+
+59
+00:02:16.890 --> 00:02:18.770
+benötigen deutlich mehr.
+
+60
+00:02:18.770 --> 00:02:20.370
+Es gilt daher, das Modell
+
+61
+00:02:20.370 --> 00:02:21.890
+bewusst zu wählen.
+
+62
+00:02:21.890 --> 00:02:23.450
+Kleine Modelle genügen für
+
+63
+00:02:23.450 --> 00:02:25.250
+erste Experimente oder
+
+64
+00:02:25.250 --> 00:02:27.250
+weniger komplexe Aufgaben.
+
+65
+00:02:27.250 --> 00:02:29.770
+Große Modelle bieten mehr Möglichkeiten,
+
+66
+00:02:29.770 --> 00:02:32.130
+erfordern aber stärkere Hardware.
+
+67
+00:02:33.490 --> 00:02:36.530
+Die Organisation im schulischen Alltag.
+
+68
+00:02:36.530 --> 00:02:38.450
+Wenn viele Geräte gleichzeitig ein
+
+69
+00:02:38.450 --> 00:02:40.250
+Modell herunterladen, kann die
+
+70
+00:02:40.250 --> 00:02:42.450
+Internetverbindung stark belastet sein.
+
+71
+00:02:43.230 --> 00:02:45.710
+Planen Sie daher ausreichend Zeit ein
+
+72
+00:02:45.710 --> 00:02:47.190
+oder laden Sie die Modelle
+
+73
+00:02:47.190 --> 00:02:50.030
+vorab herunter, so vermeiden Sie
+
+74
+00:02:50.030 --> 00:02:51.550
+Verzögerungen im Unterricht.
+
+75
+00:02:52.110 --> 00:02:54.070
+Eventuell ist die Installation eines
+
+76
+00:02:54.070 --> 00:02:56.790
+Proxy-Servers im lokalen Netzwerk
+
+77
+00:02:56.790 --> 00:02:57.470
+hilfreich.
+
+78
+00:03:00.430 --> 00:03:02.070
+Nun werfen wir einen Blick auf die
+
+79
+00:03:02.070 --> 00:03:04.430
+erste Interaktion mit dem Modell.
+
+80
+00:03:04.430 --> 00:03:06.030
+Nach dem Start können Sie einen
+
+81
+00:03:06.030 --> 00:03:08.670
+einfachen Prompt wie „Hallo" eingeben.
+
+82
+00:03:09.520 --> 00:03:11.120
+Manchmal antwortet das Modell
+
+83
+00:03:11.120 --> 00:03:12.960
+dabei in einer anderen Sprache,
+
+84
+00:03:12.960 --> 00:03:14.560
+etwa auf Englisch.
+
+85
+00:03:14.560 --> 00:03:16.400
+Das zeigt, dass ein einzelnes
+
+86
+00:03:16.400 --> 00:03:18.040
+Wort oft nicht genügt,
+
+87
+00:03:18.040 --> 00:03:20.800
+um den Kontext eindeutig festzulegen.
+
+88
+00:03:20.800 --> 00:03:22.600
+An dieser Stelle lohnt es sich, die
+
+89
+00:03:22.600 --> 00:03:25.280
+Unterschiede zwischen Prompts und Systemprompts
+
+90
+00:03:25.280 --> 00:03:27.920
+genauer zu betrachten.
+
+91
+00:03:27.920 --> 00:03:30.480
+Ein Prompt ist eine konkrete Eingabe,
+
+92
+00:03:30.480 --> 00:03:32.160
+die direkt beantwortet wird.
+
+93
+00:03:32.160 --> 00:03:35.930
+Zum Beispiel: „Erkläre, wie man zwei Brüche addiert."
+
+94
+00:03:37.050 --> 00:03:39.250
+Oder „Formuliere eine kurze Einladung
+
+95
+00:03:39.250 --> 00:03:40.890
+zu einem Elternabend."
+
+96
+00:03:40.890 --> 00:03:42.850
+Solche Prompts steuern die
+
+97
+00:03:42.850 --> 00:03:44.610
+jeweilige Antwort des Modells
+
+98
+00:03:44.610 --> 00:03:46.570
+für eine einzelne Anfrage.
+
+99
+00:03:46.570 --> 00:03:48.850
+Ein System Prompt dagegen gibt
+
+100
+00:03:48.850 --> 00:03:50.649
+eine übergeordnete Regel für
+
+101
+00:03:50.649 --> 00:03:52.570
+die gesamte Unterhaltung vor.
+
+102
+00:03:52.570 --> 00:03:53.370
+Beispiele sind
+
+103
+00:03:54.010 --> 00:03:55.930
+„Bitte antworte immer auf Deutsch." oder
+
+104
+00:03:57.130 --> 00:03:59.250
+„Übernimm die Rolle eines geduldigen
+
+105
+00:03:59.250 --> 00:04:01.210
+Mathematiklehrers für die 7.
+
+106
+00:04:01.210 --> 00:04:01.610
+Klasse."
+
+107
+00:04:02.410 --> 00:04:04.610
+Diese Anweisungen wirken dauerhaft, bis
+
+108
+00:04:04.610 --> 00:04:07.170
+sie geändert werden und bestimmen damit
+
+109
+00:04:07.170 --> 00:04:10.810
+Stil, Sprache oder Rolle des Modells.
+
+110
+00:04:10.810 --> 00:04:12.850
+So lassen sich sowohl einmalige
+
+111
+00:04:12.850 --> 00:04:14.890
+Aufgaben als auch längerfristige
+
+112
+00:04:14.890 --> 00:04:17.290
+Rahmenbedingungen gezielt steuern.
+
+113
+00:04:20.010 --> 00:04:21.810
+Zusammenfassend haben wir in diesem
+
+114
+00:04:21.810 --> 00:04:25.290
+zweiten Video gesehen: Die Installation von jan.ai
+
+115
+00:04:25.290 --> 00:04:27.050
+ist unkompliziert,
+
+116
+00:04:27.620 --> 00:04:30.180
+erfordert aber etwas Vorbereitung.
+
+117
+00:04:30.180 --> 00:04:32.300
+Die Wahl des Modells hängt von
+
+118
+00:04:32.300 --> 00:04:34.580
+der verfügbaren Hardware ab.
+
+119
+00:04:34.580 --> 00:04:37.020
+Eine gute Organisation erleichtert den
+
+120
+00:04:37.020 --> 00:04:40.180
+Einsatz im Schulalltag und mit Prompts
+
+121
+00:04:40.180 --> 00:04:42.300
+und Systemprompts steuern Sie die
+
+122
+00:04:42.300 --> 00:04:44.260
+ersten Schritte der Interaktion.

@@ -1,0 +1,529 @@
+WEBVTT
+
+1
+00:00:06.480 --> 00:00:08.400
+Willkommen zu diesem Video.
+
+2
+00:00:08.400 --> 00:00:10.160
+Nachdem wir die Grundlagen, die
+
+3
+00:00:10.160 --> 00:00:12.240
+Einrichtung und die praktische Nutzung
+
+4
+00:00:12.240 --> 00:00:14.480
+kennengelernt haben, geht es nun
+
+5
+00:00:14.480 --> 00:00:16.680
+um Chancen, Grenzen und den
+
+6
+00:00:16.680 --> 00:00:18.520
+verantwortungsvollen Einsatz von
+
+7
+00:00:18.520 --> 00:00:21.120
+Sprachmodellen im schulischen Kontext.
+
+8
+00:00:24.880 --> 00:00:27.430
+Das Phänomen der Halluzinationen.
+
+9
+00:00:27.430 --> 00:00:28.990
+Sprachmodelle können Antworten
+
+10
+00:00:28.990 --> 00:00:31.230
+erzeugen, die zwar plausibel klingen,
+
+11
+00:00:31.230 --> 00:00:33.350
+aber inhaltlich falsch sind.
+
+12
+00:00:33.350 --> 00:00:35.750
+Beispiele sind falsche Einwohnerzahlen
+
+13
+00:00:35.750 --> 00:00:37.830
+oder fehlerhafte Rechenergebnisse.
+
+14
+00:00:38.510 --> 00:00:40.630
+Um dieses Risiko zu verringern, gibt es
+
+15
+00:00:40.630 --> 00:00:44.070
+verschiedene Strategien. Eine klare Anweisung im
+
+16
+00:00:44.070 --> 00:00:46.790
+Systemprompt. Wenn das Modell gezielt
+
+17
+00:00:46.790 --> 00:00:48.950
+angewiesen wird, ausschließlich auf
+
+18
+00:00:48.950 --> 00:00:50.230
+vorgegebene Informationen
+
+19
+00:00:50.230 --> 00:00:52.950
+zurückzugreifen, sinkt die Gefahr,
+
+20
+00:00:52.950 --> 00:00:55.550
+dass es zusätzliche, möglicherweise
+
+21
+00:00:55.550 --> 00:00:57.710
+falsche Inhalte erfindet.
+
+22
+00:00:57.710 --> 00:01:01.270
+Retrieval-Augmented-Generation. Dabei kombiniert
+
+23
+00:01:01.270 --> 00:01:03.750
+das Modell seine Texte mit geprüften
+
+24
+00:01:03.750 --> 00:01:06.430
+Informationen aus externen Datenbanken.
+
+25
+00:01:06.430 --> 00:01:08.350
+So werden Antworten stärker an
+
+26
+00:01:08.350 --> 00:01:10.910
+überprüfbaren Fakten ausgerichtet.
+
+27
+00:01:10.910 --> 00:01:14.190
+Die Methode der semantischen Entropie.
+
+28
+00:01:14.190 --> 00:01:16.110
+Hier erzeugt das Modell mehrere
+
+29
+00:01:16.110 --> 00:01:18.910
+Antworten auf dieselbe Frage. Weichen
+
+30
+00:01:18.910 --> 00:01:21.220
+die Ergebnisse stark voneinander ab,
+
+31
+00:01:21.220 --> 00:01:22.660
+ist Vorsicht geboten.
+
+32
+00:01:22.660 --> 00:01:24.740
+Stimmen sie weitgehend überein,
+
+33
+00:01:24.740 --> 00:01:26.420
+steigt die Wahrscheinlichkeit,
+
+34
+00:01:26.420 --> 00:01:28.500
+dass die Antwort verlässlich ist.
+
+35
+00:01:29.140 --> 00:01:32.580
+Der Einsatz von Experten-Ensembles.
+
+36
+00:01:32.580 --> 00:01:34.060
+Mehrere Modelle bewerten
+
+37
+00:01:34.060 --> 00:01:36.260
+gleichzeitig dieselbe Frage.
+
+38
+00:01:36.260 --> 00:01:38.580
+Indem ihre Ergebnisse verglichen werden,
+
+39
+00:01:38.580 --> 00:01:40.220
+lassen sich Fehlerquellen besser
+
+40
+00:01:40.220 --> 00:01:43.380
+erkennen und korrigieren. Diese Ansätze zeigen
+
+41
+00:01:44.340 --> 00:01:46.460
+auch wenn Halluzinationen nie
+
+42
+00:01:46.460 --> 00:01:48.100
+vollständig vermieden werden können,
+
+43
+00:01:48.800 --> 00:01:50.320
+gibt es wirkungsvolle Wege,
+
+44
+00:01:50.320 --> 00:01:52.080
+sie deutlich zu reduzieren.
+
+45
+00:01:52.720 --> 00:01:54.320
+Wichtig bleibt aber immer,
+
+46
+00:01:54.320 --> 00:01:56.840
+dass Ergebnisse kritisch überprüft und
+
+47
+00:01:56.840 --> 00:01:58.640
+nicht ungeprüft übernommen werden.
+
+48
+00:02:01.680 --> 00:02:03.600
+Kritische Medienbildung.
+
+49
+00:02:03.600 --> 00:02:05.240
+Der Umgang mit Sprachmodellen
+
+50
+00:02:05.240 --> 00:02:07.240
+fördert die Fähigkeit, digitale
+
+51
+00:02:07.240 --> 00:02:09.360
+Informationen zu hinterfragen.
+
+52
+00:02:09.360 --> 00:02:11.360
+Schülerinnen und Schüler lernen,
+
+53
+00:02:11.360 --> 00:02:13.840
+KI generierte Inhalte zu prüfen,
+
+54
+00:02:13.840 --> 00:02:14.720
+Fehler zu erkennen
+
+55
+00:02:15.370 --> 00:02:17.930
+und alternative Quellen heranzuziehen.
+
+56
+00:02:17.930 --> 00:02:20.330
+Sie üben, verschiedene Perspektiven
+
+57
+00:02:20.330 --> 00:02:22.170
+einzunehmen und zu vergleichen,
+
+58
+00:02:22.170 --> 00:02:23.490
+statt sich nur auf eine
+
+59
+00:02:23.490 --> 00:02:25.690
+einzelne Antwort zu verlassen.
+
+60
+00:02:25.690 --> 00:02:27.930
+Dazu gehört auch, sich über Grenzen
+
+61
+00:02:27.930 --> 00:02:30.490
+der KI bewusst zu werden, etwa
+
+62
+00:02:30.490 --> 00:02:32.650
+wenn kulturelle Kontexte oder
+
+63
+00:02:32.650 --> 00:02:35.130
+aktuelle Informationen fehlen.
+
+64
+00:02:35.130 --> 00:02:37.170
+Auf diese Weise wird eine zentrale
+
+65
+00:02:37.170 --> 00:02:39.690
+Kompetenz gestärkt, Informationen
+
+66
+00:02:39.690 --> 00:02:41.770
+kritisch zu reflektieren
+
+67
+00:02:41.770 --> 00:02:43.970
+und nicht alles zu glauben, was auf den
+
+68
+00:02:43.970 --> 00:02:45.770
+ersten Blick überzeugend wirkt.
+
+69
+00:02:48.650 --> 00:02:50.650
+Didaktische Gestaltung.
+
+70
+00:02:50.650 --> 00:02:52.450
+Sprachmodelle können kreative
+
+71
+00:02:52.450 --> 00:02:54.650
+Impulse geben, Lernende aktiv
+
+72
+00:02:54.650 --> 00:02:56.450
+einbinden und den Unterricht
+
+73
+00:02:56.450 --> 00:02:58.890
+abwechslungsreicher gestalten.
+
+74
+00:02:58.890 --> 00:03:00.730
+Reflexionsphasen sind dabei entscheident.
+
+75
+00:03:01.610 --> 00:03:04.250
+Nach einer KI-Interaktion sollte immer
+
+76
+00:03:04.250 --> 00:03:05.930
+gemeinsam besprochen werden,
+
+77
+00:03:05.930 --> 00:03:08.090
+welche Antworten hilfreich waren
+
+78
+00:03:08.090 --> 00:03:09.930
+und wo Grenzen sichtbar wurden.
+
+79
+00:03:10.890 --> 00:03:13.450
+Geeignete Anlässe für solche Reflexionen
+
+80
+00:03:13.450 --> 00:03:15.930
+sind zum Beispiel die Analyse, ob eine
+
+81
+00:03:15.930 --> 00:03:18.810
+KI Antwort korrekt und vollständig war,
+
+82
+00:03:18.810 --> 00:03:21.250
+das Vergleichen von KI Ergebnissen mit
+
+83
+00:03:21.250 --> 00:03:23.770
+dem eigenen Vorwissen, die Diskussion
+
+84
+00:03:23.770 --> 00:03:25.530
+über sprachliche Qualität oder
+
+85
+00:03:25.530 --> 00:03:28.770
+Stilfragen sowie die Bewertung, ob eine
+
+86
+00:03:28.770 --> 00:03:31.410
+Aufgabe durch die KI kreativer oder
+
+87
+00:03:31.410 --> 00:03:33.050
+verständlicher wurde.
+
+88
+00:03:33.050 --> 00:03:34.770
+So wird der Einsatz nicht zur
+
+89
+00:03:34.770 --> 00:03:37.010
+reinen Spielerei, sondern trägt
+
+90
+00:03:37.010 --> 00:03:38.890
+gezielt zum Lernerfolg bei.
+
+91
+00:03:41.930 --> 00:03:45.170
+Chancen und Risiken im Überblick.
+
+92
+00:03:45.170 --> 00:03:46.610
+Chancen liegen in der Motivation der
+
+93
+00:03:46.610 --> 00:03:48.610
+Lernenden, in der Unterstützung der
+
+94
+00:03:48.610 --> 00:03:50.290
+Lehrkräfte und in neuen
+
+95
+00:03:50.290 --> 00:03:52.490
+Möglichkeiten für Schulverwaltungen,
+
+96
+00:03:52.490 --> 00:03:54.370
+zum Beispiel bei der Bearbeitung von
+
+97
+00:03:54.370 --> 00:03:56.610
+Texten, der schnellen Strukturierung
+
+98
+00:03:56.610 --> 00:03:58.450
+von Informationen oder der
+
+99
+00:03:58.450 --> 00:04:00.970
+Unterstützung bei Routineaufgaben.
+
+100
+00:04:00.970 --> 00:04:03.890
+Sprachmodelle können zudem kreative Ideen
+
+101
+00:04:03.890 --> 00:04:06.300
+liefern und die Zusammenarbeit zwischen
+
+102
+00:04:06.300 --> 00:04:08.660
+Lehrkräften und Schülerinnen fördern.
+
+103
+00:04:09.300 --> 00:04:11.300
+Risiken bestehen in fehlerhaften
+
+104
+00:04:11.300 --> 00:04:13.860
+Inhalten, möglichen Überforderungen
+
+105
+00:04:13.860 --> 00:04:15.860
+oder einem unreflektierten
+
+106
+00:04:15.860 --> 00:04:17.060
+Vertrauen in die Technik.
+
+107
+00:04:17.779 --> 00:04:19.980
+Auch Fragen des Datenschutzes, der
+
+108
+00:04:19.980 --> 00:04:22.140
+fairen Nutzung und der Transparenz der
+
+109
+00:04:22.140 --> 00:04:24.820
+Quellenlage müssen beachtet werden.
+
+110
+00:04:24.820 --> 00:04:26.580
+Hinzu kommt die Gefahr, dass
+
+111
+00:04:26.580 --> 00:04:28.020
+Lernende zu stark auf
+
+112
+00:04:28.020 --> 00:04:30.100
+automatisierte Hilfen vertrauen
+
+113
+00:04:30.100 --> 00:04:32.620
+und eigene Problemlösungsfähigkeiten
+
+114
+00:04:32.620 --> 00:04:33.380
+vernachlässigen.
+
+115
+00:04:34.110 --> 00:04:35.550
+Ebenso können unklare
+
+116
+00:04:35.550 --> 00:04:38.390
+Verantwortlichkeiten entstehen, wenn KI
+
+117
+00:04:38.390 --> 00:04:40.830
+Ergebnisse ungeprüft übernommen werden.
+
+118
+00:04:41.390 --> 00:04:43.910
+Ein bewusster begleiteter Einsatz mit
+
+119
+00:04:43.910 --> 00:04:46.870
+klaren Regeln, festen Zuständigkeiten
+
+120
+00:04:46.870 --> 00:04:48.310
+und ausreichend Zeit für
+
+121
+00:04:48.310 --> 00:04:51.470
+Reflexionsphasen ist daher unerlässlich.
+
+122
+00:04:54.430 --> 00:04:56.390
+Zusammenfassend zeigt dieses
+
+123
+00:04:56.390 --> 00:04:59.550
+Video Sprachmodelle wie jan.ai
+
+124
+00:05:00.200 --> 00:05:02.000
+eröffnen neue Perspektiven für
+
+125
+00:05:02.000 --> 00:05:03.960
+Unterricht und Schulverwaltung.
+
+126
+00:05:03.960 --> 00:05:05.400
+Sie können Lernprozesse
+
+127
+00:05:05.400 --> 00:05:07.880
+bereichern, Medienkompetenz fördern
+
+128
+00:05:07.880 --> 00:05:10.120
+und Abläufe unterstützen.
+
+129
+00:05:10.120 --> 00:05:12.200
+Entscheidend ist jedoch, Chancen
+
+130
+00:05:12.200 --> 00:05:13.880
+und Grenzen gleichermaßen im
+
+131
+00:05:13.880 --> 00:05:16.120
+Blick zu behalten und den Einsatz
+
+132
+00:05:16.120 --> 00:05:18.040
+immer kritisch zu reflektieren.

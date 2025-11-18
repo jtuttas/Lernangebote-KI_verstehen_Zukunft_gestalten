@@ -38,7 +38,7 @@ Grundlegende Kenntnisse im Umgang mit digitalen Medien im Unterricht sowie die B
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
+- Script
 - [Videos](https://speicher.nibis.de/s/sxDDwSig34Z34GX)
 - Audiospur
 - Transkript
