@@ -19,7 +19,7 @@ Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
 **Lernziele**
 
-...
+Die Teilnehmenden lernen, wie textgenerierende KI-Tools als Unterstützung bei der Unterrichtsplanung eingesetzt werden können. Sie erfahren, wie die Tools als Ideengeber, Strukturhilfe und Inspirationsquelle genutzt werden können, um kreative und effektive Unterrichtseinheiten zu gestalten.
 
 **Format**
 
@@ -36,8 +36,8 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos]()
 - Audiospur
 - Transkript
 
