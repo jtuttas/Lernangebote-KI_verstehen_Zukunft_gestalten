@@ -1,0 +1,533 @@
+WEBVTT
+
+1
+00:00:06.400 --> 00:00:08.160
+In diesem Video geht es darum,
+
+2
+00:00:08.160 --> 00:00:10.280
+wie Führungspersonen in Schulen und
+
+3
+00:00:10.280 --> 00:00:12.720
+Schulverwaltungen die Risiken beim
+
+4
+00:00:12.720 --> 00:00:14.840
+Einsatz von Künstlicher Intelligenz
+
+5
+00:00:14.840 --> 00:00:16.480
+vorausschauend beherrschen.
+
+6
+00:00:19.400 --> 00:00:20.640
+Erstens:
+
+7
+00:00:20.640 --> 00:00:23.040
+Ein gemeinsamer Governance Rahmen.
+
+8
+00:00:23.040 --> 00:00:25.400
+Die Kultusministerkonferenz hat
+
+9
+00:00:25.400 --> 00:00:28.240
+im Oktober 2024 konkrete
+
+10
+00:00:28.240 --> 00:00:29.640
+Handlungsempfehlungen für die
+
+11
+00:00:29.640 --> 00:00:31.360
+Bildungsverwaltung veröffentlicht.
+
+12
+00:00:32.060 --> 00:00:35.180
+Sie nennt fünf Handlungsfelder: strategische
+
+13
+00:00:35.180 --> 00:00:37.340
+Zielsetzung, Prüfungskultur,
+
+14
+00:00:37.340 --> 00:00:39.340
+Fachkräftequalifizierung,
+
+15
+00:00:39.340 --> 00:00:40.860
+Datenschutzverantwortung
+
+16
+00:00:40.860 --> 00:00:43.180
+und Wirkungsmonitoring.
+
+17
+00:00:43.180 --> 00:00:45.460
+Seit Inkrafttreten des Europäischen
+
+18
+00:00:45.460 --> 00:00:47.900
+Gesetzes über Künstliche Intelligenz
+
+19
+00:00:47.900 --> 00:00:51.900
+seit Februar 2025 müssen Schulen diese
+
+20
+00:00:51.900 --> 00:00:54.140
+Bereiche zusätzlich mit den neuen
+
+21
+00:00:54.140 --> 00:00:56.540
+europäischen Risikoklassen abgleichen.
+
+22
+00:00:57.350 --> 00:00:59.150
+Leitungen erstellen deshalb eine
+
+23
+00:00:59.150 --> 00:01:01.870
+Organisationsrichtlinie, die festlegt,
+
+24
+00:01:01.870 --> 00:01:04.190
+welche Systeme als niedriges oder
+
+25
+00:01:04.190 --> 00:01:06.390
+hohes Risiko eingestuft werden,
+
+26
+00:01:06.390 --> 00:01:09.030
+wer die Freigabe erteilt und welche
+
+27
+00:01:09.030 --> 00:01:10.870
+Dokumentationspflichten gelten.
+
+28
+00:01:14.470 --> 00:01:17.990
+Ein Praxisbeispiel: Die Schulleitung nimmt halbjährlich
+
+29
+00:01:17.990 --> 00:01:20.750
+einen sogenannten KI-Anwendungsinventar-
+
+30
+00:01:20.750 --> 00:01:22.870
+Check vor, der in einer öffentlichen
+
+31
+00:01:22.870 --> 00:01:24.550
+Liste der Schule einsehbar ist.
+
+32
+00:01:25.320 --> 00:01:27.160
+In der Liste werden die eingesetzten
+
+33
+00:01:27.160 --> 00:01:29.920
+KI-Systeme dokumentiert und deren
+
+34
+00:01:29.920 --> 00:01:32.120
+Einsatz nachvollziehbar gemacht.
+
+35
+00:01:32.120 --> 00:01:35.160
+Lehrkräfte melden neue Werkzeuge zentral.
+
+36
+00:01:35.160 --> 00:01:37.400
+Die Leitung prüft sie gemeinsam mit der
+
+37
+00:01:37.400 --> 00:01:40.320
+Personalvertretung, dem Datenschutzteam
+
+38
+00:01:40.320 --> 00:01:42.360
+und der Elternvertretung.
+
+39
+00:01:42.360 --> 00:01:45.120
+Diese Transparenz entlastet das Kollegium
+
+40
+00:01:45.120 --> 00:01:47.240
+und vermeidet Parallelregelungen.
+
+41
+00:01:49.560 --> 00:01:51.080
+Zweitens:
+
+42
+00:01:51.080 --> 00:01:53.000
+Zentrales Bias-Management.
+
+43
+00:01:53.510 --> 00:01:55.270
+Fehlendes Wissen über Verzerrungen
+
+44
+00:01:55.270 --> 00:01:57.110
+führt zu Verunsicherung.
+
+45
+00:01:57.110 --> 00:01:59.310
+Führungspersonen implementieren daher
+
+46
+00:01:59.310 --> 00:02:02.950
+ein dreistufiges Prüfverfahren. Erstens erfolgt
+
+47
+00:02:02.950 --> 00:02:04.910
+eine technische Vorprüfung mit
+
+48
+00:02:04.910 --> 00:02:07.190
+synthetischen Testdatensätzen.
+
+49
+00:02:07.190 --> 00:02:09.789
+Zweitens: eine pädagogische Evaluation
+
+50
+00:02:09.789 --> 00:02:11.670
+durch ein Team aus Lehrkräften,
+
+51
+00:02:11.670 --> 00:02:13.230
+Schulpsychologinnen und
+
+52
+00:02:13.230 --> 00:02:15.870
+Verwaltungsfachkräften und drittens,
+
+53
+00:02:15.870 --> 00:02:18.350
+eine Pilotphase mit engmaschigem
+
+54
+00:02:18.350 --> 00:02:19.110
+Monitoring.
+
+55
+00:02:19.820 --> 00:02:21.740
+Alle Ergebnisse werden in einer
+
+56
+00:02:21.740 --> 00:02:23.540
+frei zugänglichen Prompt und
+
+57
+00:02:23.540 --> 00:02:25.580
+Fallbeispielsammlung dokumentiert
+
+58
+00:02:25.580 --> 00:02:27.820
+und quartalsweise aktualisiert.
+
+59
+00:02:28.460 --> 00:02:30.300
+Eine weitere Möglichkeit wäre
+
+60
+00:02:30.300 --> 00:02:32.700
+ein sogenanntes Bias-Board.
+
+61
+00:02:32.700 --> 00:02:35.259
+Schülerinnen und Schüler, Lehrkräfte und
+
+62
+00:02:35.259 --> 00:02:37.820
+Eltern reichen dort Testfälle ein, die
+
+63
+00:02:37.820 --> 00:02:40.140
+aus ihrer Lebenswirklichkeit stammen.
+
+64
+00:02:40.140 --> 00:02:42.260
+So werden subtile Benachteiligungen
+
+65
+00:02:42.260 --> 00:02:44.060
+sichtbar, bevor ein Tool
+
+66
+00:02:44.060 --> 00:02:45.420
+in den Regelbetrieb geht.
+
+67
+00:02:48.680 --> 00:02:49.570
+Drittens:
+
+68
+00:02:49.570 --> 00:02:51.570
+Datenschutz und Sicherheit.
+
+69
+00:02:51.570 --> 00:02:53.970
+Der Landesbeauftragte für den Datenschutz
+
+70
+00:02:53.970 --> 00:02:56.290
+Niedersachsen empfiehlt, vor jedem
+
+71
+00:02:56.290 --> 00:02:58.810
+Test eine Datenschutzfolgenabschätzung
+
+72
+00:02:58.810 --> 00:03:00.650
+nach Artikel 30 der
+
+73
+00:03:00.650 --> 00:03:03.010
+Europäischen Datenschutzgrundverordnung
+
+74
+00:03:03.010 --> 00:03:05.610
+durchzuführen, klare Löschfristen
+
+75
+00:03:05.610 --> 00:03:07.770
+festzulegen und eine feste
+
+76
+00:03:07.770 --> 00:03:09.890
+Ansprechperson zu benennen.
+
+77
+00:03:09.890 --> 00:03:11.890
+Ergänzend schreibt die Handreichung:
+
+78
+00:03:12.450 --> 00:03:14.530
+Künstliche Intelligenz in der Schule.
+
+79
+00:03:14.530 --> 00:03:16.690
+Des Bundesministeriums für Bildung
+
+80
+00:03:16.690 --> 00:03:18.690
+und Forschung vor, dass nur
+
+81
+00:03:18.690 --> 00:03:20.530
+Anbieter mit verschlüsselter
+
+82
+00:03:20.530 --> 00:03:23.290
+Datenübertragung und Serverstandorten
+
+83
+00:03:23.290 --> 00:03:25.330
+innerhalb der Europäischen Union
+
+84
+00:03:25.330 --> 00:03:27.410
+eingesetzt werden dürfen.
+
+85
+00:03:27.410 --> 00:03:29.730
+Ein gemeinsames Sicherheitsteam,
+
+86
+00:03:29.730 --> 00:03:32.610
+besetzt mit Systemadministratorinnen
+
+87
+00:03:32.610 --> 00:03:35.170
+und Systemadministratoren sowie
+
+88
+00:03:35.170 --> 00:03:37.980
+einer externen Datenschutzfachkraft,
+
+89
+00:03:37.980 --> 00:03:39.180
+prüft vierteljährlich
+
+90
+00:03:39.180 --> 00:03:42.140
+Protokolle und Zugriffsrechte.
+
+91
+00:03:42.140 --> 00:03:44.380
+Auf diese Weise entsteht für Eltern,
+
+92
+00:03:44.380 --> 00:03:46.220
+Lernende und Lehrkräfte
+
+93
+00:03:46.220 --> 00:03:47.900
+Transparenz und Vertrauen.
+
+94
+00:03:51.200 --> 00:03:51.980
+Viertens:
+
+95
+00:03:51.980 --> 00:03:54.380
+Kompetenz und Supportstrukturen.
+
+96
+00:03:55.100 --> 00:03:56.940
+Führungskräfte etablieren ein
+
+97
+00:03:56.940 --> 00:03:59.180
+mehrstufiges Unterstützungsmodell.
+
+98
+00:03:59.180 --> 00:04:01.060
+Stufe 1 ist ein digitaler
+
+99
+00:04:01.060 --> 00:04:03.340
+Helpdesk, das häufige Fragen zu
+
+100
+00:04:03.340 --> 00:04:05.860
+Werkzeugen, Prompts und rechtlichen
+
+101
+00:04:05.860 --> 00:04:07.340
+rahmenbedingungen bündelt.
+
+102
+00:04:07.970 --> 00:04:10.810
+Stufe 2 umfasst Mikrolernmodule
+
+103
+00:04:10.810 --> 00:04:12.650
+auf der Fortbildungsplattform des
+
+104
+00:04:12.650 --> 00:04:15.010
+Bundeslandes, die in wenigen Minuten
+
+105
+00:04:15.010 --> 00:04:17.370
+zentrale Themen wie Datenethik
+
+106
+00:04:17.370 --> 00:04:19.890
+oder Prompt Design erklären.
+
+107
+00:04:19.890 --> 00:04:22.730
+Stufe 3 ist ein Netzwerk aus Peer
+
+108
+00:04:22.730 --> 00:04:24.490
+Coaches, das in wöchentlichen
+
+109
+00:04:24.490 --> 00:04:26.690
+Sprechzeiten konkrete Unterrichts
+
+110
+00:04:26.690 --> 00:04:28.530
+oder Verwaltungsfälle bespricht.
+
+111
+00:04:28.530 --> 00:04:31.330
+So wächst aus individueller Unsicherheit
+
+112
+00:04:31.330 --> 00:04:34.040
+schrittweise kollektives Können.
+
+113
+00:04:36.370 --> 00:04:37.300
+Fünftens:
+
+114
+00:04:37.300 --> 00:04:40.340
+Eine offene Kommunikationskultur.
+
+115
+00:04:40.340 --> 00:04:41.820
+Leitungen informieren die
+
+116
+00:04:41.820 --> 00:04:43.900
+Schulgemeinschaft regelmäßig in Form
+
+117
+00:04:43.900 --> 00:04:46.500
+eines digitalen KI-Tagebuchs, das
+
+118
+00:04:46.500 --> 00:04:48.740
+Entscheidungen, Testergebnisse und
+
+119
+00:04:48.740 --> 00:04:51.220
+offene Fragen transparent macht.
+
+120
+00:04:51.220 --> 00:04:53.420
+Vierteljährliche Feedbacktreffen mit
+
+121
+00:04:53.420 --> 00:04:55.180
+Vertretungen aller Nutzergruppen
+
+122
+00:04:55.180 --> 00:04:57.260
+sichern, dass Sorgen ernst genommen
+
+123
+00:04:57.260 --> 00:05:00.100
+werden und Anpassungen zeitnah erfolgen.
+
+124
+00:05:00.970 --> 00:05:03.690
+Solche partizipativen Formate erhöhen
+
+125
+00:05:03.690 --> 00:05:06.210
+die Akzeptanz und senken langfristig
+
+126
+00:05:06.210 --> 00:05:08.330
+Widerstand, weil die Verantwortung
+
+127
+00:05:08.330 --> 00:05:10.090
+klar verortet bleibt und
+
+128
+00:05:10.090 --> 00:05:12.090
+Entscheidungen nachvollziehbar sind.
+
+129
+00:05:15.050 --> 00:05:17.770
+3 Zentrale Führungsaufgaben sichern
+
+130
+00:05:17.770 --> 00:05:19.450
+den verantwortungsvollen Einsatz
+
+131
+00:05:19.450 --> 00:05:22.050
+von künstlicher Intelligenz Verbindliche
+
+132
+00:05:22.050 --> 00:05:24.690
+Regeln setzen, Risiken systematisch
+
+133
+00:05:24.690 --> 00:05:26.730
+prüfen und Teams befähigen.

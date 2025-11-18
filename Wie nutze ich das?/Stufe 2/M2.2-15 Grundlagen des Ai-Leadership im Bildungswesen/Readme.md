@@ -7,19 +7,24 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Dieser Kurs zeigt in kompakter und praxisnaher Form, wie Leitungspersonen in Schulen und Bildungsverwaltung Künstliche Intelligenz strategisch einführen, verantwortungsvoll steuern und als Motor für neue Organisationskultur nutzen können. Das Lernangebot vermittelt Führungskräften ein grundlegendes Verständnis der Notwendigkeit und der Kernaspekte von AI-Leadership im Kontext der aktuellen KI-Entwicklungen an Schulen.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Definition von AI-Leadership als umfassende Steuerungs- und Gestaltungskompetenz im Bildungskontext 
+* Bedeutung der menschlichen Regiekompetenz über KI-Systeme trotz deren zunehmender Autonomie 
+* AI-Leadership als proaktive Gestaltung einer Schulkultur und von Prozessen mit pädagogischem Fokus 
+* Notwendigkeit von AI-Leadership aufgrund der digitalen Disruption durch KI im Bildungssektor 
+* Chancen durch KI: Personalisierung von Lernprozessen und Effizienzsteigerung in der Verwaltung 
+* Herausforderungen durch KI: Datenschutz, Ethik und Kompetenzentwicklung bei Lehrenden und Lernenden 
+* Die duale Natur der KI als Bedrohungsszenario und Entwicklungspotenzial erfordert eine differenzierte Führungsperspektive 
+* Bedeutung der Wertvermittlung und des Abbaus von Ängsten gegenüber KI in der Schulgemeinschaft
 
 **Lernziele**
 
-...
+Dieses Lernangebot vermittelt Führungskräften ein grundlegendes Verständnis der Notwendigkeit und der Kernaspekte von AI-Leadership im Kontext der aktuellen KI-Entwicklungen an Schulen.
 
 **Format**
 
@@ -27,17 +32,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Lehrkräfte und Schulleitungen aller Schulformen, Mitarbeitende in der Schulverwaltung.
 
 **Voraussetzungen und Hinweise**
 
-...
+Vorkenntnisse über grundlegende Funktionsweisen Künstlicher Intelligenz sind hilfreich, weiterführendes technisches Detailwissen ist nicht erforderlich. Entscheidend sind Offenheit für Reflexion und die Bereitschaft, gemeinsam Lösungen zu entwickeln.
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Script
+- [Videos](https://speicher.nibis.de/s/6r88b8G9F8HMAaa)
 - Audiospur
 - Transkript
 
@@ -47,7 +52,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50785)**
 
 ## Contribution
 
