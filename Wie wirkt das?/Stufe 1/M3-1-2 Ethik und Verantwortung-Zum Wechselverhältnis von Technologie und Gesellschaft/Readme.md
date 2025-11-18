@@ -43,7 +43,7 @@ Es sind keine spezifischen Vorkenntnisse im Bereich Informatik oder KI erforderl
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/kdD4EEAq3Y8LKej)
 - [Video](https://speicher.nibis.de/s/gL7t5esrx4gsb2y)
 - Audiospur der Videos
 - Transkripte

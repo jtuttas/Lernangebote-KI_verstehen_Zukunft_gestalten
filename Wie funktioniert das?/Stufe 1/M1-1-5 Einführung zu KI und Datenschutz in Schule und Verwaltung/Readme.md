@@ -38,7 +38,7 @@ Erste praktische Erfahrungen mit KI-Tools können die Bearbeitung erleichtern, s
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/rdgwFgLRd9FBD9p)
 - [Video](https://speicher.nibis.de/s/G2sgCJf6JamETww)
 - Audiospur der Videos
 - Transkripte

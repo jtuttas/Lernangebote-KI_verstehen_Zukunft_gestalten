@@ -35,7 +35,7 @@ Für die Teilnahme an diesem Modul sind keine spezifischen technischen Vorkenntn
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/cja3z4RRrcwQbrG)
 - [Video](https://speicher.nibis.de/s/wFXtcjbtti4xxgR)
 - Audiospur der Videos
 - Transkripte

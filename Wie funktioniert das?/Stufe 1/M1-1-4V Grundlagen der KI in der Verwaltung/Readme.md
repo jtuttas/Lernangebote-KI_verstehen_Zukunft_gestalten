@@ -46,7 +46,7 @@ Für eine vertiefte Auseinandersetzung mit rechtlichen Fragen, insbesondere zum 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/LJTgLHLbmedQrP2)
 - [Video](https://speicher.nibis.de/s/TBd5GRXaTr59wW5)
 - Audiospur der Videos
 - Transkripte

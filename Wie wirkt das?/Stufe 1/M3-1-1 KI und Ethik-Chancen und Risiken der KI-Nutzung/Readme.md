@@ -37,7 +37,7 @@ wird empfohlen, ist aber nicht obligatorisch. Entscheidend ist die Bereitschaft 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/5rPaAroYaN8JbnB)
 - [Video](https://speicher.nibis.de/s/3SKoEs689HyXdBJ)
 - Audiospur der Videos
 - Transkripte

@@ -29,7 +29,7 @@ Das Lernangebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/jryqLHzkDQCqSso)
 - [Video](https://speicher.nibis.de/s/6Me3AaXjzJ3e7Dx)
 - Audiospur der Videos
 - Transkripte

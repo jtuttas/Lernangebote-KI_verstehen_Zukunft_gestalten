@@ -29,7 +29,7 @@ Für diesen Kurs wird ein erstes Wissen über Künstliche Intelligenz und Large 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/CxzopRFH4in39b2)
 - [Video](https://speicher.nibis.de/s/Sy9jytM3eAJKPXC) 
 - Audiospur der Videos
 - Transkripte

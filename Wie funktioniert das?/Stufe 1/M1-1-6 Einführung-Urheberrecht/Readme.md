@@ -39,7 +39,7 @@ Die vorherige Bearbeitung der Einführungsmodule M1.1 Einführung: Künstliche I
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
+- [Präsentationen](https://speicher.nibis.de/s/NdZfqZWet3xanqF)
 - [Video](https://speicher.nibis.de/s/ZqjSAdd38EQcxKi)
 - Audiospur der Videos
 - Transkripte
