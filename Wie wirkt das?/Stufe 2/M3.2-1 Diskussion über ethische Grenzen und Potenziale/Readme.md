@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Diskussion über ethische Grenzen und Potenziale
+Angebotskennung: M3.2-1
 
 ## Inhaltiche Gestaltung
 
@@ -7,19 +7,19 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Dieses Lernangebot vermittelt in kompakter und praxisnaher Form, wie Künstliche Intelligenz im Bildungsbereich verantwortungsvoll eingesetzt werden kann. Im Mittelpunkt steht die ethische Betrachtung von Chancen und Grenzen. Sie lernen, welche Rollen Gerechtigkeit, Transparenz, Verantwortung, Individualisierung und Datenschutz spielen.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Erörterung der ethischen Grenzen im Einsatz von KI, einschließlich der Fragen nach Gerechtigkeit, Transparenz und Verantwortung.
+* Exploration des Potenzials von KI zur Verbesserung des Zugangs zur Bildung und zur Individualisierung des Lernens.
+* Entwicklung eines ethischen Rahmens für den Einsatz von KI in Bildungseinrichtungen, der sowohl die Möglichkeiten als auch die Risiken berücksichtigt.
 
 **Lernziele**
 
-...
+Führung einer fundierten Diskussion über die ethischen Aspekte des Einsatzes von KI in der Bildung und darüber hinaus.
 
 **Format**
 
@@ -27,17 +27,22 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren).
 
 **Voraussetzungen und Hinweise**
 
-...
+Zur Vorbereitung empfiehlt sich ein Blick in weitere Lernangebote dieser Reihe:
+* M1.1 Einführung: Künstliche Intelligenz in Schule und Unterricht – Funktionsweise, Chancen und Herausforderungen
+* M1.1 Grundsätzliches Verständnis der Funktionsweise von KI
+* M1.1 Einführung zu KI und Datenschutz in Schule und Verwaltung
+* M3.1 KI und Ethik: Chancen und Risiken der KI-Nutzung
+* M3.1 Ethik und Verantwortung: Das Wechselverhältnis von Technologie und Gesellschaft
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos](https://speicher.nibis.de/s/ATTgsZDkd7jFz3Y)
 - Audiospur
 - Transkript
 
@@ -47,7 +52,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50778)**
 
 ## Contribution
 
