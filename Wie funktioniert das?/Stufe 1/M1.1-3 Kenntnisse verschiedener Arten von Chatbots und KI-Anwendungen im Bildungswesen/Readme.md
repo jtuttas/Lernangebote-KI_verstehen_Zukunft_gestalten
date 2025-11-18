@@ -51,8 +51,6 @@ Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verf�
 
 **[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50770)**
 
-
-
 ## Contribution
 
 - Verantwortlich seitens des NLQ: Christian Haake und Jörg Steinemann 

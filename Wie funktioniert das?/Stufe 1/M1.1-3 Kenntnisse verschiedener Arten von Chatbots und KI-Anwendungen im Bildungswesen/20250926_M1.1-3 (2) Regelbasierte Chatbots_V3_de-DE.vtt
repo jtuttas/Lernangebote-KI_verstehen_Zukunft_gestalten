@@ -1,0 +1,337 @@
+WEBVTT
+
+1
+00:00:06.880 --> 00:00:08.640
+In diesem Video schauen wir genauer
+
+2
+00:00:08.640 --> 00:00:10.640
+auf regelbasierte Chatbots.
+
+3
+00:00:13.520 --> 00:00:15.919
+Ein regelbasierter Chatbot funktioniert
+
+4
+00:00:15.919 --> 00:00:18.320
+ähnlich wie ein Entscheidungsbaum.
+
+5
+00:00:18.320 --> 00:00:20.360
+Er erkennt bestimmte Schlüsselwörter
+
+6
+00:00:20.360 --> 00:00:22.360
+oder Fragen und gibt dazu
+
+7
+00:00:22.360 --> 00:00:24.800
+eine vordefinierte Antwort aus.
+
+8
+00:00:24.800 --> 00:00:27.200
+Grundlage dafür ist eine strukturierte
+
+9
+00:00:27.200 --> 00:00:29.040
+Sammlung möglicher Nutzeranfragen,
+
+10
+00:00:29.760 --> 00:00:31.920
+zum Beispiel häufig gestellte Fragen
+
+11
+00:00:31.920 --> 00:00:35.680
+und den jeweils zugehörigen Antworttexten.
+
+12
+00:00:35.680 --> 00:00:38.800
+Diese werden vorab manuell hinterlegt.
+
+13
+00:00:38.800 --> 00:00:41.040
+Jede Frage-Antwort-Kombination
+
+14
+00:00:41.040 --> 00:00:43.520
+bildet dabei einen festen Pfad im System.
+
+15
+00:00:44.160 --> 00:00:46.640
+Der Chatbot trifft also keine eigenen
+
+16
+00:00:46.640 --> 00:00:48.600
+Entscheidungen, sondern arbeitet
+
+17
+00:00:48.600 --> 00:00:50.920
+mit zuvor festgelegten Reaktionen
+
+18
+00:00:50.920 --> 00:00:55.766
+auf bestimmte Eingaben.
+
+19
+00:00:55.766 --> 00:00:56.666
+Ein Beispiel:
+
+20
+00:00:56.666 --> 00:00:57.666
+Fragt jemand
+
+21
+00:00:57.690 --> 00:00:59.850
+„Wie kann ich mein Kind krankmelden?“,
+
+22
+00:00:59.850 --> 00:01:02.090
+durchsucht der Chatbot seine Datenbank
+
+23
+00:01:02.090 --> 00:01:03.770
+nach einer passenden Formulierung
+
+24
+00:01:03.770 --> 00:01:07.250
+und antwortet etwa: „Bitte melden Sie Ihr Kind bis
+
+25
+00:01:07.250 --> 00:01:09.930
+8 Uhr telefonisch im Sekretariat ab.“
+
+26
+00:01:10.490 --> 00:01:13.530
+Das klingt einfach. Und das ist es auch.
+
+27
+00:01:13.530 --> 00:01:16.490
+Gerade das macht solche Systeme attraktiv:
+
+28
+00:01:16.490 --> 00:01:18.650
+Sie sind leicht zu programmieren,
+
+29
+00:01:18.650 --> 00:01:20.890
+transparent in ihrer Funktionsweise
+
+30
+00:01:20.890 --> 00:01:22.250
+und sicher in der Anwendung.
+
+31
+00:01:23.010 --> 00:01:25.250
+Man weiß genau, was Sie tun und was nicht.
+
+32
+00:01:28.370 --> 00:01:30.170
+Solche Chatbots könnten in der
+
+33
+00:01:30.170 --> 00:01:32.570
+Schulverwaltung zum Beispiel folgendermaßen
+
+34
+00:01:32.570 --> 00:01:35.250
+eingesetzt werden: Ein regelbasierter
+
+35
+00:01:35.250 --> 00:01:37.690
+Chatbot könnte auf der Schulhomepage
+
+36
+00:01:37.690 --> 00:01:40.290
+eingebunden werden, um häufige Fragen zu beantworten:
+
+37
+00:01:41.650 --> 00:01:43.490
+Wann beginnt der Unterricht?
+
+38
+00:01:43.490 --> 00:01:46.130
+Wo finde ich das Anmeldeformular?
+
+39
+00:01:46.130 --> 00:01:48.290
+Wie erreiche ich die Schulsozialarbeit?
+
+40
+00:01:49.240 --> 00:01:51.800
+So entlastet der Chatbot das Sekretariat
+
+41
+00:01:51.800 --> 00:01:54.120
+dadurch, dass viele Standardanfragen
+
+42
+00:01:54.120 --> 00:01:56.280
+automatisch beantwortet werden.
+
+43
+00:01:56.280 --> 00:01:58.440
+Ähnliche Szenarien sind denkbar
+
+44
+00:01:58.440 --> 00:02:00.200
+als digitale Assistenten im
+
+45
+00:02:00.200 --> 00:02:02.280
+Bereich der Schulorganisation.
+
+46
+00:02:02.280 --> 00:02:04.919
+Der Chatbot könnte Verwaltungsangestellte
+
+47
+00:02:04.919 --> 00:02:05.760
+bei eindeutigen
+
+48
+00:02:05.760 --> 00:02:07.800
+Vorgängen im Prozess unterstützen.
+
+49
+00:02:10.680 --> 00:02:12.720
+Im Unterricht könnte ein Chatbot bei
+
+50
+00:02:12.720 --> 00:02:15.830
+Vokabeltests helfen, indem er systematisch
+
+51
+00:02:15.830 --> 00:02:17.590
+nach der deutschen oder englischen
+
+52
+00:02:17.590 --> 00:02:20.630
+Bedeutung fragt. Oder ein Tool, das mit
+
+53
+00:02:20.630 --> 00:02:23.350
+Ja-Nein-Fragen kleine Quizspiele ermöglicht.
+
+54
+00:02:26.230 --> 00:02:28.710
+Welche Vorteile haben solche Systeme?
+
+55
+00:02:29.910 --> 00:02:31.590
+Erstens: Sie sind verlässlich.
+
+56
+00:02:31.590 --> 00:02:33.910
+Ihre Antworten sind vorher festgelegt
+
+57
+00:02:33.910 --> 00:02:36.221
+und es gibt keine Überraschungen.
+
+58
+00:02:36.221 --> 00:02:37.200
+Zweitens:
+
+59
+00:02:37.199 --> 00:02:39.040
+Sie sind datensparsam.
+
+60
+00:02:39.030 --> 00:02:40.350
+Es werden keine großen
+
+61
+00:02:40.350 --> 00:02:42.070
+Datenmengen verarbeitet, was
+
+62
+00:02:42.070 --> 00:02:43.933
+rechtlich von Vorteil sein kann.
+
+63
+00:02:44.300 --> 00:02:45.180
+Drittens:
+
+64
+00:02:45.180 --> 00:02:47.500
+Sie sind kostengünstig zu betreiben,
+
+65
+00:02:47.500 --> 00:02:49.180
+insbesondere, wenn sie für
+
+66
+00:02:49.180 --> 00:02:51.340
+standardisierte Aufgaben genutzt werden.
+
+67
+00:02:54.300 --> 00:02:55.708
+Und die Grenzen?
+
+68
+00:02:56.033 --> 00:02:57.380
+Die größte Schwäche
+
+69
+00:02:57.380 --> 00:02:59.580
+ist die fehlende Flexibilität.
+
+70
+00:02:59.580 --> 00:03:01.780
+Wenn eine Frage nicht exakt so gestellt
+
+71
+00:03:01.780 --> 00:03:03.900
+wird, wie der Chatbot sie kennt,
+
+72
+00:03:03.900 --> 00:03:06.140
+zum Beispiel mit einem Rechtschreibfehler
+
+73
+00:03:06.140 --> 00:03:08.060
+oder einer anderen Formulierung,
+
+74
+00:03:08.060 --> 00:03:10.770
+wird sie nicht erkannt und beantwortet.
+
+75
+00:03:10.770 --> 00:03:13.290
+Außerdem: Regelbasierte Systeme
+
+76
+00:03:13.290 --> 00:03:15.330
+können nicht dazulernen.
+
+77
+00:03:15.330 --> 00:03:16.850
+Sie geben nur aus, was
+
+78
+00:03:16.850 --> 00:03:18.690
+vorher programmiert wurde.
+
+79
+00:03:18.690 --> 00:03:21.170
+Für komplexe, offene oder kreative
+
+80
+00:03:21.170 --> 00:03:24.141
+Aufgaben sind sie deshalb ungeeignet.
+
+81
+00:03:24.141 --> 00:03:25.170
+Dennoch:
+
+82
+00:03:25.170 --> 00:03:27.170
+Für klar definierte Anfragen,
+
+83
+00:03:27.170 --> 00:03:29.490
+besonders in der Schulorganisation
+
+84
+00:03:29.490 --> 00:03:31.410
+sind sie ein nützliches Werkzeug.
