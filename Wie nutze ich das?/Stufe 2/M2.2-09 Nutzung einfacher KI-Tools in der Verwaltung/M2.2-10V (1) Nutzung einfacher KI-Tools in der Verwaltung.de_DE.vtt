@@ -1,0 +1,441 @@
+WEBVTT
+
+1
+00:00:06.480 --> 00:00:09.240
+Einführung ins Thema. Generative KI-Tools und
+
+2
+00:00:09.240 --> 00:00:11.520
+deren Grundfunktionen in der Verwaltung.
+
+3
+00:00:12.080 --> 00:00:14.640
+Herzlich willkommen zu diesem Video.
+
+4
+00:00:14.640 --> 00:00:16.400
+Wir beschäftigen uns heute mit der
+
+5
+00:00:16.400 --> 00:00:19.600
+grundlegenden Frae: Was sind generative
+
+6
+00:00:19.600 --> 00:00:21.920
+Systeme der künstlichen Intelligenz
+
+7
+00:00:21.920 --> 00:00:23.240
+und wie können sie im
+
+8
+00:00:23.240 --> 00:00:25.120
+Verwaltungsalltag eingesetzt werden.
+
+9
+00:00:28.920 --> 00:00:30.920
+Generative Künstliche Intelligenz
+
+10
+00:00:30.920 --> 00:00:33.080
+beschreibt Programme, die in der Lage
+
+11
+00:00:33.080 --> 00:00:34.960
+sind, auf Grundlage von Daten und
+
+12
+00:00:34.960 --> 00:00:37.960
+Anweisungen neue Inhalte zu erzeugen.
+
+13
+00:00:37.960 --> 00:00:40.120
+Diese Inhalte können Texte,
+
+14
+00:00:40.120 --> 00:00:42.520
+Bilder oder sogar Musik sein.
+
+15
+00:00:42.520 --> 00:00:44.120
+Für die Arbeit in der Verwaltung
+
+16
+00:00:44.120 --> 00:00:45.800
+sind vor allem textbasierte
+
+17
+00:00:45.800 --> 00:00:47.480
+Werkzeuge interessant.
+
+18
+00:00:47.480 --> 00:00:50.280
+Ein sehr bekanntes Beispiel ist ChatGPT.
+
+19
+00:00:50.280 --> 00:00:51.680
+Daneben gibt es auch andere
+
+20
+00:00:51.680 --> 00:00:53.890
+Werkzeuge wie Copilot, Google
+
+21
+00:00:53.890 --> 00:00:57.290
+Gemini, Mistral und viele weitere.
+
+22
+00:00:57.290 --> 00:00:58.690
+Ein wichtiger Punkt ist die
+
+23
+00:00:58.690 --> 00:01:00.810
+Unterscheidung zwischen einem KI
+
+24
+00:01:00.810 --> 00:01:03.050
+Modell und einem KI System.
+
+25
+00:01:03.610 --> 00:01:06.490
+Ein KI Modell ist das trainierte
+
+26
+00:01:06.490 --> 00:01:08.290
+Programm, das Sprachmuster
+
+27
+00:01:08.290 --> 00:01:10.490
+erkennt und Texte erzeugt.
+
+28
+00:01:10.490 --> 00:01:13.090
+Ein KI System hingegen umfasst
+
+29
+00:01:13.090 --> 00:01:15.690
+das Modell sowie die Benutzeroberfläche,
+
+30
+00:01:15.690 --> 00:01:17.130
+Schnittstellen und alle
+
+31
+00:01:17.130 --> 00:01:18.930
+Komponenten, die den praktischen
+
+32
+00:01:18.930 --> 00:01:20.650
+Einsatz im Alltag ermöglichen.
+
+33
+00:01:21.580 --> 00:01:22.740
+Für die Verwaltung ist es
+
+34
+00:01:22.740 --> 00:01:24.460
+entscheidend zu verstehen, dass
+
+35
+00:01:24.460 --> 00:01:26.580
+nicht jedes Modell automatisch
+
+36
+00:01:26.580 --> 00:01:28.780
+ein nutzbares System darstellt.
+
+37
+00:01:32.540 --> 00:01:34.060
+Schauen wir uns die wichtigsten
+
+38
+00:01:34.060 --> 00:01:37.420
+Grundfunktionen genauer an.
+
+39
+00:01:37.420 --> 00:01:40.580
+Erstens: Die Textgenerierung Aus wenigen Stichpunkten
+
+40
+00:01:40.580 --> 00:01:42.660
+oder einer kurzen Anweisung kann ein
+
+41
+00:01:42.660 --> 00:01:44.620
+vollständiger Text entstehen.
+
+42
+00:01:44.620 --> 00:01:46.940
+Sie können zum Beispiel angeben:
+
+43
+00:01:46.940 --> 00:01:48.620
+„Entwerfe ein Antwortschreiben
+
+44
+00:01:48.620 --> 00:01:49.940
+an eine Bürgerin zu einer
+
+45
+00:01:49.940 --> 00:01:52.220
+Anfrage über Öffnungszeiten."
+
+46
+00:01:52.220 --> 00:01:54.700
+Das System erstellt dann einen Vorschlag,
+
+47
+00:01:54.700 --> 00:01:56.780
+den sie anschließend anpassen können.
+
+48
+00:01:57.340 --> 00:01:59.580
+Zweitens: die Zusammenfassung
+
+49
+00:01:59.580 --> 00:02:00.300
+von Informationen.
+
+50
+00:02:01.580 --> 00:02:03.540
+Lange Texte lassen sich auf
+
+51
+00:02:03.540 --> 00:02:05.980
+ihre Kernaussagen reduzieren.
+
+52
+00:02:05.980 --> 00:02:08.100
+Das ist besonders hilfreich, wenn
+
+53
+00:02:08.100 --> 00:02:09.900
+man schnell einen Überblick über
+
+54
+00:02:09.900 --> 00:02:11.900
+umfangreiche Unterlagen benötigt.
+
+55
+00:02:13.830 --> 00:02:15.150
+Drittens: Die Bearbeitung und
+
+56
+00:02:15.150 --> 00:02:17.670
+Umformulierung von Texten.
+
+57
+00:02:17.670 --> 00:02:20.230
+Generative Systeme können die Sprache
+
+58
+00:02:20.230 --> 00:02:23.190
+anpassen, zum Beispiel formeller oder
+
+59
+00:02:23.190 --> 00:02:26.070
+verständlicher machen oder alternative
+
+60
+00:02:26.070 --> 00:02:27.750
+Formulierungen vorschlagen.
+
+61
+00:02:28.310 --> 00:02:29.790
+Darüber hinaus sind auch
+
+62
+00:02:29.790 --> 00:02:32.150
+dialogbasierte Funktionen nützlich.
+
+63
+00:02:32.710 --> 00:02:34.670
+Das bedeutet, dass der Nutzende
+
+64
+00:02:34.670 --> 00:02:36.390
+Rückfragen stellen kann
+
+65
+00:02:36.390 --> 00:02:39.030
+und das System reagiert kontextbezogen.
+
+66
+00:02:39.970 --> 00:02:42.050
+Wenn der erste Entwurf noch nicht passt,
+
+67
+00:02:42.050 --> 00:02:44.170
+können sie nachjustieren, bis das
+
+68
+00:02:44.170 --> 00:02:46.850
+Ergebnis näher an ihrem Bedarf liegt.
+
+69
+00:02:46.850 --> 00:02:48.850
+Es ist an dieser Stelle hilfreich,
+
+70
+00:02:48.850 --> 00:02:50.970
+die Unterschiede zwischen offenen
+
+71
+00:02:50.970 --> 00:02:53.410
+und proprietären Lösungen zu kennen.
+
+72
+00:02:53.970 --> 00:02:57.010
+Offene Systeme wie Mistral oder Llama
+
+73
+00:02:57.010 --> 00:02:58.450
+können stärker an die eigenen
+
+74
+00:02:58.450 --> 00:03:00.650
+Bedürfnisse angepasst und lokal
+
+75
+00:03:00.650 --> 00:03:02.490
+betrieben werden, erfordern
+
+76
+00:03:02.490 --> 00:03:04.290
+aber oft mehr technisches Wissen.
+
+77
+00:03:05.260 --> 00:03:07.580
+Proprietäre Systeme wie ChatGPT
+
+78
+00:03:07.580 --> 00:03:09.180
+oder Gemini sind
+
+79
+00:03:09.180 --> 00:03:11.100
+meist einfacher zugänglich,
+
+80
+00:03:11.100 --> 00:03:13.380
+bieten kontinuierliche Updates und
+
+81
+00:03:13.380 --> 00:03:15.900
+benutzerfreundlichkeit erfordern jedoch
+
+82
+00:03:15.900 --> 00:03:17.740
+Vertrauen in externe Anbieter
+
+83
+00:03:17.740 --> 00:03:20.300
+und deren Datenschutzmaßnahmen.
+
+84
+00:03:20.300 --> 00:03:22.140
+Welche Lösung gewählt wird,
+
+85
+00:03:22.140 --> 00:03:24.180
+hängt stark von den Anforderungen
+
+86
+00:03:24.180 --> 00:03:25.820
+der jeweiligen Behörde ab.
+
+87
+00:03:28.780 --> 00:03:30.220
+Welche Vorteile hat das
+
+88
+00:03:30.220 --> 00:03:31.740
+nun im Verwaltungsalltag?
+
+89
+00:03:32.270 --> 00:03:33.150
+Vor allem geht es
+
+90
+00:03:33.150 --> 00:03:35.870
+Zeitersparnis bei Routineaufgaben.
+
+91
+00:03:35.870 --> 00:03:38.350
+Ein KI Tool kann dabei unterstützen,
+
+92
+00:03:38.350 --> 00:03:40.270
+Texte schneller zu erstellen,
+
+93
+00:03:40.270 --> 00:03:42.990
+Informationen zu ordnen und Inhalte
+
+94
+00:03:42.990 --> 00:03:44.990
+verständlich aufzubereiten.
+
+95
+00:03:44.990 --> 00:03:47.990
+Dabei ist aber wichtig: Künstliche Intelligenz
+
+96
+00:03:47.990 --> 00:03:50.270
+ersetzt keine Fachkenntnisse.
+
+97
+00:03:50.270 --> 00:03:52.830
+Sie liefert Vorschläge, die überprüft
+
+98
+00:03:52.830 --> 00:03:55.390
+und fachlich bewertet werden müssen.
+
+99
+00:03:55.390 --> 00:03:57.390
+Die Verantwortung bleibt beim Menschen.
+
+100
+00:03:58.130 --> 00:03:59.890
+Prüfen Sie daher die Ergebnisse
+
+101
+00:03:59.890 --> 00:04:01.410
+sorgfältig und passen
+
+102
+00:04:01.410 --> 00:04:02.930
+Sie diese bei Bedarf an.
+
+103
+00:04:07.250 --> 00:04:10.010
+Generative Künstliche Intelligenz kann
+
+104
+00:04:10.010 --> 00:04:11.370
+die Arbeit in der Verwaltung
+
+105
+00:04:11.370 --> 00:04:14.290
+erleichtern, indem sie Routineaufgaben
+
+106
+00:04:14.290 --> 00:04:16.890
+unterstützt, Texte schneller verfügbar
+
+107
+00:04:16.890 --> 00:04:19.329
+macht und Informationen strukturiert.
+
+108
+00:04:19.890 --> 00:04:21.769
+Voraussetzung für den sinnvollen
+
+109
+00:04:21.769 --> 00:04:23.850
+Einsatz ist immer eine kritische
+
+110
+00:04:23.850 --> 00:04:25.330
+Bewertung der Ergebnisse.

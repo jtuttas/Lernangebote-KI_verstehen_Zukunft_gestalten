@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Nutzung einfacher KI-Tools in der Verwaltung
+Angebotskennung: M2.2-09 
 
 ## Inhaltiche Gestaltung
 
@@ -7,19 +7,24 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Dieses Lernangebot vermittelt in kompakter Form, wie generative Künstliche Intelligenz (KI) im Verwaltungsalltag genutzt werden kann. Im Mittelpunkt steht der Einsatz einfacher Werkzeuge, die Routineaufgaben erleichtern, Texte aufbereiten und Informationen strukturieren. Sie lernen, zentrale Einsatzfelder und typische Herausforderungen einzuschätzen sowie KI-Tools und deren Ergebnisse verantwortungsvoll zu nutzen.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Einführung in generative KI-Tools (z. B. ChatGPT) und deren grundlegende Funktionen.
+* Nutzung von KI-Tools zur Textbearbeitung, einschließlich automatischem Generieren, Zusammenfassen und Bearbeiten von Texten (z. B. Berichte und Vermerke).
+* Anwendungsfelder in der Verwaltung, wie die Unterstützung bei der Vorbereitung von Korrespondenz (z. B. E-Mails) sowie Recherche und Analyse von Verwaltungstexten.
+* Integration einfacher KI-Tools in bestehende Prozesse, wie Datenextraktion aus Dokumenten mithilfe von OCR-gestützten KI-Systemen, automatische Übersetzung und Sentiment-Analyse für Verwaltungsinhalte.
+* Praktische Übungen zur Anwendung eines KI-Tools zur Textgenerierung, -überarbeitung oder semantischen Analyse/Strukturierung großer Textmengen.
+* Diskussion über die Chancen und Herausforderungen der Integration einfacher KI-Tools in Verwaltungsprozesse, insbesondere in Bezug auf Datenschutz und Akzeptanz.
+* Einsatz von KI zur Analyse komplexer Texte, wie beispielsweise Gerichtsurteile.
+
 
 **Lernziele**
 
-...
+Die Teilnehmenden lernen einfache KI-Tools kennen, die im Verwaltungsalltag hilfreich sind, und erwerben erste Fähigkeiten in deren Anwendung.
 
 **Format**
 
@@ -27,17 +32,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende in öffentlichen Verwaltungen aller Ebenen.
 
 **Voraussetzungen und Hinweise**
 
-...
+Vorkenntnisse zur Funktionsweise von Künstlicher Intelligenz sind hilfreich, aber nicht zwingend erforderlich.
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Script
+- [Videos](https://speicher.nibis.de/s/cyaDmFYBTBcjkM3)
 - Audiospur
 - Transkript
 
@@ -47,7 +52,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50787)**
 
 ## Contribution
 

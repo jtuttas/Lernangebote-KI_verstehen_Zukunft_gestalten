@@ -1,0 +1,601 @@
+WEBVTT
+
+1
+00:00:06.560 --> 00:00:07.600
+Anwendungsfelder von
+
+2
+00:00:07.600 --> 00:00:09.120
+KI in der Verwaltung.
+
+3
+00:00:09.680 --> 00:00:12.400
+Herzlich willkommen zu diesem Video.
+
+4
+00:00:12.400 --> 00:00:13.800
+Wir werfen einen Blick auf
+
+5
+00:00:13.800 --> 00:00:15.680
+die Integration generativer
+
+6
+00:00:15.680 --> 00:00:17.920
+KI in Verwaltungsprozesse.
+
+7
+00:00:20.240 --> 00:00:21.800
+Ein wichtiger Bereich ist die
+
+8
+00:00:21.800 --> 00:00:23.920
+Unterstützung bei der Korrespondenz
+
+9
+00:00:23.920 --> 00:00:26.080
+und bei wiederkehrenden Textaufgaben.
+
+10
+00:00:26.660 --> 00:00:29.300
+KI Tools können zum Beispiel beim Entwurf
+
+11
+00:00:29.300 --> 00:00:31.780
+von E Mails oder Anschreiben helfen
+
+12
+00:00:31.780 --> 00:00:34.020
+oder standardisierte Antworten auf
+
+13
+00:00:34.020 --> 00:00:36.500
+häufige Bürgeranfragen erzeugen.
+
+14
+00:00:36.500 --> 00:00:39.100
+Ein Beispiel: Sie möchten ein förmliches
+
+15
+00:00:39.100 --> 00:00:40.940
+Antwortschreiben an eine Bürgerin
+
+16
+00:00:40.940 --> 00:00:42.940
+verfassen, die eine Anfrage zu einer
+
+17
+00:00:42.940 --> 00:00:44.900
+Baugenehmigung gestellt hat.
+
+18
+00:00:44.900 --> 00:00:47.300
+Mit einem Prompt wie „Erstelle ein
+
+19
+00:00:47.300 --> 00:00:48.460
+sachlich förmliches
+
+20
+00:00:48.460 --> 00:00:50.580
+Antwortschreiben an eine Bürgerin.
+
+21
+00:00:50.580 --> 00:00:52.020
+Verwende dabei folgende Inhalte:
+
+22
+00:00:53.030 --> 00:00:55.390
+Antrag noch in Prüfung, Entscheidung
+
+23
+00:00:55.390 --> 00:00:57.350
+voraussichtlich kommenden Monat."
+
+24
+00:00:57.350 --> 00:00:59.790
+erstellt die KI einen Text, den Sie
+
+25
+00:00:59.790 --> 00:01:01.510
+anschließend anpassen können.
+
+26
+00:01:02.150 --> 00:01:04.069
+Ebenso können Protokolle von
+
+27
+00:01:04.069 --> 00:01:05.950
+Besprechungen automatisch
+
+28
+00:01:05.950 --> 00:01:08.390
+zusammengefasst und an die relevanten
+
+29
+00:01:08.390 --> 00:01:10.630
+Mitarbeitenden verteilt werden.
+
+30
+00:01:10.630 --> 00:01:12.950
+So gelangen die wichtigsten Informationen
+
+31
+00:01:12.950 --> 00:01:13.910
+schneller an die
+
+32
+00:01:13.910 --> 00:01:16.430
+richtigen Stellen und Routineaufgaben
+
+33
+00:01:16.430 --> 00:01:18.150
+werden spürbar vereinfacht.
+
+34
+00:01:21.420 --> 00:01:22.740
+Auch bei der Recherche und
+
+35
+00:01:22.740 --> 00:01:25.980
+Analyse von Verwaltungstexten können KI
+
+36
+00:01:25.980 --> 00:01:27.820
+Systeme unterstützen.
+
+37
+00:01:27.820 --> 00:01:30.300
+Sie können Dokumente durchsuchen und
+
+38
+00:01:30.300 --> 00:01:32.940
+zentrale Informationen herausfiltern.
+
+39
+00:01:33.500 --> 00:01:36.620
+Ein Beispiel Prompt könnte lauten: „Suche im
+
+40
+00:01:36.620 --> 00:01:38.700
+folgenden Bericht alle Stellen, die
+
+41
+00:01:38.700 --> 00:01:40.740
+sich auf Digitalisierungsvorhaben
+
+42
+00:01:40.740 --> 00:01:43.420
+beziehen und fasse sie zusammen."
+
+43
+00:01:43.420 --> 00:01:44.980
+Ein weiteres Beispiel ist die
+
+44
+00:01:44.980 --> 00:01:46.780
+Arbeit mit Gesetzestexten.
+
+45
+00:01:47.450 --> 00:01:50.130
+Ein Prompt könnte hier lauten: „Fasse die
+
+46
+00:01:50.130 --> 00:01:51.650
+wichtigsten Änderungen aus dem
+
+47
+00:01:51.650 --> 00:01:53.410
+folgenden Gesetzestext in
+
+48
+00:01:53.410 --> 00:01:55.450
+verständlicher Sprache zusammen."
+
+49
+00:01:56.010 --> 00:01:58.050
+Zusätzlich ist es möglich, zwei
+
+50
+00:01:58.050 --> 00:02:00.330
+Dokumente miteinander zu vergleichen
+
+51
+00:02:00.330 --> 00:02:02.890
+oder Neuerungen kenntlich zu machen.
+
+52
+00:02:02.890 --> 00:02:05.490
+Ein Beispiel Prompt wäre: „Vergleiche
+
+53
+00:02:05.490 --> 00:02:07.210
+die aktuelle Version dieses
+
+54
+00:02:07.210 --> 00:02:10.250
+Gesetzestextes mit der Vorversion und
+
+55
+00:02:10.250 --> 00:02:12.570
+markiere alle neuen Paragraphen
+
+56
+00:02:12.570 --> 00:02:14.490
+und geänderten Formulierungen."
+
+57
+00:02:17.900 --> 00:02:19.580
+Darüber hinaus lassen sich große
+
+58
+00:02:19.580 --> 00:02:21.660
+Textmengen mit Hilfe von künstlicher
+
+59
+00:02:21.660 --> 00:02:24.460
+Intelligenz strukturieren und auswerten.
+
+60
+00:02:24.460 --> 00:02:26.100
+So können häufige Themen in
+
+61
+00:02:26.100 --> 00:02:28.220
+Bürgeranfragen identifiziert
+
+62
+00:02:28.220 --> 00:02:30.619
+oder Rückmeldungen aus Befragungen
+
+63
+00:02:30.619 --> 00:02:33.180
+automatisch kategorisiert werden.
+
+64
+00:02:33.180 --> 00:02:36.100
+Ein passender Prompt wäre: „Analysiere die
+
+65
+00:02:36.100 --> 00:02:39.020
+folgenden 200 Rückmeldungen und fasse
+
+66
+00:02:39.020 --> 00:02:41.100
+die drei häufigsten Anliegen zusammen."
+
+67
+00:02:41.840 --> 00:02:42.640
+Weitere Beispiele wären:
+
+68
+00:02:42.640 --> 00:02:45.160
+„Kategorisiere die folgenden
+
+69
+00:02:45.160 --> 00:02:47.520
+Beschwerden nach Themenfeldern wie
+
+70
+00:02:47.520 --> 00:02:50.880
+Service, Wartezeiten oder Kommunikation."
+
+71
+00:02:50.880 --> 00:02:53.840
+oder „Erstelle aus den Antworten auf die
+
+72
+00:02:53.840 --> 00:02:56.360
+folgende Umfrage eine Übersicht mit den
+
+73
+00:02:56.360 --> 00:02:59.160
+wichtigsten Trends und ordne diese nach
+
+74
+00:02:59.160 --> 00:02:59.840
+Häufigkeit."
+
+75
+00:03:00.560 --> 00:03:02.320
+Ebenso lassen sich aus längeren
+
+76
+00:03:02.320 --> 00:03:04.720
+Dokumenten FAQs generieren, zum
+
+77
+00:03:04.720 --> 00:03:07.920
+Beispiel mit dem Prompt: „Erstelle aus dem PDF
+
+78
+00:03:07.920 --> 00:03:09.520
+Aufsichtspflicht in der Schule,
+
+79
+00:03:10.220 --> 00:03:12.740
+Rechtsgrundlagen Praxisbeispiele und
+
+80
+00:03:12.740 --> 00:03:15.740
+Exkurse zur Ersten Hilfe, eine FAQ
+
+81
+00:03:15.740 --> 00:03:18.220
+Liste mit den häufigsten Fragen und
+
+82
+00:03:18.220 --> 00:03:20.460
+kurzen, präzisen Antworten."
+
+83
+00:03:23.420 --> 00:03:25.060
+Ein weiterer Bereich ist die
+
+84
+00:03:25.060 --> 00:03:27.660
+technische Integration in Prozesse
+
+85
+00:03:27.660 --> 00:03:30.060
+mit OCR Texterkennung.
+
+86
+00:03:30.060 --> 00:03:32.500
+Aus eingescannten Dokumenten lassen
+
+87
+00:03:32.500 --> 00:03:35.180
+sich Papierunterlagen digitalisieren.
+
+88
+00:03:35.180 --> 00:03:37.260
+Die so erzeugten Textdateien
+
+89
+00:03:37.260 --> 00:03:39.300
+bilden die Grundlage für eine KI
+
+90
+00:03:39.300 --> 00:03:40.780
+gestützte Weiterverarbeitung,
+
+91
+00:03:41.460 --> 00:03:43.220
+etwa zur automatischen Erfassung
+
+92
+00:03:43.220 --> 00:03:45.220
+bestimmter Datenfelder.
+
+93
+00:03:45.220 --> 00:03:47.820
+Klassische OCR Systeme erkennen
+
+94
+00:03:47.820 --> 00:03:50.260
+zwar Zeichen und Wörter zuverlässig,
+
+95
+00:03:50.260 --> 00:03:52.100
+stoßen aber bei Tabellen,
+
+96
+00:03:52.100 --> 00:03:54.860
+komplexen Layouts oder Mischsprachen
+
+97
+00:03:54.860 --> 00:03:56.500
+schnell an ihre Grenzen.
+
+98
+00:03:56.500 --> 00:03:58.500
+Außerdem fehlt ihnen das Verständnis
+
+99
+00:03:58.500 --> 00:04:00.940
+für Kontext, zum Beispiel ob es sich bei
+
+100
+00:04:00.940 --> 00:04:03.540
+einem Abschnitt ein Adressfeld, ein
+
+101
+00:04:03.540 --> 00:04:06.020
+Datum oder eine Stundenangabe handelt.
+
+102
+00:04:07.230 --> 00:04:10.590
+KI-OCR Modelle wie MistralOCR
+
+103
+00:04:10.590 --> 00:04:11.870
+gehen darüber hinaus.
+
+104
+00:04:12.830 --> 00:04:14.710
+Sie kombinieren Texterkennung
+
+105
+00:04:14.710 --> 00:04:16.110
+mit Kontextanalyse.
+
+106
+00:04:17.550 --> 00:04:19.149
+Dadurch können sie Inhalte nicht
+
+107
+00:04:19.149 --> 00:04:20.950
+nur als reinen Text ausgeben,
+
+108
+00:04:20.950 --> 00:04:22.709
+sondern auch strukturieren und
+
+109
+00:04:22.709 --> 00:04:26.110
+kategorisieren, etwa Adressen,
+
+110
+00:04:26.110 --> 00:04:28.830
+Zeitangaben oder Tabellenzeilen.
+
+111
+00:04:28.830 --> 00:04:31.550
+So entstehen direkt nutzbare Formate,
+
+112
+00:04:31.550 --> 00:04:34.510
+(beispielsweise Tabellen, JSON Dateien),
+
+113
+00:04:34.510 --> 00:04:35.880
+die automatisch in
+
+114
+00:04:35.880 --> 00:04:37.800
+Datenbanken übernommen werden können.
+
+115
+00:04:40.840 --> 00:04:42.600
+Auch Übersetzungsdienste auf
+
+116
+00:04:42.600 --> 00:04:44.440
+Basis künstlicher Intelligenz
+
+117
+00:04:44.440 --> 00:04:46.200
+sind von großem Nutzen.
+
+118
+00:04:46.200 --> 00:04:48.240
+Texte können schnell in andere Sprachen
+
+119
+00:04:48.240 --> 00:04:50.759
+übertragen werden, die Kommunikation
+
+120
+00:04:50.759 --> 00:04:52.240
+mit Menschen unterschiedlicher
+
+121
+00:04:52.240 --> 00:04:53.960
+Sprachhintergründe zu erleichtern.
+
+122
+00:04:54.520 --> 00:04:57.320
+Ein passender Prompt wä Übersetze
+
+123
+00:04:57.320 --> 00:04:59.320
+den folgenden Bescheid ins Englische
+
+124
+00:04:59.320 --> 00:05:01.320
+in einem sachlich formellen Stil.
+
+125
+00:05:04.710 --> 00:05:06.390
+Darüber hinaus kann künstliche
+
+126
+00:05:06.390 --> 00:05:08.550
+Intelligenz eingesetzt werden,
+
+127
+00:05:08.550 --> 00:05:11.030
+Stimmungen und Meinungen zu erkennen.
+
+128
+00:05:11.030 --> 00:05:13.590
+Die sogenannte Sentiment Analyse
+
+129
+00:05:13.590 --> 00:05:15.390
+ermöglicht es, in Eltern oder
+
+130
+00:05:15.390 --> 00:05:18.310
+Bürgerfeedback positive oder negative
+
+131
+00:05:18.310 --> 00:05:21.190
+Einschätzungen automatisch zu erfassen.
+
+132
+00:05:21.190 --> 00:05:24.350
+Ein Analysiere die folgenden
+
+133
+00:05:24.350 --> 00:05:25.830
+Rückmeldungen und gib an,
+
+134
+00:05:25.830 --> 00:05:27.710
+wie viele davon positiv,
+
+135
+00:05:27.710 --> 00:05:29.670
+neutral oder negativ sind.
+
+136
+00:05:30.560 --> 00:05:33.240
+Ein weiteres Beispiel wäre: „Markiere in
+
+137
+00:05:33.240 --> 00:05:35.600
+den folgenden Kommentaren alle Sätze,
+
+138
+00:05:35.600 --> 00:05:37.920
+die besonders kritisch formuliert sind,
+
+139
+00:05:37.920 --> 00:05:39.000
+und gib eine kurze
+
+140
+00:05:39.000 --> 00:05:41.440
+Zusammenfassung der Hauptkritikpunkte."
+
+141
+00:05:44.160 --> 00:05:46.000
+Diese Beispiele verdeutlichen,
+
+142
+00:05:46.000 --> 00:05:47.160
+wie vielfältig die
+
+143
+00:05:47.160 --> 00:05:49.040
+Einsatzmöglichkeiten sind.
+
+144
+00:05:49.040 --> 00:05:51.720
+KI kann in der Verwaltung nicht nur Texte
+
+145
+00:05:51.720 --> 00:05:54.000
+generieren oder überarbeiten, sondern
+
+146
+00:05:54.000 --> 00:05:56.440
+auch Prozesse vereinfachen und große
+
+147
+00:05:56.440 --> 00:05:58.320
+Informationsmengen strukturieren.
+
+148
+00:05:58.910 --> 00:06:01.470
+Dabei gilt auch hier: Die Ergebnisse sind
+
+149
+00:06:01.470 --> 00:06:03.430
+Hilfsmittel und müssen durch Menschen
+
+150
+00:06:03.430 --> 00:06:05.230
+geprüft und verantwortet werden.
