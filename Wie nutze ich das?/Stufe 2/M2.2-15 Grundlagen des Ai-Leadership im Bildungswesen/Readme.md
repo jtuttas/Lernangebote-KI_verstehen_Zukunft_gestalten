@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Grundlagen des Ai-Leadership im Bildungswesen
+Angebotskennung: M2.2-15 
 
 ## Inhaltiche Gestaltung
 

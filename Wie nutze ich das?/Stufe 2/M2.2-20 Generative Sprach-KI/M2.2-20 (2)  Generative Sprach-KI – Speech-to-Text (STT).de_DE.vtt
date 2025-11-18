@@ -1,0 +1,573 @@
+WEBVTT
+
+1
+00:00:06.160 --> 00:00:08.000
+In diesem Modul vertiefen wir das
+
+2
+00:00:08.000 --> 00:00:12.080
+Wissen zu Speech-to-Text, kurz STT.
+
+3
+00:00:12.640 --> 00:00:14.440
+Sie lernen, welche Tools es
+
+4
+00:00:14.440 --> 00:00:16.280
+heute gibt und wie Sie diese
+
+5
+00:00:16.280 --> 00:00:17.840
+sinnvoll einsetzen können.
+
+6
+00:00:18.400 --> 00:00:20.560
+Nach Abschluss des Moduls können Sie
+
+7
+00:00:20.560 --> 00:00:23.840
+professionelle STT Lösungen benennen,
+
+8
+00:00:23.840 --> 00:00:25.800
+verschiedene Tools nutzen und
+
+9
+00:00:25.800 --> 00:00:26.760
+fundiert entscheiden, in
+
+10
+00:00:26.760 --> 00:00:29.120
+welchem Umfang STT in Ihrem
+
+11
+00:00:29.120 --> 00:00:31.160
+Arbeitsalltag einen Mehrwert bietet.
+
+12
+00:00:34.360 --> 00:00:38.200
+STT ist die Abkürzung für Speech-to-Text.
+
+13
+00:00:38.200 --> 00:00:40.560
+Gemeint sind alle computergestützten
+
+14
+00:00:40.560 --> 00:00:42.640
+Mechanismen, die gesprochene Sprache
+
+15
+00:00:42.640 --> 00:00:44.760
+in geschriebenen Text umwandeln.
+
+16
+00:00:44.760 --> 00:00:47.160
+Das wird oft auch Transkription genannt.
+
+17
+00:00:47.720 --> 00:00:49.920
+Solche Systeme gab es bereits lange
+
+18
+00:00:49.920 --> 00:00:52.280
+vor moderner KI, zum Beispiel als
+
+19
+00:00:52.280 --> 00:00:54.960
+Diktierhilfe oder als Unterstützung
+
+20
+00:00:54.960 --> 00:00:56.640
+für Menschen mit Einschränkungen.
+
+21
+00:00:57.360 --> 00:00:58.960
+Heute sind sie durch Künstliche
+
+22
+00:00:58.960 --> 00:01:01.040
+Intelligenz deutlich leistungsfähiger
+
+23
+00:01:01.040 --> 00:01:03.040
+geworden und fester Bestandteil
+
+24
+00:01:03.040 --> 00:01:04.720
+unseres digitalen Alltags.
+
+25
+00:01:07.840 --> 00:01:09.480
+Für Lehrkräfte eröffnet
+
+26
+00:01:09.480 --> 00:01:11.360
+das viele Möglichkeiten.
+
+27
+00:01:11.360 --> 00:01:13.640
+Anleitungen oder Vorträge können
+
+28
+00:01:13.640 --> 00:01:15.320
+als Unterrichtsmitschnitte
+
+29
+00:01:15.320 --> 00:01:16.960
+automatisch verschriftlicht werden,
+
+30
+00:01:17.580 --> 00:01:19.660
+inklusive Live Untertitel
+
+31
+00:01:19.660 --> 00:01:21.180
+allerdings nur, wenn die
+
+32
+00:01:21.180 --> 00:01:23.020
+Verarbeitung lokal erfolgt
+
+33
+00:01:23.020 --> 00:01:25.740
+und keine Sprachdaten an externe KI-
+
+34
+00:01:25.740 --> 00:01:27.020
+Dienste übermittelt werden.
+
+35
+00:01:27.740 --> 00:01:30.260
+Lernende können ihre eigenen Vorträge
+
+36
+00:01:30.260 --> 00:01:32.820
+lokal aufzeichnen und transkribieren
+
+37
+00:01:32.820 --> 00:01:34.820
+lassen und die Texte anschließend
+
+38
+00:01:34.820 --> 00:01:36.860
+für Hausarbeiten nutzen.
+
+39
+00:01:36.860 --> 00:01:39.420
+Auch inklusives Lernen wird gefördert,
+
+40
+00:01:39.420 --> 00:01:41.980
+da Sprache in Text transformiert wird
+
+41
+00:01:41.980 --> 00:01:44.460
+und so barrierefreie Zugänge entstehen.
+
+42
+00:01:45.320 --> 00:01:47.160
+In der Verwaltung können Protokolle
+
+43
+00:01:47.160 --> 00:01:48.960
+oder Notizen mit Einverständnis
+
+44
+00:01:48.960 --> 00:01:50.680
+aller Beteiligten ohne
+
+45
+00:01:50.680 --> 00:01:52.440
+großen Aufwand erstellt werden.
+
+46
+00:01:53.000 --> 00:01:54.480
+Sind Schülerinnen und Schüler
+
+47
+00:01:54.480 --> 00:01:56.760
+anwesend, sollte grundsätzlich auf
+
+48
+00:01:56.760 --> 00:01:58.520
+Aufzeichnungen verzichtet werden.
+
+49
+00:01:59.960 --> 00:02:01.360
+Die meisten Tools sind
+
+50
+00:02:01.360 --> 00:02:03.240
+nicht datenschutzkonform.
+
+51
+00:02:03.240 --> 00:02:04.880
+Sie sollten daher vor allem für
+
+52
+00:02:04.880 --> 00:02:06.520
+die eigene Vorbereitung oder
+
+53
+00:02:06.520 --> 00:02:08.360
+Nachbereitung genutzt werden.
+
+54
+00:02:08.360 --> 00:02:10.199
+Es gibt jedoch inzwischen einige
+
+55
+00:02:10.199 --> 00:02:13.150
+edukative KI-Plattformen, die Sprache zu
+
+56
+00:02:13.150 --> 00:02:16.430
+Textfunktionen DSGVO konform anbieten.
+
+57
+00:02:20.590 --> 00:02:23.030
+Vielleicht nutzen sie STT sogar
+
+58
+00:02:23.030 --> 00:02:24.670
+schon oft, ohne es zu wissen.
+
+59
+00:02:25.230 --> 00:02:26.630
+Viele Betriebssysteme haben
+
+60
+00:02:26.630 --> 00:02:28.189
+die Funktion integriert.
+
+61
+00:02:28.189 --> 00:02:30.310
+Windows bietet mit Windows Dictation
+
+62
+00:02:30.310 --> 00:02:32.510
+eine einfache Diktierfunktion.
+
+63
+00:02:32.510 --> 00:02:34.390
+Apple Geräte besitzen Apple
+
+64
+00:02:34.390 --> 00:02:36.310
+Dictation, das kurze Texte
+
+65
+00:02:36.310 --> 00:02:37.710
+sogar offline verarbeitet.
+
+66
+00:02:38.510 --> 00:02:40.950
+Android und Chrome OS ermöglichen
+
+67
+00:02:40.950 --> 00:02:42.950
+mit Google Voice Typing die
+
+68
+00:02:42.950 --> 00:02:45.390
+Eingabe über die Tastatur App.
+
+69
+00:02:45.390 --> 00:02:47.430
+Für Linux gibt es Open Source
+
+70
+00:02:47.430 --> 00:02:50.190
+Lösungen wie Simon oder Vosk.
+
+71
+00:02:50.190 --> 00:02:51.950
+Darüber hinaus enthalten viele
+
+72
+00:02:51.950 --> 00:02:55.150
+Programme eine ST-Funktionen.
+
+73
+00:02:55.150 --> 00:02:57.870
+Textverarbeitungsprogramme wie Word,
+
+74
+00:02:57.870 --> 00:03:00.350
+OpenOffice oder Google Docs haben
+
+75
+00:03:00.350 --> 00:03:02.510
+eingebaute Diktierfunktionen.
+
+76
+00:03:02.510 --> 00:03:05.950
+Videoeditoren wie Clipchamp, Camtasia
+
+77
+00:03:05.950 --> 00:03:08.390
+oder Premiere Pro transkribieren
+
+78
+00:03:08.390 --> 00:03:10.670
+automatisch für Untertitel.
+
+79
+00:03:10.670 --> 00:03:13.030
+Videokonferenzsysteme wie Microsoft
+
+80
+00:03:13.030 --> 00:03:15.390
+Teams, Zoom oder Google Meet
+
+81
+00:03:15.390 --> 00:03:17.150
+bieten Live Untertitel und
+
+82
+00:03:17.150 --> 00:03:19.310
+speichern komplette Transkripte.
+
+83
+00:03:19.310 --> 00:03:21.510
+Das bedeutet, Sie müssen oft keine
+
+84
+00:03:21.510 --> 00:03:23.790
+zusätzliche Software installieren.
+
+85
+00:03:23.790 --> 00:03:25.510
+Es lohnt sich, die vorhandenen
+
+86
+00:03:25.510 --> 00:03:27.630
+Möglichkeiten Ihres Systems zu prüfen.
+
+87
+00:03:30.760 --> 00:03:33.480
+Sie sehen, für Transkriptionen gibt es
+
+88
+00:03:33.480 --> 00:03:35.720
+bereits jede Menge praktische Online-
+
+89
+00:03:35.720 --> 00:03:38.080
+Dienste, allerdings sind sie für
+
+90
+00:03:38.080 --> 00:03:40.280
+den Unterricht hoch problematisch.
+
+91
+00:03:40.280 --> 00:03:42.680
+Fast alle arbeiten nicht DSGVO
+
+92
+00:03:42.680 --> 00:03:45.560
+konform, greifen Daten ab und speichern
+
+93
+00:03:45.560 --> 00:03:47.640
+diese auf Servern im Ausland.
+
+94
+00:03:47.640 --> 00:03:50.080
+Die Nutzung von Tools ist im Vorfeld
+
+95
+00:03:50.080 --> 00:03:52.760
+vom Datenschutzbeauftragten zu prüfen.
+
+96
+00:03:52.760 --> 00:03:54.600
+Grundsätzlich dürfen keine
+
+97
+00:03:54.600 --> 00:03:56.120
+personenbezogenen oder
+
+98
+00:03:56.120 --> 00:03:57.720
+personenbeziehbaren Daten
+
+99
+00:03:57.720 --> 00:03:59.480
+in KI eingegeben werden.
+
+100
+00:04:02.990 --> 00:04:04.870
+Für die private Nutzung oder zur
+
+101
+00:04:04.870 --> 00:04:06.590
+Unterrichtsvorbereitung können
+
+102
+00:04:06.590 --> 00:04:08.590
+Sie dennoch auf verschiedene Online
+
+103
+00:04:08.590 --> 00:04:09.870
+Dienste zurückgreifen.
+
+104
+00:04:10.510 --> 00:04:12.310
+Sie bieten oft leistungsstarke
+
+105
+00:04:12.310 --> 00:04:14.510
+Funktionen, erfordern aber in der Regel
+
+106
+00:04:14.510 --> 00:04:16.310
+ein Konto und sind daher nur
+
+107
+00:04:16.310 --> 00:04:18.510
+eingeschränkt kostenfrei nutzbar.
+
+108
+00:04:18.510 --> 00:04:21.709
+Einige Beispiele Dictation.io, Goodtape,
+
+109
+00:04:21.709 --> 00:04:25.150
+HappyScribe, Notta, Rev, Sonix,
+
+110
+00:04:25.150 --> 00:04:27.510
+Speechnotes, Speech to Text Cloud,
+
+111
+00:04:27.510 --> 00:04:30.590
+Spooxt, Talktyper und Transkriptor.
+
+112
+00:04:33.310 --> 00:04:36.150
+Die Gesetzeslage ist eindeutig. Stimmen und
+
+113
+00:04:36.150 --> 00:04:37.950
+Daten von Lernenden dürfen nicht
+
+114
+00:04:37.950 --> 00:04:40.270
+hochgeladen oder verarbeitet werden.
+
+115
+00:04:40.270 --> 00:04:42.550
+Sie können jedoch eigene Audioaufnahmen
+
+116
+00:04:42.550 --> 00:04:44.510
+wie Unterrichtskonzeptionen,
+
+117
+00:04:44.510 --> 00:04:47.590
+Anleitungen oder Ideen nutzen, etwa um
+
+118
+00:04:47.590 --> 00:04:50.030
+Unterrichtsmaterial vorzubereiten
+
+119
+00:04:50.030 --> 00:04:52.670
+oder Videos mit Untertiteln zu versehen.
+
+120
+00:04:53.450 --> 00:04:55.570
+Auch für Konferenzen oder Vorträge
+
+121
+00:04:55.570 --> 00:04:57.170
+bietet es sich an, nach
+
+122
+00:04:57.170 --> 00:04:59.290
+Einverständnis der Sprechenden die
+
+123
+00:04:59.290 --> 00:05:00.970
+Aufnahmen zu transkribieren.
+
+124
+00:05:01.530 --> 00:05:03.930
+Einige praxisnahe Einsatzideen.
+
+125
+00:05:04.490 --> 00:05:07.610
+Reflexionen mit TTS festhalten,
+
+126
+00:05:07.610 --> 00:05:09.210
+sofern die eingesprochene
+
+127
+00:05:09.210 --> 00:05:11.610
+Reflexion von der Lehrkraft stammt.
+
+128
+00:05:11.610 --> 00:05:13.730
+Untertitel zur Barrierefreiheit
+
+129
+00:05:13.730 --> 00:05:16.490
+erstellen, Konferenzen dokumentieren,
+
+130
+00:05:16.490 --> 00:05:18.610
+sofern keine Schülerinnen und Schüler
+
+131
+00:05:18.610 --> 00:05:20.320
+anwesend sind, Interviews
+
+132
+00:05:20.320 --> 00:05:22.520
+transkribieren, Fragebögen und
+
+133
+00:05:22.520 --> 00:05:25.680
+Arbeitsblätter anfertigen, Elternbriefe
+
+134
+00:05:25.680 --> 00:05:28.080
+schreiben, spontane Einfälle schriftlich
+
+135
+00:05:28.080 --> 00:05:31.760
+festhalten oder ein Lerntagebuch führen.
+
+136
+00:05:34.560 --> 00:05:37.640
+Für den Unterricht selbst gilt, nur lokal
+
+137
+00:05:37.640 --> 00:05:39.840
+installierte Programme dürfen eingesetzt
+
+138
+00:05:39.840 --> 00:05:42.160
+werden, also solche, bei denen die
+
+139
+00:05:42.160 --> 00:05:44.560
+Sprachdaten auf dem Gerät bleiben.
+
+140
+00:05:44.560 --> 00:05:47.820
+Einige kreative Möglichkeiten Kreatives
+
+141
+00:05:47.820 --> 00:05:50.260
+Schreiben durch Diktat, Reflexionen
+
+142
+00:05:50.260 --> 00:05:52.700
+am Stundenende und Sprachübungen
+
+143
+00:05:52.700 --> 00:05:54.740
+mit Fremdsprachentranskription.

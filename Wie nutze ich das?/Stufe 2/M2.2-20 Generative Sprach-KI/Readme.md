@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Generative Sprach-KI
+Angebotskennung: M2.2-20
 
 ## Inhaltiche Gestaltung
 
@@ -7,19 +7,23 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
+Dieses Lernangebot führt Lehrkräfte in die Grundlagen und Anwendung von Sprach-KI im Unterricht ein. Es beantwortet die Leitfrage: „Wie setze ich Sprach-KI sinnvoll, effektiv und datenschutzkonform in der Unterrichtsgestaltung ein?“. Sie lernen, wie Sprach-KI-gestützte Werkzeuge funktionieren, wie Sie diese zur Erstellung von Materialien, zur Gestaltung individueller Lernangebote oder zur Generierung kreativer Impulse nutzen können , und reflektieren die Chancen, Grenzen, rechtlichen Aspekte und Datenschutzrisiken.
 
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Grundlagen und Funktionsweise von Speech-to-Text (STT) und Text-to-Speech (TTS) 
+* Kreative Anwendungen im Schulalltag, wie das Erstellen von Podcasts oder eigenen Songs mit Sprach-KI 
+* Reflexion der Chancen (Effizienz, kreative Unterstützung) und Grenzen (Datenschutz, rechtliche Aspekte, Qualitätsprüfung) der Sprach-KI 
+* Zentrale rechtliche Aspekte: Datenschutz, Urheberrecht und Persönlichkeitsrecht 
+* Entwicklung eines eigenen Projekts mit Sprach-KI in einer Transferaufgabe
 
 **Lernziele**
 
-...
+Die Teilnehmenden lernen, was gängige Sprach-KIs sind und wie sie funktionieren. Sie erfahren, wie Prompting als zentrale Technik eingesetzt werden
+kann, um passende Antworten zu erhalten und Sprach-KIs effektiv als Werkzeug für kreative Ideen und Problemlösungen zu nutzen.
 
 **Format**
 
@@ -27,17 +31,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren).
 
 **Voraussetzungen und Hinweise**
 
-...
+Sie sollten über grundlegende digitale Kompetenzen, erste Erfahrungen mit Text- oder Sprachverarbeitung sowie Basiswissen zum Datenschutz verfügen. Technisch genügen ein Endgerät mit Browser, Internetzugang und der Zugriff auf eine freigegebene Sprach-KI
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Script
+- [Videos](https://speicher.nibis.de/s/2nCmymCFCAnYWBf)
 - Audiospur
 - Transkript
 
@@ -47,7 +51,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50783)**
 
 ## Contribution
 

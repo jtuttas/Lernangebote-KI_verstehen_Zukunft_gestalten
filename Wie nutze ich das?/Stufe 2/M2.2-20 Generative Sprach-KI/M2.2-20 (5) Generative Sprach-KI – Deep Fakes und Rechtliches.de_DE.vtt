@@ -1,0 +1,829 @@
+WEBVTT
+
+1
+00:00:06.560 --> 00:00:09.480
+Generative Sprach-KI, Deepfakes und
+
+2
+00:00:09.480 --> 00:00:13.680
+Rechtliches. In diesem Modul lernen
+
+3
+00:00:13.680 --> 00:00:16.279
+sie, Deepfakes und die Risiken von
+
+4
+00:00:16.279 --> 00:00:19.400
+Sprach-KI zu erkennen, den Umgang mit
+
+5
+00:00:19.400 --> 00:00:21.560
+manipulierten Inhalten kritisch zu
+
+6
+00:00:21.560 --> 00:00:24.040
+reflektieren und ihre Schülerinnen
+
+7
+00:00:24.040 --> 00:00:25.360
+und Schüler für einen
+
+8
+00:00:25.360 --> 00:00:27.200
+verantwortungsvollen Umgang mit
+
+9
+00:00:27.200 --> 00:00:29.520
+digitalen Medien zu sensibilisieren.
+
+10
+00:00:30.380 --> 00:00:32.940
+Sie erfahren nicht nur, wie man Deepfakes
+
+11
+00:00:32.940 --> 00:00:35.380
+erkennt, sondern auch, welche Gefahren
+
+12
+00:00:35.380 --> 00:00:37.580
+sie in politischen, sozialen oder
+
+13
+00:00:37.580 --> 00:00:39.820
+schulischen Kontexten darstellen können.
+
+14
+00:00:40.460 --> 00:00:41.980
+Darüber hinaus werden die
+
+15
+00:00:41.980 --> 00:00:43.620
+rechtlichen Aspekte der Nutzung
+
+16
+00:00:43.620 --> 00:00:45.820
+von Sprach-KI behandelt.
+
+17
+00:00:45.820 --> 00:00:47.980
+Sie lernen, welche Gesetze
+
+18
+00:00:47.980 --> 00:00:49.820
+(Urheberrecht, Datenschutz,
+
+19
+00:00:49.820 --> 00:00:52.020
+Persönlichkeitsrechte) für KI-
+
+20
+00:00:52.020 --> 00:00:54.060
+generierte Audiodateien relevant
+
+21
+00:00:54.060 --> 00:00:56.540
+sind, welche Dateien sie bedenkenlos
+
+22
+00:00:56.540 --> 00:00:59.040
+verwenden oder hochladen können und
+
+23
+00:00:59.040 --> 00:01:00.960
+wie sie sicherstellen, dass weder die
+
+24
+00:01:00.960 --> 00:01:02.960
+Rechte Dritter verletzt noch Daten
+
+25
+00:01:02.960 --> 00:01:05.000
+unkontrolliert in KI-Systeme
+
+26
+00:01:05.000 --> 00:01:05.840
+gelangen.
+
+27
+00:01:05.840 --> 00:01:07.760
+Dieses Wissen ermöglicht es ihnen,
+
+28
+00:01:07.760 --> 00:01:09.160
+Unterrichtseinheiten zu
+
+29
+00:01:09.160 --> 00:01:10.560
+gestalten, die sowohl
+
+30
+00:01:10.560 --> 00:01:12.800
+medienkritisch als auch rechtlich
+
+31
+00:01:12.800 --> 00:01:15.200
+abgesichert sind, und gleichzeitig
+
+32
+00:01:15.200 --> 00:01:16.280
+Lernende auf die
+
+33
+00:01:16.280 --> 00:01:18.360
+verantwortungsvolle Nutzung digitaler
+
+34
+00:01:18.360 --> 00:01:20.080
+Technologien vorzubereiten.
+
+35
+00:01:23.040 --> 00:01:25.160
+Ein Deepfake ist eine digital
+
+36
+00:01:25.160 --> 00:01:27.200
+manipulierte Darstellung von Audio,
+
+37
+00:01:27.750 --> 00:01:29.550
+Video oder Bildern, die so
+
+38
+00:01:29.550 --> 00:01:31.670
+täuschend echt wirkt, dass sie als
+
+39
+00:01:31.670 --> 00:01:33.910
+authentisch wahrgenommen wird.
+
+40
+00:01:33.910 --> 00:01:36.070
+Bei Sprach-KI bedeutet dies,
+
+41
+00:01:36.070 --> 00:01:38.310
+dass Stimmen synthetisch erzeugt oder
+
+42
+00:01:38.310 --> 00:01:40.670
+nachgeahmt werden, sodass falsche
+
+43
+00:01:40.670 --> 00:01:42.550
+Aussagen realistisch wirken.
+
+44
+00:01:43.110 --> 00:01:46.390
+Ein gefälschter Anruf des US-
+
+45
+00:01:46.390 --> 00:01:48.910
+Präsidenten Joe Biden, der Wähler
+
+46
+00:01:48.910 --> 00:01:50.350
+in New Hampshire manipulieren
+
+47
+00:01:50.350 --> 00:01:52.190
+sollte, wurde höchstwahrscheinlich
+
+48
+00:01:52.190 --> 00:01:53.830
+mit Sprach-KI erstellt.
+
+49
+00:01:54.400 --> 00:01:56.920
+Dies zeigt, dass Deepfakes politische
+
+50
+00:01:56.920 --> 00:01:59.040
+Prozesse gefährden und Vertrauen
+
+51
+00:01:59.040 --> 00:02:01.280
+in die Demokratie untergraben können.
+
+52
+00:02:04.400 --> 00:02:06.640
+Deepfakes lassen sich anhand bestimmter
+
+53
+00:02:06.640 --> 00:02:09.440
+Merkmale erkennen, die auf subtile oder
+
+54
+00:02:09.440 --> 00:02:12.080
+auffällige Manipulationen hinweisen.
+
+55
+00:02:12.080 --> 00:02:14.400
+Dazu gehören zunächst unregelmäßige
+
+56
+00:02:14.400 --> 00:02:16.520
+Lippenbewegungen, die oft nicht
+
+57
+00:02:16.520 --> 00:02:19.280
+perfekt zum gesprochenen Text passen.
+
+58
+00:02:19.280 --> 00:02:21.240
+Auch unnatürliche Blinzel- oder
+
+59
+00:02:21.240 --> 00:02:22.960
+Augenbewegungen können auffallen,
+
+60
+00:02:23.610 --> 00:02:26.130
+ebenso wie unrealistische Hauttöne,
+
+61
+00:02:26.130 --> 00:02:28.730
+Schatten oder Lichtreflexionen, die
+
+62
+00:02:28.730 --> 00:02:31.370
+in Videos inkonsistent wirken.
+
+63
+00:02:31.370 --> 00:02:33.770
+Bei Audio Deepfakes achten sie auf
+
+64
+00:02:33.770 --> 00:02:36.050
+ungewöhnliche Pausen, monotone
+
+65
+00:02:36.050 --> 00:02:38.810
+Intonation oder abweichende Akzente,
+
+66
+00:02:38.810 --> 00:02:40.970
+die nicht zum Sprecher passen.
+
+67
+00:02:40.970 --> 00:02:43.770
+Oft treten zudem logische Inkonsistenzen
+
+68
+00:02:43.770 --> 00:02:45.770
+im Inhalt auf, wie Aussagen,
+
+69
+00:02:45.770 --> 00:02:47.730
+die nicht zu vorherigen Aussagen
+
+70
+00:02:47.730 --> 00:02:49.610
+oder bekannten Fakten passen.
+
+71
+00:02:50.180 --> 00:02:52.060
+Das Ziel ist, die Lernenden für
+
+72
+00:02:52.060 --> 00:02:54.340
+diese Hinweise zu sensibilisieren,
+
+73
+00:02:54.340 --> 00:02:56.260
+damit sie kritisch hinterfragen,
+
+74
+00:02:56.260 --> 00:02:57.820
+ob Inhalte authentisch
+
+75
+00:02:57.820 --> 00:03:00.100
+sind oder manipuliert wurden.
+
+76
+00:03:00.100 --> 00:03:02.380
+Je häufiger sie üben, echte von
+
+77
+00:03:02.380 --> 00:03:04.980
+manipulierten Inhalten zu unterscheiden,
+
+78
+00:03:04.980 --> 00:03:06.780
+desto schneller entwickeln sie
+
+79
+00:03:06.780 --> 00:03:10.340
+ein intuitives Gespür für Deepfakes.
+
+80
+00:03:10.340 --> 00:03:12.940
+In Übungen mit Hörbeispielen lernen
+
+81
+00:03:12.940 --> 00:03:15.420
+Schülerinnen und Schüler, echte von
+
+82
+00:03:15.420 --> 00:03:17.880
+gefälschten Stimmen zu unterscheiden und
+
+83
+00:03:17.880 --> 00:03:19.840
+reflektieren, warum solche
+
+84
+00:03:19.840 --> 00:03:21.240
+Stimmen manipuliert werden.
+
+85
+00:03:21.800 --> 00:03:24.280
+So fördern sie Skepsis und kritisches
+
+86
+00:03:24.280 --> 00:03:26.840
+Denken im Umgang mit digitalen Inhalten.
+
+87
+00:03:31.000 --> 00:03:33.400
+Im Unterricht können sie in Gruppenarbeit
+
+88
+00:03:33.400 --> 00:03:36.240
+Szenarien analysieren, bei denen Stimmen
+
+89
+00:03:36.240 --> 00:03:39.000
+manipuliert werden, zum Beispiel Fake-
+
+90
+00:03:39.000 --> 00:03:42.200
+Anrufe, gefälschte politische Aussagen
+
+91
+00:03:42.200 --> 00:03:44.600
+oder manipulierte Schulnachrichten.
+
+92
+00:03:45.270 --> 00:03:47.030
+Schülerinnen und Schüler erstellen
+
+93
+00:03:47.030 --> 00:03:49.310
+Poster oder Rollenspiele,
+
+94
+00:03:49.310 --> 00:03:51.790
+die Anzeichen zu identifizieren und
+
+95
+00:03:51.790 --> 00:03:54.150
+Schutzstrategien zu entwickeln.
+
+96
+00:03:54.150 --> 00:03:55.990
+Ziel ist, dass sie erkennen,
+
+97
+00:03:55.990 --> 00:03:58.990
+wie Deepfakes eingesetzt werden, welche
+
+98
+00:03:58.990 --> 00:04:01.550
+Gefahren bestehen und welche Maßnahmen
+
+99
+00:04:01.550 --> 00:04:04.070
+sie ergreifen können, um sich zu schützen.
+
+100
+00:04:07.750 --> 00:04:10.630
+Sprach-KI kann gesellschaftliche und
+
+101
+00:04:10.630 --> 00:04:12.630
+ethische Fragestellungen aufwerfen.
+
+102
+00:04:13.470 --> 00:04:14.670
+Diskutieren Sie mit Ihrer Klasse:
+
+103
+00:04:15.550 --> 00:04:17.950
+Welche Auswirkungen haben Deepfakes
+
+104
+00:04:17.950 --> 00:04:20.510
+auf Politik, Medien und Alltag.
+
+105
+00:04:21.070 --> 00:04:23.110
+In Debatten erarbeiten die Lernenden
+
+106
+00:04:23.110 --> 00:04:25.030
+Pro und Contra Argumente und
+
+107
+00:04:25.030 --> 00:04:27.710
+entwickeln Leitfäden, um Deepfakes zu
+
+108
+00:04:27.710 --> 00:04:30.350
+erkennen und sich davor zu schützen.
+
+109
+00:04:30.350 --> 00:04:33.270
+Sie lernen, Quellen zu prüfen, skeptisch
+
+110
+00:04:33.270 --> 00:04:35.750
+zu bleiben, verdächtige Inhalte
+
+111
+00:04:35.750 --> 00:04:37.710
+kritisch zu hinterfragen und
+
+112
+00:04:37.710 --> 00:04:40.270
+verantwortungsvoll mit Medien umzugehen.
+
+113
+00:04:43.510 --> 00:04:46.310
+Bei der Nutzung von SprachKI müssen sie
+
+114
+00:04:46.310 --> 00:04:48.590
+besonders auf drei zentrale rechtliche
+
+115
+00:04:48.590 --> 00:04:52.950
+Aspekte achten: Erstens das Persönlichkeitsrecht,
+
+116
+00:04:52.950 --> 00:04:55.270
+das den Schutz der eigenen Stimme und
+
+117
+00:04:55.270 --> 00:04:58.070
+personenbezogener Daten gewährleistet.
+
+118
+00:04:58.070 --> 00:05:00.790
+Zweitens das Urheberrecht:
+
+119
+00:05:00.790 --> 00:05:04.110
+KI generierte Audiodateien unterliegen
+
+120
+00:05:04.110 --> 00:05:06.430
+keinem Urheberrecht, aber die
+
+121
+00:05:06.430 --> 00:05:09.960
+Ausgangsmaterialien, Texte, Musik und
+
+122
+00:05:09.960 --> 00:05:12.280
+oder Stimmen können geschützt sein.
+
+123
+00:05:12.280 --> 00:05:14.720
+Sie dürfen urheberrechtlich geschützte
+
+124
+00:05:14.720 --> 00:05:16.960
+Werke nur unter bestimmten Bedingungen
+
+125
+00:05:16.960 --> 00:05:19.600
+nutzen, zum Beispiel für den Unterricht
+
+126
+00:05:19.600 --> 00:05:21.320
+gemäß der Unterrichtsschranke.
+
+127
+00:05:22.600 --> 00:05:23.240
+Drittens der Datenschutz:
+
+128
+00:05:24.040 --> 00:05:25.360
+Jegliche Verarbeitung
+
+129
+00:05:25.360 --> 00:05:27.800
+personenbezogener Daten durch KI
+
+130
+00:05:27.800 --> 00:05:30.920
+muss DSGVO konform erfolgen.
+
+131
+00:05:30.920 --> 00:05:32.880
+Hochgeladene Dateien könnten als
+
+132
+00:05:32.880 --> 00:05:34.840
+Trainingsdaten genutzt werden.
+
+133
+00:05:34.840 --> 00:05:37.500
+Daher ist es wichtig, nur Materialien
+
+134
+00:05:37.500 --> 00:05:39.220
+zu verwenden, deren Rechte
+
+135
+00:05:39.220 --> 00:05:40.900
+und Datenschutz geklärt sind.
+
+136
+00:05:41.940 --> 00:05:43.620
+Durch die Beachtung dieser Aspekte
+
+137
+00:05:43.620 --> 00:05:45.780
+können sie KI Anwendungen sicher
+
+138
+00:05:45.780 --> 00:05:47.700
+und verantwortungsvoll in der
+
+139
+00:05:47.700 --> 00:05:49.700
+Unterrichtsvorbereitung einsetzen.
+
+140
+00:05:54.420 --> 00:05:56.980
+Sprach-KI-Systeme werden mit
+
+141
+00:05:56.980 --> 00:05:59.220
+riesigen Mengen an Daten trainiert,
+
+142
+00:05:59.220 --> 00:06:01.380
+die sogenannten Trainingsdaten.
+
+143
+00:06:02.190 --> 00:06:04.190
+Diese Daten stammen aus Texten,
+
+144
+00:06:04.190 --> 00:06:06.950
+Audiodateien oder Musikstücken, die von
+
+145
+00:06:06.950 --> 00:06:08.990
+den Anbietern gesammelt werden,
+
+146
+00:06:08.990 --> 00:06:12.190
+oft automatisiert durch Datamining.
+
+147
+00:06:12.190 --> 00:06:13.950
+Dabei werden sowohl öffentliche
+
+148
+00:06:13.950 --> 00:06:15.630
+Inhalte als auch Daten,
+
+149
+00:06:15.630 --> 00:06:17.870
+die Nutzende hochladen, analysiert,
+
+150
+00:06:18.390 --> 00:06:20.990
+um die KI auf Muster, Strukturen
+
+151
+00:06:20.990 --> 00:06:22.910
+und Sprachlogik zu trainieren.
+
+152
+00:06:23.630 --> 00:06:27.270
+Das hat zwei zentrale Konsequenzen: Erstens kann
+
+153
+00:06:27.270 --> 00:06:29.510
+die KI unbeabsichtigt Inhalte
+
+154
+00:06:29.510 --> 00:06:31.950
+reproduzieren, die urheberrechtlich
+
+155
+00:06:31.950 --> 00:06:33.710
+oder persönlich geschützt sind.
+
+156
+00:06:34.510 --> 00:06:36.510
+Zweitens besteht die Gefahr,
+
+157
+00:06:36.510 --> 00:06:38.590
+dass personenbezogene Informationen
+
+158
+00:06:38.590 --> 00:06:41.150
+in den Trainingsdaten genutzt werden und
+
+159
+00:06:41.150 --> 00:06:43.950
+Rechte Dritter verletzt werden könnten.
+
+160
+00:06:43.950 --> 00:06:45.830
+Daher ist es entscheidend, nur
+
+161
+00:06:45.830 --> 00:06:48.190
+rechtlich sichere Quellen zu verwenden,
+
+162
+00:06:48.190 --> 00:06:50.630
+Uploads genau zu prüfen und darauf
+
+163
+00:06:50.630 --> 00:06:52.630
+zu achten, dass die KI keine
+
+164
+00:06:52.630 --> 00:06:55.470
+personenbezogenen Daten verarbeitet.
+
+165
+00:06:55.470 --> 00:06:58.190
+Seriöse Anbieter setzen Filter ein,
+
+166
+00:06:58.190 --> 00:06:59.510
+um problematische Daten zu
+
+167
+00:06:59.510 --> 00:07:01.310
+erkennen und zu blockieren.
+
+168
+00:07:02.130 --> 00:07:04.050
+Für die Unterrichtsvorbereitung bedeutet
+
+169
+00:07:04.610 --> 00:07:06.850
+Nutzen Sie nur Inhalte, bei denen
+
+170
+00:07:06.850 --> 00:07:09.650
+Urheberrechte, Persönlichkeitsrechte
+
+171
+00:07:09.650 --> 00:07:11.810
+und Datenschutz gesichert sind,
+
+172
+00:07:11.810 --> 00:07:14.210
+und verwenden Sie nach Möglichkeit
+
+173
+00:07:14.210 --> 00:07:17.410
+eigene oder freie Materialien.
+
+174
+00:07:17.410 --> 00:07:18.850
+So können Sie die Vorteile
+
+175
+00:07:18.850 --> 00:07:21.170
+der Sprach-KI nutzen, ohne
+
+176
+00:07:21.170 --> 00:07:23.090
+rechtliche Risiken einzugehen.
+
+177
+00:07:26.130 --> 00:07:28.340
+In diesem Modul haben Sie gelernt,
+
+178
+00:07:28.340 --> 00:07:29.860
+Deepfakes und die Risiken
+
+179
+00:07:29.860 --> 00:07:31.700
+von Sprach-KI zu erkennen
+
+180
+00:07:31.700 --> 00:07:33.620
+und kritisch zu reflektieren.
+
+181
+00:07:34.340 --> 00:07:36.700
+Sie wissen nun, welche Merkmale
+
+182
+00:07:36.700 --> 00:07:39.140
+manipulierten Audio und Videoinhalten
+
+183
+00:07:39.140 --> 00:07:42.020
+aufzeigen, wie man Szenarien analysiert
+
+184
+00:07:42.020 --> 00:07:43.780
+und Schülerinnen und Schüler für
+
+185
+00:07:43.780 --> 00:07:45.580
+den verantwortungsvollen Umgang mit
+
+186
+00:07:45.580 --> 00:07:47.860
+digitalen Medien sensibilisiert.
+
+187
+00:07:48.500 --> 00:07:50.500
+Außerdem haben sie die rechtlichen
+
+188
+00:07:50.500 --> 00:07:53.540
+Aspekte Persönlichkeitsrechte
+
+189
+00:07:53.540 --> 00:07:54.900
+schützen die eigene Stimme
+
+190
+00:07:55.450 --> 00:07:57.130
+und personenbezogene Daten.
+
+191
+00:07:57.770 --> 00:07:59.610
+Dabei sind insbesondere die
+
+192
+00:07:59.610 --> 00:08:01.450
+Datenschutzvorgaben wie die
+
+193
+00:08:01.450 --> 00:08:03.850
+Datenschutzgrundverordnung einzuhalten.
+
+194
+00:08:04.410 --> 00:08:06.370
+Urheberrechte betreffen hingegen
+
+195
+00:08:06.370 --> 00:08:08.090
+die verwendeten Materialien und
+
+196
+00:08:08.090 --> 00:08:11.050
+Regeln, welche Texte, Bilder oder
+
+197
+00:08:11.050 --> 00:08:13.010
+Audiodateien genutzt oder
+
+198
+00:08:13.010 --> 00:08:15.370
+weiterverarbeitet werden dürfen.
+
+199
+00:08:15.370 --> 00:08:16.930
+Sie verstehen die Bedeutung der
+
+200
+00:08:16.930 --> 00:08:19.290
+Trainingsdaten für Sprach-KI
+
+201
+00:08:19.290 --> 00:08:21.090
+und wissen, nur rechtlich
+
+202
+00:08:21.090 --> 00:08:22.410
+sichere Quellen zu verwenden,
+
+203
+00:08:23.320 --> 00:08:25.200
+um rechtliche Risiken zu vermeiden.
+
+204
+00:08:25.760 --> 00:08:27.600
+Dieses Wissen befähigt Sie,
+
+205
+00:08:27.600 --> 00:08:28.960
+Unterrichtseinheiten
+
+206
+00:08:28.960 --> 00:08:30.680
+medienkritisch sicher und
+
+207
+00:08:30.680 --> 00:08:32.640
+verantwortungsvoll zu gestalten.

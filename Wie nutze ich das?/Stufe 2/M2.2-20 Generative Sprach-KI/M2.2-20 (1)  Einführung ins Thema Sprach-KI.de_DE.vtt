@@ -1,0 +1,441 @@
+WEBVTT
+
+1
+00:00:06.160 --> 00:00:07.640
+Willkommen zum ersten Video
+
+2
+00:00:07.640 --> 00:00:10.560
+über generative Sprach-KI.
+
+3
+00:00:10.560 --> 00:00:12.160
+Sprach-KI ist längst
+
+4
+00:00:12.160 --> 00:00:13.920
+keine Zukunftsmusik mehr.
+
+5
+00:00:13.920 --> 00:00:16.320
+Sie ist bereits heute ein vielseitiges
+
+6
+00:00:16.320 --> 00:00:18.160
+Werkzeug im Bildungsbereich.
+
+7
+00:00:18.160 --> 00:00:20.520
+In diesem Modul lernen Sie, welche
+
+8
+00:00:20.520 --> 00:00:22.080
+Technologien es gibt,
+
+9
+00:00:22.080 --> 00:00:24.480
+wie sie funktionieren und wo sie
+
+10
+00:00:24.480 --> 00:00:26.240
+sinnvoll eingesetzt werden können.
+
+11
+00:00:29.730 --> 00:00:32.689
+Sprach-KI oder sprachkünstliche
+
+12
+00:00:32.689 --> 00:00:35.410
+Intelligenz bezeichnet Technologien,
+
+13
+00:00:35.410 --> 00:00:36.690
+die gesprochene oder
+
+14
+00:00:36.690 --> 00:00:38.530
+geschriebene Sprache erkennen,
+
+15
+00:00:38.530 --> 00:00:40.610
+verarbeiten und erzeugen können.
+
+16
+00:00:41.890 --> 00:00:43.730
+Dazu gehören drei zentrale Bereiche:
+
+17
+00:00:44.610 --> 00:00:47.770
+Speech-to-Text, Text-to-Speech und
+
+18
+00:00:47.770 --> 00:00:49.650
+kreative Audiogenerierung.
+
+19
+00:00:52.700 --> 00:00:54.140
+Speech-to-Text wird auch
+
+20
+00:00:54.140 --> 00:00:55.740
+Spracherkennung genannt.
+
+21
+00:00:55.740 --> 00:00:57.580
+Hierbei wird gesprochene Sprache
+
+22
+00:00:57.580 --> 00:00:59.740
+automatisch in Text umgewandelt.
+
+23
+00:01:00.300 --> 00:01:02.300
+Beispiele sind die Transkription
+
+24
+00:01:02.300 --> 00:01:04.099
+von Interviews, Vorträgen
+
+25
+00:01:04.099 --> 00:01:06.140
+oder Unterrichtsmitschnitten.
+
+26
+00:01:06.140 --> 00:01:08.099
+Bestimmt kennen Sie diese Funktion auch
+
+27
+00:01:08.099 --> 00:01:10.540
+aus dem Umgang mit ihren Endgeräten.
+
+28
+00:01:10.540 --> 00:01:12.740
+Die vorhandene Diktierfunktion ist ein
+
+29
+00:01:12.740 --> 00:01:15.420
+klassisches Speech-to-Text System,
+
+30
+00:01:15.420 --> 00:01:18.020
+wie es beispielsweise bei Siri, Google
+
+31
+00:01:18.020 --> 00:01:20.860
+Assistant oder Cortana eingesetzt wird.
+
+32
+00:01:21.640 --> 00:01:23.880
+Über die reine Texterkennung hinaus
+
+33
+00:01:23.880 --> 00:01:26.320
+bildet diese Technologie die Grundlage
+
+34
+00:01:26.320 --> 00:01:28.120
+für viele weitere Anwendungen von
+
+35
+00:01:28.120 --> 00:01:30.560
+Sprach-KI, in Messengern zur
+
+36
+00:01:30.560 --> 00:01:33.640
+Sprachnachricht Transkription, bei Video
+
+37
+00:01:33.640 --> 00:01:36.080
+und Podcast Transkripten, für
+
+38
+00:01:36.080 --> 00:01:37.760
+automatische Untertitel in
+
+39
+00:01:37.760 --> 00:01:40.120
+Videoplattformen oder zur schnellen
+
+40
+00:01:40.120 --> 00:01:42.360
+Erstellung von Textnotizen aus
+
+41
+00:01:42.360 --> 00:01:44.120
+gesprochenem Input.
+
+42
+00:01:44.120 --> 00:01:46.920
+So zeigt sich, dass die Diktierfunktion
+
+43
+00:01:46.920 --> 00:01:49.000
+nicht nur die direkte Texteingabe
+
+44
+00:01:49.000 --> 00:01:50.740
+erleichtert, sondern Teil
+
+45
+00:01:50.740 --> 00:01:53.460
+eines breiten Spektrums von Sprach-KI
+
+46
+00:01:53.460 --> 00:01:55.940
+Anwendungen ist, die unsere digitale
+
+47
+00:01:55.940 --> 00:01:58.460
+Kommunikation effizienter machen.
+
+48
+00:02:02.220 --> 00:02:03.940
+Text-to-Speech, auch
+
+49
+00:02:03.940 --> 00:02:05.819
+Sprachsynthese genannt.
+
+50
+00:02:05.819 --> 00:02:08.460
+Hier nimmt sich die KI geschriebenen Text
+
+51
+00:02:08.460 --> 00:02:10.860
+und wandelt ihn in gesprochene Sprache um.
+
+52
+00:02:11.740 --> 00:02:14.180
+Diese Technologie kann genutzt werden,
+
+53
+00:02:14.180 --> 00:02:16.640
+um Lernmaterialien vorzulesen oder
+
+54
+00:02:16.640 --> 00:02:19.680
+fremdsprachliche Texte hörbar zu machen.
+
+55
+00:02:19.680 --> 00:02:21.360
+Diese Funktion eignet sich
+
+56
+00:02:21.360 --> 00:02:24.040
+hervorragend, um Themen niedrigschwellig
+
+57
+00:02:24.040 --> 00:02:25.680
+zugänglich zu machen.
+
+58
+00:02:25.680 --> 00:02:28.160
+Auch dieser Text, den Sie gerade hören,
+
+59
+00:02:28.160 --> 00:02:30.320
+wurde von einer KI eingesprochen.
+
+60
+00:02:31.040 --> 00:02:33.200
+Haben Sie es bis zu diesem Punkt bemerkt?
+
+61
+00:02:36.720 --> 00:02:38.560
+Kreative Audiogenerierung
+
+62
+00:02:38.560 --> 00:02:39.920
+geht einen Schritt weiter.
+
+63
+00:02:40.480 --> 00:02:43.080
+Mit Hilfe von KI lassen sich
+
+64
+00:02:43.080 --> 00:02:45.510
+Podcasts, Songs oder ganz
+
+65
+00:02:45.510 --> 00:02:47.510
+neue Audioinhalte gestalten.
+
+66
+00:02:47.510 --> 00:02:49.190
+Im Unterricht können Schülerinnen
+
+67
+00:02:49.190 --> 00:02:51.190
+und Schüler eigene Audioprojekte
+
+68
+00:02:51.190 --> 00:02:53.030
+entwickeln, vom Hörspiel
+
+69
+00:02:53.030 --> 00:02:55.510
+bis hin zu einem Schulpodcast.
+
+70
+00:02:55.510 --> 00:02:56.990
+Lehrkräfte wiederum können
+
+71
+00:02:56.990 --> 00:02:59.430
+kreative Inhalte produzieren,
+
+72
+00:02:59.430 --> 00:03:01.670
+um Themen anschaulicher zu erklären.
+
+73
+00:03:01.670 --> 00:03:04.310
+So wird Sprache zu einem flexiblen Medium
+
+74
+00:03:04.310 --> 00:03:06.630
+für Wissensvermittlung und Ausdruck.
+
+75
+00:03:09.430 --> 00:03:11.030
+Im Bildungsalltag lassen
+
+76
+00:03:11.030 --> 00:03:12.550
+sich diese Technologien sehr
+
+77
+00:03:12.550 --> 00:03:13.590
+unterschiedlich nutzen.
+
+78
+00:03:14.240 --> 00:03:16.160
+Mitschriften von Konferenzen oder
+
+79
+00:03:16.160 --> 00:03:18.200
+Diskussionen entstehen schneller
+
+80
+00:03:18.200 --> 00:03:20.160
+und barrierefreier als bei einer
+
+81
+00:03:20.160 --> 00:03:21.680
+handschriftlichen Notiz,
+
+82
+00:03:21.680 --> 00:03:23.920
+weil automatische Spracherkennung das
+
+83
+00:03:23.920 --> 00:03:26.480
+Gesagte direkt in Text umwandelt.
+
+84
+00:03:26.480 --> 00:03:28.560
+Arbeitsblätter oder Lerntexte
+
+85
+00:03:28.560 --> 00:03:30.480
+können automatisch vertont werden.
+
+86
+00:03:33.760 --> 00:03:36.120
+Bevor Sie Sprach-KI einsetzen,
+
+87
+00:03:36.120 --> 00:03:38.080
+sollten Sie sich fragen, welchen
+
+88
+00:03:38.080 --> 00:03:39.360
+Zweck Sie damit verfolgen.
+
+89
+00:03:40.110 --> 00:03:41.910
+Reicht die Qualität für meinen
+
+90
+00:03:41.910 --> 00:03:44.470
+angedachten Einsatz aus und welche
+
+91
+00:03:44.470 --> 00:03:46.910
+rechtlichen Aspekte muss ich beachten?
+
+92
+00:03:46.910 --> 00:03:47.950
+Bitte beachten Sie:
+
+93
+00:03:48.510 --> 00:03:50.710
+Die Nutzung von KI-Tools muss
+
+94
+00:03:50.710 --> 00:03:52.590
+immer vorab mit Ihrer oder
+
+95
+00:03:52.590 --> 00:03:54.390
+Ihrem Datenschutzbeauftragten
+
+96
+00:03:54.390 --> 00:03:55.709
+abgestimmt werden.
+
+97
+00:03:55.709 --> 00:03:57.990
+Es dürfen keine personenbezogenen
+
+98
+00:03:57.990 --> 00:03:59.630
+oder personenbeziehbaren
+
+99
+00:03:59.630 --> 00:04:00.830
+Daten eingegeben werden.
+
+100
+00:04:01.390 --> 00:04:03.790
+Sprach-KI kann fehlerhafte
+
+101
+00:04:03.790 --> 00:04:04.750
+Inhalte erzeugen.
+
+102
+00:04:05.800 --> 00:04:08.280
+Lehrkräfte sollten Lernende für einen
+
+103
+00:04:08.280 --> 00:04:10.440
+kritischen Umgang sensibilisieren.
+
+104
+00:04:11.000 --> 00:04:13.360
+In den nächsten Kapiteln schauen wir
+
+105
+00:04:13.360 --> 00:04:16.040
+uns die Technologien im Detail an.
+
+106
+00:04:16.040 --> 00:04:18.200
+Sie werden selbst erste Anwendungen
+
+107
+00:04:18.200 --> 00:04:19.880
+erproben und entdecken, wie
+
+108
+00:04:19.880 --> 00:04:22.400
+Speech-to-Text, Text-to-Speech
+
+109
+00:04:22.400 --> 00:04:24.520
+und kreative Audiogenerierung
+
+110
+00:04:24.520 --> 00:04:26.200
+ihre Arbeit bereichern können.

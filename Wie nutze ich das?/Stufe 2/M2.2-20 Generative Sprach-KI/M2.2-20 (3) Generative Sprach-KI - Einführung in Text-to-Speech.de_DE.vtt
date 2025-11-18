@@ -1,0 +1,605 @@
+WEBVTT
+
+1
+00:00:06.000 --> 00:00:07.560
+In diesem Modul Lernen Sie,
+
+2
+00:00:07.560 --> 00:00:11.200
+wie Text-to-Speech, kurz TTS,
+
+3
+00:00:11.200 --> 00:00:13.000
+funktioniert und wie Sie diese
+
+4
+00:00:13.000 --> 00:00:14.960
+Technologie im Bildungsbereich
+
+5
+00:00:14.960 --> 00:00:17.040
+sinnvoll einsetzen können.
+
+6
+00:00:17.040 --> 00:00:19.920
+Sie erfahren, wie Sie ein TTS-Tool
+
+7
+00:00:19.920 --> 00:00:22.360
+bedienen und wie Sie verschiedene Tools
+
+8
+00:00:22.360 --> 00:00:24.080
+vergleichen und bewerten können.
+
+9
+00:00:28.090 --> 00:00:29.810
+Nach Abschluss dieses Moduls
+
+10
+00:00:29.810 --> 00:00:31.770
+können Sie typische Anwendungsfälle
+
+11
+00:00:31.770 --> 00:00:34.170
+von TTS benennen und deren
+
+12
+00:00:34.170 --> 00:00:36.170
+Nutzen für Lernende beschreiben.
+
+13
+00:00:36.170 --> 00:00:38.810
+Sie sammeln erste praktische Erfahrungen,
+
+14
+00:00:38.810 --> 00:00:41.449
+wandeln Texte in gesprochene Sprache um
+
+15
+00:00:41.449 --> 00:00:42.890
+und lernen, verschiedene
+
+16
+00:00:42.890 --> 00:00:45.330
+TTS-Tools zu vergleichen und
+
+17
+00:00:45.330 --> 00:00:47.450
+für den Unterricht zu bewerten.
+
+18
+00:00:47.450 --> 00:00:49.890
+Übrigens wurde die Audioebene dieses
+
+19
+00:00:49.890 --> 00:00:52.490
+Videos auch mit Text-to-Speech erstellt.
+
+20
+00:00:55.670 --> 00:00:58.230
+Text-to-Speech ist eine Technologie,
+
+21
+00:00:58.230 --> 00:01:00.310
+die geschriebenen Text automatisch
+
+22
+00:01:00.310 --> 00:01:02.790
+in gesprochene Sprache umwandelt.
+
+23
+00:01:02.790 --> 00:01:05.750
+Diesen Prozess nennt man Sprachsynthese.
+
+24
+00:01:05.750 --> 00:01:08.390
+Er wurde ursprünglich entwickelt, um Inhalte
+
+25
+00:01:08.390 --> 00:01:10.790
+für mehr Menschen zugänglich zu machen.
+
+26
+00:01:10.790 --> 00:01:13.110
+Lernende können damit Texte hören,
+
+27
+00:01:13.110 --> 00:01:15.270
+das Hörverständnis wird trainiert,
+
+28
+00:01:15.270 --> 00:01:17.150
+neue Sprachen üben oder
+
+29
+00:01:17.150 --> 00:01:19.030
+Leseschwierigkeiten überwinden.
+
+30
+00:01:19.870 --> 00:01:22.790
+TTS ist besonders im inklusiven Lernen
+
+31
+00:01:22.790 --> 00:01:25.070
+nützlich, da es barrierefreien
+
+32
+00:01:25.070 --> 00:01:26.990
+Zugang zu Inhalten schaffen kann.
+
+33
+00:01:29.950 --> 00:01:32.990
+Moderne TTS Tools bieten natürliche
+
+34
+00:01:32.990 --> 00:01:35.230
+Stimmen, verschiedene Sprachen
+
+35
+00:01:35.230 --> 00:01:37.950
+und viele Anpassungsmöglichkeiten.
+
+36
+00:01:37.950 --> 00:01:39.390
+Dadurch können Lernende
+
+37
+00:01:39.390 --> 00:01:41.150
+individuell unterstützt werden.
+
+38
+00:01:41.870 --> 00:01:44.310
+Zusätzlich lassen sich Lerninhalte
+
+39
+00:01:44.310 --> 00:01:45.470
+auditiv aufbereiten,
+
+40
+00:01:46.150 --> 00:01:48.830
+Podcasts erstellen und Audioinhalte
+
+41
+00:01:48.830 --> 00:01:50.710
+für Präsentationen erzeugen.
+
+42
+00:01:53.670 --> 00:01:56.270
+Wir demonstrieren die Text-to-Speech
+
+43
+00:01:56.270 --> 00:01:57.990
+Technologie am Beispiel von
+
+44
+00:01:58.630 --> 00:02:01.070
+ElevenLabs, einem führenden Anbieter für
+
+45
+00:02:01.070 --> 00:02:03.990
+KI gestützte Audiotechnologie.
+
+46
+00:02:03.990 --> 00:02:05.950
+Neben der reinen Umwandlung von
+
+47
+00:02:05.950 --> 00:02:09.190
+Text in Sprache bietet ElevenLabs weitere
+
+48
+00:02:09.190 --> 00:02:11.110
+Funktionen, die auch für den
+
+49
+00:02:11.110 --> 00:02:12.870
+Bildungsbereich interessant sind.
+
+50
+00:02:13.570 --> 00:02:15.930
+Ein Voice Changer verändert bestehende
+
+51
+00:02:15.930 --> 00:02:18.330
+Stimmen, zum Beispiel um eine neutrale
+
+52
+00:02:18.330 --> 00:02:21.170
+oder kindgerechte Stimme zu erzeugen.
+
+53
+00:02:21.170 --> 00:02:24.250
+Dubbing bezeichnet die Nachvertonung, bei
+
+54
+00:02:24.250 --> 00:02:26.730
+der gesprochene Inhalte automatisch in
+
+55
+00:02:26.730 --> 00:02:28.850
+eine andere Sprache übertragen werden.
+
+56
+00:02:29.410 --> 00:02:31.610
+Voice Cloning ermöglicht es, eine
+
+57
+00:02:31.610 --> 00:02:33.730
+bestimmte Stimme nachzubilden.
+
+58
+00:02:33.730 --> 00:02:35.970
+Das kann eine eigene Stimme sein
+
+59
+00:02:35.970 --> 00:02:38.370
+oder eine vorgegebene Stimme.
+
+60
+00:02:38.370 --> 00:02:40.130
+Achten Sie an dieser Stelle auf
+
+61
+00:02:40.130 --> 00:02:41.970
+personenbezogene Rechte und Datenschutz.
+
+62
+00:02:42.810 --> 00:02:44.890
+Schließlich gibt es Text-to-SFX,
+
+63
+00:02:44.890 --> 00:02:46.970
+also die Erzeugung von Soundeffekten
+
+64
+00:02:46.970 --> 00:02:49.210
+auf Basis von Textbeschreibungen.
+
+65
+00:02:49.210 --> 00:02:52.410
+Diese Funktionen zeigen, dass moderne TTS
+
+66
+00:02:52.410 --> 00:02:54.410
+Systeme weit mehr leisten können
+
+67
+00:02:54.410 --> 00:02:56.650
+als nur das Vorlesen von Texten.
+
+68
+00:02:59.450 --> 00:03:02.330
+Öffnen Sie die Website von ElevenLabs.
+
+69
+00:03:02.330 --> 00:03:03.890
+Sie können die Sprachsynthese
+
+70
+00:03:03.890 --> 00:03:06.010
+direkt auf der Startseite ausprobieren,
+
+71
+00:03:06.010 --> 00:03:07.690
+ohne ein Konto anzulegen.
+
+72
+00:03:08.420 --> 00:03:10.900
+Wählen Sie zunächst die Sprache Deutsch
+
+73
+00:03:10.900 --> 00:03:12.980
+und eine passende Stimme.
+
+74
+00:03:12.980 --> 00:03:15.300
+Fügen Sie einen kurzen Beispieltext
+
+75
+00:03:15.300 --> 00:03:18.580
+ein und generieren Sie die Audiodatei.
+
+76
+00:03:18.580 --> 00:03:20.340
+Achten Sie darauf, wie sich
+
+77
+00:03:20.340 --> 00:03:22.420
+verschiedene Stimmen anhören.
+
+78
+00:03:22.420 --> 00:03:24.340
+Manche klingen sehr natürlich
+
+79
+00:03:24.340 --> 00:03:25.940
+andere eher künstlich.
+
+80
+00:03:26.500 --> 00:03:28.220
+Sie können auch längere Texte
+
+81
+00:03:28.220 --> 00:03:30.500
+einfügen und so testen, wie sich
+
+82
+00:03:30.500 --> 00:03:32.660
+Lesefluss und Betonung verändern.
+
+83
+00:03:33.220 --> 00:03:35.140
+Dieses praktische Ausprobieren
+
+84
+00:03:35.140 --> 00:03:37.860
+hilft Ihnen zu verstehen, wie TTS
+
+85
+00:03:37.860 --> 00:03:39.140
+im Unterricht wirken kann.
+
+86
+00:03:39.870 --> 00:03:41.030
+Haben Sie auch meine Stimme
+
+87
+00:03:41.030 --> 00:03:42.110
+in der Auswahl gefunden?
+
+88
+00:03:46.030 --> 00:03:48.030
+Neben ElevenLabs gibt es viele
+
+89
+00:03:48.030 --> 00:03:49.870
+andere TTS-Tools, die
+
+90
+00:03:49.870 --> 00:03:51.710
+unterschiedliche Stärken haben.
+
+91
+00:03:51.710 --> 00:03:54.430
+NaturalReader liest Texte und PDFs
+
+92
+00:03:54.430 --> 00:03:56.910
+vor und ist sehr benutzerfreundlich.
+
+93
+00:03:56.910 --> 00:03:59.670
+TTSReader ist kostenlos und besonders
+
+94
+00:03:59.670 --> 00:04:01.870
+für einfache Texte geeignet.
+
+95
+00:04:01.870 --> 00:04:04.750
+MicMonster bietet über 600 Stimmen
+
+96
+00:04:04.750 --> 00:04:07.640
+in 140 Sprachen und ist ideal
+
+97
+00:04:07.640 --> 00:04:10.040
+für internationale Lernsettings.
+
+98
+00:04:10.040 --> 00:04:12.320
+Vidnoz ermöglicht das Klonen
+
+99
+00:04:12.320 --> 00:04:14.120
+von Stimmen, sodass Sie eigene
+
+100
+00:04:14.120 --> 00:04:16.120
+Sprachaufnahmen imitieren können.
+
+101
+00:04:16.839 --> 00:04:19.880
+TTS Free Online ist kostenlos
+
+102
+00:04:19.880 --> 00:04:22.120
+und ohne Account nutzbar.
+
+103
+00:04:22.120 --> 00:04:25.160
+Wichtig ist, dass Sie das Tool auswählen,
+
+104
+00:04:25.160 --> 00:04:27.480
+das zu Ihrem didaktischen Ziel passt,
+
+105
+00:04:27.480 --> 00:04:30.200
+sei es barrierefreie Vorlesefunktion,
+
+106
+00:04:30.200 --> 00:04:32.400
+kreativer Audioeinsatz
+
+107
+00:04:32.400 --> 00:04:34.480
+oder internationale Verständlichkeit.
+
+108
+00:04:36.160 --> 00:04:37.560
+Bitte lassen Sie das Tool von
+
+109
+00:04:37.560 --> 00:04:38.560
+Ihrem Datenschutz-
+
+110
+00:04:38.560 --> 00:04:40.920
+und Informationssicherheitsbeauftragten
+
+111
+00:04:40.920 --> 00:04:42.880
+prüfen und denken Sie daran,
+
+112
+00:04:42.880 --> 00:04:44.760
+dass grundsätzlich keinerlei
+
+113
+00:04:44.760 --> 00:04:46.400
+personenbezogene oder
+
+114
+00:04:46.400 --> 00:04:49.960
+personenbeziehbare Daten in KI-Systeme
+
+115
+00:04:49.960 --> 00:04:51.440
+eingegeben werden dürfen.
+
+116
+00:04:54.800 --> 00:04:57.000
+TTS kann Unterricht
+
+117
+00:04:57.000 --> 00:04:58.730
+vielfältig bereichern.
+
+118
+00:04:58.730 --> 00:05:01.050
+Lerninhalte lassen sich auditiv
+
+119
+00:05:01.050 --> 00:05:03.250
+aufbereiten, sodass Schülerinnen und
+
+120
+00:05:03.250 --> 00:05:05.850
+Schüler Texte nicht nur lesen, sondern
+
+121
+00:05:05.850 --> 00:05:08.570
+zusätzlich oder parallel auch hören.
+
+122
+00:05:08.570 --> 00:05:10.970
+Sie können Hörbücher oder Podcasts
+
+123
+00:05:10.970 --> 00:05:13.090
+erstellen lassen, was den Unterricht
+
+124
+00:05:13.090 --> 00:05:15.050
+abwechslungsreicher macht.
+
+125
+00:05:15.050 --> 00:05:16.930
+TTS eignet sich außerdem
+
+126
+00:05:16.930 --> 00:05:18.490
+für Sprachübungen.
+
+127
+00:05:18.490 --> 00:05:20.090
+Lernende können sich Texte
+
+128
+00:05:20.090 --> 00:05:21.850
+in einer Fremdsprache anhören
+
+129
+00:05:21.850 --> 00:05:23.530
+und parallel mitlesen.
+
+130
+00:05:24.100 --> 00:05:26.420
+Auch im inklusiven Unterricht ist TTS
+
+131
+00:05:26.420 --> 00:05:28.380
+wertvoll, weil es Lernbarrieren
+
+132
+00:05:28.380 --> 00:05:30.500
+senkt und einen gleichberechtigten
+
+133
+00:05:30.500 --> 00:05:32.420
+Zugang zu Inhalten ermöglicht.
+
+134
+00:05:34.980 --> 00:05:36.660
+Überlegen Sie, welche
+
+135
+00:05:36.660 --> 00:05:39.780
+Einsatzmöglichkeiten von TTS für Ihre
+
+136
+00:05:39.780 --> 00:05:41.940
+Unterrichtspraxis sinnvoll sind.
+
+137
+00:05:42.500 --> 00:05:45.660
+Fragen Sie, welche Materialien eignen
+
+138
+00:05:45.660 --> 00:05:48.180
+sich besonders für eine Vertonung?
+
+139
+00:05:48.180 --> 00:05:49.940
+Welche Tools sind für Ihre
+
+140
+00:05:49.940 --> 00:05:51.540
+Lernenden leicht zugänglich?
+
+141
+00:05:52.510 --> 00:05:54.550
+Probieren Sie unterschiedliche Stimmen
+
+142
+00:05:54.550 --> 00:05:57.230
+und Formate aus und reflektieren Sie,
+
+143
+00:05:57.230 --> 00:05:59.790
+wie Sie den Lernprozess unterstützen.
+
+144
+00:05:59.790 --> 00:06:03.070
+Sie können TTS zum Beispiel nutzen,
+
+145
+00:06:03.070 --> 00:06:04.790
+um Arbeitsblätter vorzulesen,
+
+146
+00:06:04.790 --> 00:06:07.190
+Lernpodcasts zu erstellen oder
+
+147
+00:06:07.190 --> 00:06:10.190
+Reflexionsaufgaben auditiv anzubieten,
+
+148
+00:06:10.190 --> 00:06:11.830
+etwa indem die Lernenden
+
+149
+00:06:11.830 --> 00:06:13.750
+Fragen oder Impulse anhören
+
+150
+00:06:13.750 --> 00:06:15.550
+und ihre Antworten anschließend
+
+151
+00:06:15.550 --> 00:06:16.590
+schriftlich festhalten.
