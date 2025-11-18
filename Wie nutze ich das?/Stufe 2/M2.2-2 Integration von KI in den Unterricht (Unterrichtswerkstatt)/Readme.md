@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Integration von KI in den Unterricht (Unterrichtswerkstatt)Integration von KI in den Unterricht (Unterrichtswerkstatt)
+Angebotskennung: M2.2-2
 
 ## Inhaltiche Gestaltung
 
@@ -19,7 +19,7 @@ Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
 **Lernziele**
 
-...
+Lehrkräfte sollen in der Lage sein, KI-Technologien gezielt in ihren Unterricht zu integrieren, um den Lernprozess zu optimieren und zu individualisieren.
 
 **Format**
 
@@ -36,8 +36,8 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos]()
 - Audiospur
 - Transkript
 

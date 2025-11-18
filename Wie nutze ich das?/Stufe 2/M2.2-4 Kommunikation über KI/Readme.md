@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Kommunikation über KI
+Angebotskennung: M2.2-4
 
 ## Inhaltiche Gestaltung
 
@@ -19,7 +19,7 @@ Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
 **Lernziele**
 
-...
+Lehrkräfte sollen befähigt werden, effektiv mit Schülern über KI-Technologien zu kommunizieren und deren Verständnis zu fördern.
 
 **Format**
 
@@ -36,8 +36,8 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos]()
 - Audiospur
 - Transkript
 
