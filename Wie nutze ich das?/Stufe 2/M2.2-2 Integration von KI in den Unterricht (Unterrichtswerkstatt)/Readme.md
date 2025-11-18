@@ -37,7 +37,7 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 - Texte
 - Skript
-- [Videos]()
+- [Videos](https://speicher.nibis.de/s/QLZMTHfomxm28BG)
 - Audiospur
 - Transkript
 

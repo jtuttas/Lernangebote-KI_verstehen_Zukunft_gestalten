@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# KI als Planungsbuddy -  KI als Ideengeber für Unterrichtsplanung
+Angebotskennung: M2.2-7
 
 ## Inhaltiche Gestaltung
 
@@ -37,7 +37,7 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 - Texte
 - Skript
-- [Videos]()
+- [Videos](https://speicher.nibis.de/s/miAgBNTDF4Ha7FJ)
 - Audiospur
 - Transkript
 

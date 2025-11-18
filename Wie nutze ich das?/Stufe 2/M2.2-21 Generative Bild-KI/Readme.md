@@ -36,8 +36,8 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos](https://speicher.nibis.de/s/BEMsq9mWcttnSoq)
 - Audiospur
 - Transkript
 
