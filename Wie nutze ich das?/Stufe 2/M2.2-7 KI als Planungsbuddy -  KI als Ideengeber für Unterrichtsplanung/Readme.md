@@ -7,15 +7,17 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Die Teilnehmenden lernen, wie textgenerierende KI-Tools als Unterstützung bei der Unterrichtsplanung eingesetzt werden können. Sie erfahren, wie die Tools als Ideengeber, Strukturhilfe und Inspirationsquelle genutzt werden können, um kreative und effektive Unterrichtseinheiten zu gestalten. Zudem entwickeln Sie die Fähigkeit, KI-Vorschläge kritisch zu bewerten, zu reflektieren und für die eigene Praxis nutzbar zu machen.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Ideenfindung und Kreativität: Unterstützung bei der Entwicklung von Unterrichtsthemen, kreativen Einstiegen, Projektideen und differenzierten Aufgabenstellungen.
+* Strukturierung von Unterrichtseinheiten: Erstellung von Stundenverläufen, Zeitplänen, Lernzielen und methodischen Vorschlägen.
+* Unterstützung bei der Materialerstellung: Automatisierte Generierung von Arbeitsaufträgen, Quizfragen, Feedbackbögen und Reflexionsaufgaben.
+* Praxisorientierte Anwendungen: Entwurf von Unterrichtssequenzen zu spezifischen Themen und Vorschläge für alternative Ansätze in bestehenden Planungen.
+* Chancen und Reflexion: Diskussion über die Möglichkeiten und Grenzen der KI-Nutzung, mit Fokus auf Verantwortung, Anpassung und pädagogische Standards.
 
 **Lernziele**
 
@@ -27,11 +29,11 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). Das Modul ist auf einem mittleren Niveau angesiedelt und richtet sich an Lehrkräfte, die ihre Kompetenzen erweitern möchten.
 
 **Voraussetzungen und Hinweise**
 
-...
+Grundlegende KI Kenntnisse sind erforderlich.
 
 ## Bestandteile des Angebots
 
