@@ -7,15 +7,17 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Dieser Kurs beschäftigt sich mit der Frage, wie Künstliche Intelligenz als „Planungsbuddy“ in der Unterrichtsgestaltung genutzt werden kann. Unterricht zu planen erfordert Zeit und Kreativität – von der Themenwahl über die Lernzielformulierung bis hin zur Materialerstellung. Die Teilnehmenden lernen, wie KI-Tools hierbei entlasten können, indem sie neue Ideen liefern, Strukturen vorschlagen und Materialien generieren. Ein zentraler Bestandteil des Kurses ist die Entwicklung der Fähigkeit, KI-Vorschläge kritisch zu bewerten, zu reflektieren und pädagogisch sinnvoll an die eigene Lerngruppe anzupassen.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Ideenfindung und Kreativität: Nutzung von KI zur Entwicklung neuer Themenvorschläge, kreativer Einstiege, Projektideen und differenzierter Aufgabenstellungen.
+* Strukturierung von Unterrichtseinheiten: Erstellung von Entwürfen für Stundenverläufe, Zeitpläne, Lernziele und methodische Abläufe.
+* Unterstützung bei der Materialerstellung: Automatisierte Generierung und Anpassung von Arbeitsaufträgen, Quizfragen, Feedbackbögen und Reflexionsaufgaben.
+* Praxisorientierte Anwendungen: Entwicklung konkreter Unterrichtssequenzen, Simulationen und alternativer Szenarien zur Optimierung bestehender Planungen.
+* Chancen und Reflexion: Auseinandersetzung mit den Grenzen der KI, Qualitätssicherung (Vermeidung von „Halluzinationen“), Datenschutz und ethischen Aspekten.
 
 **Lernziele**
 
@@ -27,11 +29,11 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal). Es spricht insbesondere Lehrkräfte an, die ihre Kompetenzen erweitern möchten und bereits über ein mittleres Niveau im Umgang mit digitalen Tools verfügen.
 
 **Voraussetzungen und Hinweise**
 
-...
+KI Kompetenzen der Stufe 2 sind empfehlenswert.
 
 ## Bestandteile des Angebots
 
@@ -47,7 +49,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50792)**
 
 ## Contribution
 
