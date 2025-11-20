@@ -7,15 +7,17 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Das Lernangebot „Kommunikation über KI“ zeigt praxisnah, wie Lehrkräfte aller Schulen und Schultypen mit Schülerinnen und Schülern offen, reflektiert und fächerübergreifend über Künstliche Intelligenz sprechen können. Es stellt konkrete Methoden wie Kartentausch, Rollenspiele, Think-Pair-Share und Stationenlernen vor und gibt Beispiele für den Einsatz in verschiedenen Fächern. Ziel ist es, Lehrkräfte zu befähigen, KI-Themen sicher, kreativ und kritisch im Unterricht einzusetzen, offene Gesprächsanlässe zu schaffen und einen konstruktiven Diskurs über die gesellschaftlichen Auswirkungen zu fördern.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Kennenlernen fächerübergreifender Muster und Techniken der Gesprächsführung mit Schülerinnen und Schülern (z. B. Kartentausch, Think-Pair-Share, Rollenspiele)
+* Methoden zur Förderung eines kritischen Diskurses über KI in der Gesellschaft (z. B. Fishbowl-Diskussion, KI-Ethik-Tribunale, Bias-Labore)
+* Berücksichtigung aktueller curriculaler Vorgaben und Kompetenzkataloge (z. B. KMK-Handlungsempfehlungen, KI-Kompetenzmodell)
+* Entwicklung von konkreten Unterrichtsszenarien, die grundlegende KI-Konzepte vermitteln und reflektieren (z. B. Stationenlernen)
+* Praktische Übungen und Beispiele, um Lernenden ein realistisches Verständnis der Möglichkeiten und Grenzen von KI zu vermitteln
 
 **Lernziele**
 
@@ -27,11 +29,11 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal). Es spricht insbesondere Lehrkräfte aller Schulformen an, die KI-Themen fächerübergreifend integrieren möchten.
 
 **Voraussetzungen und Hinweise**
 
-...
+Für die Durchführung dieses Angebots sind fortgeschrittene Kenntnisse zu KI mpfehlenswert (Kompetenzstufe 2).
 
 ## Bestandteile des Angebots
 
