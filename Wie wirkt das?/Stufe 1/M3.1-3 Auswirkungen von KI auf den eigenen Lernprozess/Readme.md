@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Auswirkungen von KI auf den eigenen Lernprozess
+Angebotskennung: M3.1-3
 
 ## Inhaltiche Gestaltung
 
@@ -47,7 +47,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50780)**
 
 ## Contribution
 
