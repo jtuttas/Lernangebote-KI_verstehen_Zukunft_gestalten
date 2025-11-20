@@ -1,0 +1,553 @@
+WEBVTT
+
+1
+00:00:07.120 --> 00:00:08.400
+Willkommen im Video.
+
+2
+00:00:08.400 --> 00:00:10.000
+Grafiken erzeugen -
+
+3
+00:00:10.000 --> 00:00:10.720
+Tools.
+
+4
+00:00:13.520 --> 00:00:15.680
+Das Angebot an generierenden
+
+5
+00:00:15.680 --> 00:00:18.160
+Bild-KI-Tools erweitert sich stetig.
+
+6
+00:00:18.680 --> 00:00:20.600
+Um die verschiedenen Werkzeuge sinnvoll
+
+7
+00:00:20.600 --> 00:00:22.480
+zu vergleichen, können zentrale
+
+8
+00:00:22.480 --> 00:00:24.800
+Kriterien herangezogen werden.
+
+9
+00:00:24.800 --> 00:00:27.040
+Ist das Tool benutzerfreundlich?
+
+10
+00:00:27.700 --> 00:00:29.700
+Ist eine Anmeldung erforderlich?
+
+11
+00:00:29.700 --> 00:00:31.620
+Welche Kosten fallen an?
+
+12
+00:00:31.620 --> 00:00:33.940
+Wie hoch ist die Ergebnisqualität?
+
+13
+00:00:33.940 --> 00:00:36.020
+Wie groß ist die Stilvielfalt?
+
+14
+00:00:37.460 --> 00:00:39.420
+Je nach Einsatzkontext lassen
+
+15
+00:00:39.420 --> 00:00:41.940
+sich die Tools zudem in unterschiedliche
+
+16
+00:00:41.940 --> 00:00:43.300
+Kategorien einordnen.
+
+17
+00:00:43.860 --> 00:00:45.980
+Ist das Tool alltagstauglich für
+
+18
+00:00:45.980 --> 00:00:48.420
+schnelle Unterrichtsvisualisierungen?
+
+19
+00:00:48.420 --> 00:00:51.380
+Bietet es Kreativität für experimentelle
+
+20
+00:00:51.380 --> 00:00:53.060
+oder künstlerische Ansprüche?
+
+21
+00:00:53.910 --> 00:00:55.750
+Ist es rechtssicher für Datenschutz
+
+22
+00:00:55.750 --> 00:00:58.070
+und lizenzkonforme Nutzung?
+
+23
+00:00:58.070 --> 00:00:59.910
+Bietet es als Open Source
+
+24
+00:00:59.910 --> 00:01:01.390
+Angebot die Möglichkeit zur
+
+25
+00:01:01.390 --> 00:01:02.630
+eigenen Weiterentwicklung.
+
+26
+00:01:05.510 --> 00:01:08.430
+DALL-E 3 von OpenAI bietet eine
+
+27
+00:01:08.430 --> 00:01:10.310
+einfache Handhabung, schnelle
+
+28
+00:01:10.310 --> 00:01:12.790
+Ergebnisse und gute Stilvielfalt.
+
+29
+00:01:12.790 --> 00:01:14.870
+Es ist oft direkt in Dienste wie
+
+30
+00:01:14.870 --> 00:01:17.510
+edukative Plattformen wie Fobizz und
+
+31
+00:01:17.510 --> 00:01:20.100
+SchulKI integriert, sodass keine
+
+32
+00:01:20.100 --> 00:01:22.380
+zusätzliche Software nötig ist.
+
+33
+00:01:22.380 --> 00:01:24.380
+Daher eignet es sich besonders für
+
+34
+00:01:24.380 --> 00:01:26.140
+Schulen ohne große technische
+
+35
+00:01:26.140 --> 00:01:28.820
+Ausstattung, die unkompliziert visuelle
+
+36
+00:01:28.820 --> 00:01:30.540
+Materialien erzeugen wollen.
+
+37
+00:01:31.033 --> 00:01:32.220
+Hinweis:
+
+38
+00:01:32.220 --> 00:01:35.980
+Auch ChatGPT greift auf DALL-E zurück.
+
+39
+00:01:35.980 --> 00:01:37.980
+Hier ist allerdings anzumerken, dass
+
+40
+00:01:37.980 --> 00:01:39.940
+eine Nutzung von ChatGPT aus
+
+41
+00:01:39.940 --> 00:01:41.900
+Datenschutzgründen in deutschen Schulen
+
+42
+00:01:41.900 --> 00:01:43.820
+nur sehr eingeschränkt möglich ist.
+
+43
+00:01:46.950 --> 00:01:48.630
+Midjourney liefert besonders
+
+44
+00:01:48.630 --> 00:01:51.510
+ästhetische, künstlerische Ergebnisse.
+
+45
+00:01:51.510 --> 00:01:53.590
+Die Bedienung erfolgt über Discord
+
+46
+00:01:53.590 --> 00:01:54.790
+und ist vergleichsweise
+
+47
+00:01:54.790 --> 00:01:57.310
+niedrigschwellig, weshalb Lehrkräfte
+
+48
+00:01:57.310 --> 00:01:59.350
+schnell Präsentationsbilder oder
+
+49
+00:01:59.350 --> 00:02:01.110
+Illustrationen erzeugen können.
+
+50
+00:02:01.670 --> 00:02:03.870
+Einschränkungen bestehen bei präziser
+
+51
+00:02:03.870 --> 00:02:06.630
+detailsteuerung und Textdarstellungen.
+
+52
+00:02:09.590 --> 00:02:12.190
+Bing Chat und Microsoft Copilot
+
+53
+00:02:12.190 --> 00:02:14.840
+nutzen im Hintergrund OpenAI Modelle
+
+54
+00:02:14.840 --> 00:02:16.240
+und bieten die Vorteile einer
+
+55
+00:02:16.240 --> 00:02:18.360
+nahtlosen Browsernutzung sowie
+
+56
+00:02:18.360 --> 00:02:21.000
+Integration in die Schul-IT.
+
+57
+00:02:21.000 --> 00:02:23.080
+Sie eignen sich für den Einsatz im
+
+58
+00:02:23.080 --> 00:02:25.160
+Unterricht, sofern die schulischen
+
+59
+00:02:25.160 --> 00:02:26.920
+Datenschutzbeauftragten die
+
+60
+00:02:26.920 --> 00:02:29.640
+DSGVO-Konformität nach Prüfung der
+
+61
+00:02:29.640 --> 00:02:31.480
+notwendigen Unterlagen bestätigen.
+
+62
+00:02:34.600 --> 00:02:37.560
+Stable Diffusion und Adobe Firefly
+
+63
+00:02:37.560 --> 00:02:39.800
+stehen für maximale technische Kontrolle
+
+64
+00:02:40.450 --> 00:02:42.290
+und rechtliche Absicherung.
+
+65
+00:02:42.290 --> 00:02:43.930
+Stable Diffusion ist ein
+
+66
+00:02:43.930 --> 00:02:46.290
+Open-Source-Angebot und bietet
+
+67
+00:02:46.290 --> 00:02:48.610
+umfassende Parametereinstellungen
+
+68
+00:02:48.610 --> 00:02:51.210
+sowie hohe Flexibilität, erfordert
+
+69
+00:02:51.210 --> 00:02:53.010
+aber technisches Know-How.
+
+70
+00:02:53.730 --> 00:02:56.290
+Firefly integriert sich in Adobe
+
+71
+00:02:56.290 --> 00:02:58.170
+Creative Cloud, liefert
+
+72
+00:02:58.170 --> 00:03:00.410
+hochwertige Ergebnisse und bietet
+
+73
+00:03:00.410 --> 00:03:02.450
+klare rechtliche Rahmenbedingungen
+
+74
+00:03:02.450 --> 00:03:03.970
+für die pädagogische Nutzung.
+
+75
+00:03:07.340 --> 00:03:10.460
+Blue Willow, Nightcafe und Catbird.ai
+
+76
+00:03:10.460 --> 00:03:12.940
+sind vor allem für kreative,
+
+77
+00:03:12.940 --> 00:03:15.980
+projektorientierte Szenarien geeignet.
+
+78
+00:03:15.980 --> 00:03:17.740
+Blue Willow ermöglicht einen
+
+79
+00:03:17.740 --> 00:03:20.220
+niederschwelligen Einstieg über Discord.
+
+80
+00:03:20.220 --> 00:03:21.860
+Nightcafe bietet einen
+
+81
+00:03:21.860 --> 00:03:24.580
+Spielerischen Zugang und Catbird.ai
+
+82
+00:03:24.580 --> 00:03:27.740
+erzeugt mehrere Varianten pro Anfrage,
+
+83
+00:03:27.740 --> 00:03:29.580
+was sich gut für Diskussions
+
+84
+00:03:29.580 --> 00:03:31.420
+oder Ideensammlungen eignet.
+
+85
+00:03:32.050 --> 00:03:35.370
+Leonardo.ai erlaubt eine präzisere
+
+86
+00:03:35.370 --> 00:03:37.130
+Steuerung von Stilen und
+
+87
+00:03:37.130 --> 00:03:39.530
+konsistente Bildserien, was für
+
+88
+00:03:39.530 --> 00:03:41.050
+Projekte mit einheitlicher
+
+89
+00:03:41.050 --> 00:03:42.690
+Bildsprache interessant ist.
+
+90
+00:03:45.810 --> 00:03:49.050
+Zusammenfassend lässt sich festhalten: Die Tools
+
+91
+00:03:49.050 --> 00:03:50.570
+unterscheiden sich vor allem nach
+
+92
+00:03:50.570 --> 00:03:53.490
+Ziel und Kontext. Stable Diffusion für
+
+93
+00:03:53.490 --> 00:03:55.850
+maximale Kontrolle bei technischer
+
+94
+00:03:55.850 --> 00:03:58.450
+Ausstattung. Midjourney für kreative
+
+95
+00:03:58.450 --> 00:04:01.520
+Visualisierungen. DALL-E 3 für
+
+96
+00:04:01.520 --> 00:04:03.760
+schnelle, einfache Nutzung und
+
+97
+00:04:03.760 --> 00:04:05.880
+Firefly für rechtssichere
+
+98
+00:04:05.880 --> 00:04:08.520
+Integration in Adobe Workflows.
+
+99
+00:04:08.520 --> 00:04:10.760
+Bing Chat und Copilot müssen
+
+100
+00:04:10.760 --> 00:04:12.360
+auf Datenschutzkonformität
+
+101
+00:04:12.360 --> 00:04:13.640
+für die schulweite Nutzung
+
+102
+00:04:13.640 --> 00:04:15.480
+überprüft werden, während
+
+103
+00:04:15.480 --> 00:04:17.720
+Bluw Willow, Leonardo.ai,
+
+104
+00:04:17.720 --> 00:04:20.480
+Catbird.ai und Nightcafé
+
+105
+00:04:20.480 --> 00:04:23.160
+eher kreative, projektorientierte
+
+106
+00:04:23.160 --> 00:04:24.440
+Szenarien abdecken.
+
+107
+00:04:27.570 --> 00:04:29.530
+Für die Unterrichtsvorbereitung hängt
+
+108
+00:04:29.530 --> 00:04:32.570
+die Wahl somit weniger von der Frage, welches
+
+109
+00:04:32.570 --> 00:04:35.650
+Tool ist das Beste ab, sondern davon,
+
+110
+00:04:35.650 --> 00:04:38.330
+welches pädagogische Ziel verfolgt wird
+
+111
+00:04:38.330 --> 00:04:40.530
+und welche Ressourcen vorhanden sind.
+
+112
+00:04:41.570 --> 00:04:43.450
+Zahlreiche Dienste wie auch
+
+113
+00:04:43.450 --> 00:04:45.050
+die edukativen Plattformen
+
+114
+00:04:45.050 --> 00:04:47.410
+SchulKI und Fobizz bieten.
+
+115
+00:04:47.410 --> 00:04:49.410
+Die Möglichkeit, Bilder kostenlos
+
+116
+00:04:49.410 --> 00:04:51.160
+generieren zu lassen mit
+
+117
+00:04:51.160 --> 00:04:52.920
+mit Einschränkungen zum Beispiel
+
+118
+00:04:52.920 --> 00:04:54.760
+in Hinblick auf die Bildqualität.
+
+119
+00:04:55.480 --> 00:04:57.960
+Somit lassen sich verschiedene Angebote
+
+120
+00:04:57.960 --> 00:05:00.360
+für die eigenen Vorhaben testen.
+
+121
+00:05:00.360 --> 00:05:02.600
+Für technisch interessierte Lehrkräfte
+
+122
+00:05:02.600 --> 00:05:03.800
+kann auch der Unterschied
+
+123
+00:05:03.800 --> 00:05:06.320
+zwischen Open Source und proprietären
+
+124
+00:05:06.320 --> 00:05:08.360
+Angeboten eine Rolle spielen.
+
+125
+00:05:08.360 --> 00:05:10.520
+Open Source Angebote wie Stable
+
+126
+00:05:10.520 --> 00:05:12.920
+Diffusion legen ihren Quellcode
+
+127
+00:05:12.920 --> 00:05:14.920
+offen und können von den Nutzenden
+
+128
+00:05:14.920 --> 00:05:17.080
+auf ihre eigenen Rechner heruntergeladen
+
+129
+00:05:17.080 --> 00:05:18.660
+werden, zum Beispiel
+
+130
+00:05:18.660 --> 00:05:20.940
+um sie zu eigenen Zwecken zu trainieren.
+
+131
+00:05:21.500 --> 00:05:24.220
+Proprietäre Angebote wie zum Beispiel
+
+132
+00:05:24.220 --> 00:05:26.980
+DALL-E, Midjourney und Adobe
+
+133
+00:05:26.980 --> 00:05:29.660
+Firefly veröffentlichen ihre Codes
+
+134
+00:05:29.660 --> 00:05:31.740
+und Trainingsdaten hingegen nicht.
+
+135
+00:05:32.540 --> 00:05:34.940
+Häufig haben die proprietären Angebote
+
+136
+00:05:34.940 --> 00:05:37.020
+gegenüber den Open Source Angeboten
+
+137
+00:05:37.020 --> 00:05:39.100
+in der technischen Entwicklung circa
+
+138
+00:05:39.100 --> 00:05:41.100
+sechs bis zwölf Monate Vorsprung.

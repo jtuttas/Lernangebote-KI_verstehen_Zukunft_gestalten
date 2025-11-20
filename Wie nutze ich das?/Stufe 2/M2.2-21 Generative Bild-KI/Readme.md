@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Generative Bild-KI
+Angebotskennung: M2.2-21
 
 ## Inhaltliche Gestaltung
 
@@ -7,19 +7,22 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
+Dieses Lernangebot führt in fokussierter und anwendungsbezogener Form in die Nutzung bildgenerierender Künstlicher Intelligenz (kurz: Bild-KI) im Bildungsbereich ein. Im Mittelpunkt steht die Frage, wie sich mithilfe von KI-gestützten Tools effektiv und zugleich verantwortungsvoll Grafiken für den pädagogischen Kontext erstellen lassen. Sie erhalten einen Überblick über gängige Tools und Prompting-Techniken und setzen sich kritisch mit Herausforderungen, Risiken und rechtlichen Aspekten auseinander.
 
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Überblick über gängige Tools zur Erzeugung von Grafiken
+* Techniken und Prinzipien des Promptings für Bild-KIs
+* Herausforderungen und Risiken (z. B. Bias, Stereotypen, Deepfakes)
+* Rechtliche Rahmenbedingungen (Urheberrecht, Persönlichkeitsrechte, Datenschutz)
+* Praxisnahe Anregungen für den schulischen Einsatz
 
 **Lernziele**
 
-...
+Die Teilnehmenden erhalten einen Überblick über gängige Tools und Prompting-Techniken zur Grafikerstellung mit Bild-KI, setzen sich mit Herausforderungen, Risiken und rechtlichen Aspekten auseinander und gewinnen Anregungen für den schulischen Einsatz.
 
 **Format**
 
@@ -27,11 +30,11 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Es adressiert insbesondere Lehrkräfte aller Schulformen sowie pädagogische Fachkräfte und Mitarbeitende in der Verwaltung, die visuelle Materialien zielgesteuert und rechtssicher einsetzen möchten.
 
 **Voraussetzungen und Hinweise**
 
-...
+Vorausgesetzt wird ein grundlegendes Verständnis davon, wie Künstliche Intelligenz funktioniert, sowie Basisfertigkeiten im digitalen Bereich.
 
 ## Bestandteile des Angebots
 

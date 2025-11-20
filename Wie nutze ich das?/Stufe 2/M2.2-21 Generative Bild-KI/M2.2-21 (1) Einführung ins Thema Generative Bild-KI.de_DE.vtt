@@ -1,0 +1,345 @@
+WEBVTT
+
+1
+00:00:07.040 --> 00:00:08.480
+Einführung in das Thema
+
+2
+00:00:08.480 --> 00:00:10.400
+Generative Bild-KI.
+
+3
+00:00:13.200 --> 00:00:15.440
+Herzlich willkommen zur Einführung in
+
+4
+00:00:15.440 --> 00:00:17.280
+die Nutzung bildgenerierender
+
+5
+00:00:17.280 --> 00:00:20.720
+künstlicher Intelligenz, kurz Bild-KI.
+
+6
+00:00:20.720 --> 00:00:23.040
+In diesem Video erfahren Sie, wie
+
+7
+00:00:23.040 --> 00:00:25.120
+Sie diese Technologie einsetzen können,
+
+8
+00:00:25.880 --> 00:00:27.320
+welche Chancen sie bietet
+
+9
+00:00:27.320 --> 00:00:29.640
+und worauf Sie achten sollten.
+
+10
+00:00:29.640 --> 00:00:32.320
+Bild-KI bezeichnet Programme, die
+
+11
+00:00:32.320 --> 00:00:34.200
+aus einer textlichen Beschreibung
+
+12
+00:00:34.200 --> 00:00:37.160
+(Prompt) automatisch Bilder erzeugen.
+
+13
+00:00:37.160 --> 00:00:38.960
+Schon heute können Lehrkräfte
+
+14
+00:00:38.960 --> 00:00:40.480
+damit Visualisierungen
+
+15
+00:00:40.480 --> 00:00:42.120
+für Unterrichtsmaterialien
+
+16
+00:00:42.120 --> 00:00:43.800
+deutlich schneller und oft
+
+17
+00:00:43.800 --> 00:00:45.720
+kostengünstiger erstellen.
+
+18
+00:00:45.720 --> 00:00:48.080
+Das eröffnet neue Möglichkeiten für
+
+19
+00:00:48.080 --> 00:00:50.680
+individualisierte Lernprozesse und
+
+20
+00:00:50.680 --> 00:00:52.760
+praxisnahe Unterrichtsgestaltung.
+
+21
+00:00:53.570 --> 00:00:55.570
+Dieses Modul legt den Schwerpunkt
+
+22
+00:00:55.570 --> 00:00:57.450
+auf die Verwendung von generierender
+
+23
+00:00:57.450 --> 00:00:59.610
+Bild-KI durch Lehrkräfte zur
+
+24
+00:00:59.610 --> 00:01:01.650
+Vorbereitung ihres Unterrichts und
+
+25
+00:01:01.650 --> 00:01:03.770
+explizit nicht auf die Nutzung durch
+
+26
+00:01:03.770 --> 00:01:06.530
+Lernende im Rahmen ihrer Lernprozesse.
+
+27
+00:01:07.730 --> 00:01:09.209
+Als erstes werden wir einen
+
+28
+00:01:09.209 --> 00:01:11.250
+Blick auf die Werkzeuge werfen.
+
+29
+00:01:11.250 --> 00:01:14.130
+Aktuelle Programme wie Dall-E, Midjourney
+
+30
+00:01:14.130 --> 00:01:17.210
+oder Microsoft Copilot sowie Open Source
+
+31
+00:01:17.210 --> 00:01:19.770
+Alternativen wie Stable Diffusion oder
+
+32
+00:01:19.770 --> 00:01:22.260
+Flux unterscheiden sich in Bedienung,
+
+33
+00:01:22.260 --> 00:01:24.820
+Stilvielfalt und Detailgenauigkeit.
+
+34
+00:01:25.460 --> 00:01:27.820
+Manche arbeiten webbasiert, andere
+
+35
+00:01:27.820 --> 00:01:30.260
+erfordern zusätzliche Plattformen.
+
+36
+00:01:30.260 --> 00:01:32.340
+Auch auf edukativen Lernplattformen
+
+37
+00:01:32.340 --> 00:01:34.420
+wie Fobizz und Schul-KI
+
+38
+00:01:34.420 --> 00:01:36.100
+lassen sich Bilder generieren.
+
+39
+00:01:36.659 --> 00:01:38.420
+Diese greifen dabei teilweise auf
+
+40
+00:01:38.420 --> 00:01:40.660
+oben genannte Werkzeuge zurück.
+
+41
+00:01:40.660 --> 00:01:42.660
+Es ist wichtig, die Eigenschaften
+
+42
+00:01:42.660 --> 00:01:45.180
+der Tools zu kennen, um die gewünschten
+
+43
+00:01:45.180 --> 00:01:47.140
+Ergebnisse gezielt zu erzeugen.
+
+44
+00:01:50.810 --> 00:01:52.930
+Im darauffolgenden Video soll es
+
+45
+00:01:52.930 --> 00:01:54.410
+um das Prompting gehen.
+
+46
+00:01:54.410 --> 00:01:55.850
+Ein Prompt ist die klare
+
+47
+00:01:55.850 --> 00:01:58.530
+Textbeschreibung, die der KI vorgibt,
+
+48
+00:01:58.530 --> 00:02:00.490
+was erzeugt werden soll.
+
+49
+00:02:00.490 --> 00:02:03.250
+Je präziser der Prompt, etwa Angaben
+
+50
+00:02:03.250 --> 00:02:06.890
+zu Motiv, Stil, Perspektive oder Licht,
+
+51
+00:02:06.890 --> 00:02:08.650
+desto genauer das Ergebnis.
+
+52
+00:02:09.289 --> 00:02:11.210
+Auch negative Prompts, die
+
+53
+00:02:11.210 --> 00:02:13.933
+unerwünschte Inhalte ausschließen, helfen.
+
+54
+00:02:14.530 --> 00:02:16.930
+Ein iteratives Vorgehen mit mehreren
+
+55
+00:02:16.930 --> 00:02:18.450
+Durchläufen und Auswahl der
+
+56
+00:02:18.450 --> 00:02:20.730
+besten Ergebnisse führt zu besonders
+
+57
+00:02:20.730 --> 00:02:22.690
+brauchbaren Visualisierungen.
+
+58
+00:02:24.530 --> 00:02:25.890
+Als Drittes betrachten
+
+59
+00:02:25.890 --> 00:02:27.970
+wir Chancen und Risiken.
+
+60
+00:02:27.970 --> 00:02:29.970
+KI-Bilder können Verzerrungen
+
+61
+00:02:29.970 --> 00:02:32.850
+enthalten, sogenannte Biases oder
+
+62
+00:02:32.850 --> 00:02:35.410
+stereotype Darstellungen zeigen.
+
+63
+00:02:35.410 --> 00:02:37.570
+Rechtliche Aspekte wie Urheber
+
+64
+00:02:37.570 --> 00:02:39.250
+und Persönlichkeitsrechte
+
+65
+00:02:39.250 --> 00:02:40.290
+müssen beachtet werden.
+
+66
+00:02:40.950 --> 00:02:42.710
+Besonders bei bekannten Personen
+
+67
+00:02:42.710 --> 00:02:45.590
+oder geschützten Werken. In sozialen
+
+68
+00:02:45.590 --> 00:02:47.470
+Medien können Bilder schnell verbreitet
+
+69
+00:02:47.470 --> 00:02:49.510
+werden, was Fake News oder
+
+70
+00:02:49.510 --> 00:02:52.230
+manipulative Darstellungen erleichtert.
+
+71
+00:02:52.230 --> 00:02:54.430
+Im Bildungsbereich sollte daher
+
+72
+00:02:54.430 --> 00:02:56.710
+die Entstehung und Qualität der Bilder
+
+73
+00:02:56.710 --> 00:02:58.230
+kritisch reflektiert werden.
+
+74
+00:03:01.430 --> 00:03:03.110
+Abschließend betrachten wir den
+
+75
+00:03:03.110 --> 00:03:05.150
+rechtlichen Rahmen, insbesondere
+
+76
+00:03:05.150 --> 00:03:07.350
+den Schutz personenbezogener Daten
+
+77
+00:03:07.350 --> 00:03:08.510
+von Schülerinnen und
+
+78
+00:03:08.510 --> 00:03:10.630
+Schülern sowie die Rechte Dritter.
+
+79
+00:03:11.420 --> 00:03:13.740
+Wir wenden uns außerdem der Frage zu,
+
+80
+00:03:13.740 --> 00:03:15.900
+wie sie möglichst rechtssicher mit
+
+81
+00:03:15.900 --> 00:03:18.620
+generierender Bild-KI agieren können.
+
+82
+00:03:19.260 --> 00:03:21.500
+Damit sind Sie bereit, sich tiefer
+
+83
+00:03:21.500 --> 00:03:23.300
+mit Tools, Techniken und
+
+84
+00:03:23.300 --> 00:03:25.700
+Rahmenbedingungen auseinanderzusetzen
+
+85
+00:03:25.700 --> 00:03:28.420
+und die Potenziale von Bild-KI im
+
+86
+00:03:28.420 --> 00:03:30.220
+Bildungsbereich zu entdecken.
