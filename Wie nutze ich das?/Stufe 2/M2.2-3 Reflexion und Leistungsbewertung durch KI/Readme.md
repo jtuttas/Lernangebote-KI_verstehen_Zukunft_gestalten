@@ -7,19 +7,23 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Dieses Angebot bietet einen praxisnahen Überblick über die Reflexion und Nutzung von Künstlicher Intelligenz (KI) in der schulischen Leistungsbewertung. Es vermittelt, wie KI-basierte Assistenzsysteme und Feedback-Tools den Bewertungsprozess unterstützen können, und beleuchtet zugleich die rechtlichen, ethischen und pädagogischen Anforderungen. Der Fokus liegt auf der Entwicklung eines Bewusstseins für die Chancen (wie Entlastung und Differenzierung) sowie die Herausforderungen (wie Datenschutz und Fairness) automatisierter Verfahren, wobei die pädagogische Verantwortung der Lehrkraft stets im Mittelpunkt steht.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Überblick über aktuelle KI-gestützte Bewertungs- und Feedbacktools in der Schulpraxis
+* Chancen und Herausforderungen: Entlastung und Differenzierung versus Risiken für Fairness, Transparenz und pädagogische Qualität
+* Rechtliche und ethische Orientierung: DSGVO, EU AI Act, Verantwortung der Lehrkraft und Grenzen automatisierter Benotung
+* Reflexion über Grenzen von KI: statistische Mittelwerte, Gefahr vereinheitlichter Rückmeldungen („teaching to the middle“) sowie Bias und Verzerrungen
+* Methoden zur bewussten Auseinandersetzung mit neuen Bewertungssituationen
+* Entwicklung der eigenen Bewertungskompetenz im Umgang mit KI
 
 **Lernziele**
 
-...
+Lehrkräfte sollen den Einsatz von KI in der schulischen Leistungsbewertung kritisch reflektieren können. Sie entwickeln ein Bewusstsein für Chancen, Grenzen und rechtliche Rahmenbedingungen, um KI-gestützte Tools
+pädagogisch sinnvoll und verantwortungsvoll einzusetzen.
 
 **Format**
 
@@ -27,17 +31,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). Es ist besonders geeignet für Lehrkräfte aller Schulformen, die ihre eigene Bewertungspraxis im Kontext von KI kritisch hinterfragen und weiterentwickeln möchten.
 
 **Voraussetzungen und Hinweise**
 
-...
+Grundlegende Kentnisse
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Script
+- [Videos](https://speicher.nibis.de/s/k232eJXrejEEH87)
 - Audiospur
 - Transkript
 

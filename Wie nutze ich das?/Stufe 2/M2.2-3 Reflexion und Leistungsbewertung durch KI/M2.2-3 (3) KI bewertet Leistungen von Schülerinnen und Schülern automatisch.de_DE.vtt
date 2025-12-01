@@ -1,0 +1,673 @@
+WEBVTT
+
+1
+00:00:07.040 --> 00:00:09.480
+KI bewertet Leistungen von Schülerinnen
+
+2
+00:00:09.480 --> 00:00:11.200
+und Schülern automatisch.
+
+3
+00:00:11.200 --> 00:00:13.200
+Autonome Bewertungssysteme.
+
+4
+00:00:15.360 --> 00:00:17.320
+Im Unterschied zu unterstützenden
+
+5
+00:00:17.320 --> 00:00:19.200
+Assistenzsystemen gibt es
+
+6
+00:00:19.200 --> 00:00:20.880
+international auch Ansätze, bei
+
+7
+00:00:20.880 --> 00:00:23.760
+denen Künstliche Intelligenz die
+
+8
+00:00:23.760 --> 00:00:25.160
+Bewertung der Leistungen von
+
+9
+00:00:25.160 --> 00:00:27.560
+Schülerinnen und Schülern weitgehend
+
+10
+00:00:27.560 --> 00:00:29.680
+oder sogar vollständig automatisiert
+
+11
+00:00:29.680 --> 00:00:32.530
+übernimmt, ohne dass Lehrkräfte
+
+12
+00:00:32.530 --> 00:00:35.050
+jedes Ergebnis individuell prüfen.
+
+13
+00:00:35.770 --> 00:00:38.650
+Solche autonomen Bewertungssysteme kommen
+
+14
+00:00:38.650 --> 00:00:40.690
+im deutschsprachigen Raum bisher nicht
+
+15
+00:00:40.690 --> 00:00:42.890
+zum Einsatz, sind aber international
+
+16
+00:00:43.530 --> 00:00:45.850
+etwa in den USA, Großbritannien
+
+17
+00:00:45.850 --> 00:00:48.490
+oder Teilen Asiens bereits erprobt.
+
+18
+00:00:51.450 --> 00:00:53.170
+Ein bekanntes Beispiel ist das
+
+19
+00:00:53.170 --> 00:00:56.050
+automatisierte Essay Scoring im Rahmen
+
+20
+00:00:56.050 --> 00:00:58.170
+standardisierter Tests in den USA,
+
+21
+00:00:58.810 --> 00:01:01.050
+wie etwa beim STAR Test in Texas.
+
+22
+00:01:01.690 --> 00:01:03.490
+Hier werden schriftliche Antworten
+
+23
+00:01:03.490 --> 00:01:05.450
+zunächst maschinell bewertet.
+
+24
+00:01:05.450 --> 00:01:06.810
+Die Ergebnisse werden dann
+
+25
+00:01:06.810 --> 00:01:09.770
+stichprobenartig oder bei Unsicherheiten
+
+26
+00:01:09.770 --> 00:01:10.970
+von Menschen überprüft.
+
+27
+00:01:13.850 --> 00:01:16.890
+In Großbritannien wurde 2020
+
+28
+00:01:16.890 --> 00:01:19.090
+ein automatisiertes Bewertungssystem
+
+29
+00:01:19.090 --> 00:01:20.890
+erprobt, das als A
+
+30
+00:01:20.890 --> 00:01:23.130
+A-Level-Algorithm bekannt wurde.
+
+31
+00:01:23.130 --> 00:01:25.540
+Ziel war es, Abschlussnoten auf
+
+32
+00:01:25.540 --> 00:01:27.740
+Basis historischer Leistungsdaten,
+
+33
+00:01:27.740 --> 00:01:30.100
+Klassengrößen, Rankings innerhalb
+
+34
+00:01:30.100 --> 00:01:32.500
+der Lerngruppe und Durchschnittsnoten
+
+35
+00:01:32.500 --> 00:01:33.740
+der Schulen zu berechnen.
+
+36
+00:01:36.940 --> 00:01:38.740
+In einigen asiatischen Ländern
+
+37
+00:01:38.740 --> 00:01:40.940
+werden ähnliche Systeme in digitalen
+
+38
+00:01:40.940 --> 00:01:43.140
+Lernplattformen genutzt, allerdings
+
+39
+00:01:43.140 --> 00:01:44.980
+punktuell und meist mit
+
+40
+00:01:44.980 --> 00:01:47.100
+zusätzlicher menschlicher Kontrolle.
+
+41
+00:01:50.390 --> 00:01:52.430
+Technisch basieren diese Systeme
+
+42
+00:01:52.430 --> 00:01:54.710
+auf maschinellem Lernen, großen
+
+43
+00:01:54.710 --> 00:01:56.830
+Datensätzen und der automatisierten
+
+44
+00:01:56.830 --> 00:01:58.230
+Auswertung von Text,
+
+45
+00:01:58.230 --> 00:02:01.430
+Aufgabenlösungen oder Verhaltensdaten.
+
+46
+00:02:01.430 --> 00:02:03.990
+Bewertet wird auf Basis vordefinierter
+
+47
+00:02:03.990 --> 00:02:06.350
+Kriterien oder durch den Vergleich mit
+
+48
+00:02:06.350 --> 00:02:08.630
+einer Vielzahl von Beispielantworten.
+
+49
+00:02:11.510 --> 00:02:13.470
+Befürwortende argumentieren vor
+
+50
+00:02:13.470 --> 00:02:15.110
+allem mit der Skalierbarkeit.
+
+51
+00:02:15.680 --> 00:02:17.360
+Große Mengen an Leistungen können
+
+52
+00:02:17.360 --> 00:02:19.760
+innerhalb kurzer Zeit bewertet werden,
+
+53
+00:02:19.760 --> 00:02:21.680
+was bei zentralen Prüfungen oder
+
+54
+00:02:21.680 --> 00:02:23.760
+Vergleichstests Vorteile bietet.
+
+55
+00:02:24.320 --> 00:02:27.320
+KI Systeme gelten als potenziell
+
+56
+00:02:27.320 --> 00:02:29.040
+objektiver, da sie nach
+
+57
+00:02:29.040 --> 00:02:30.960
+denselben Kriterien bewerten
+
+58
+00:02:30.960 --> 00:02:32.440
+und nicht von persönlichen
+
+59
+00:02:32.440 --> 00:02:34.480
+Vorurteilen beeinflusst werden.
+
+60
+00:02:35.040 --> 00:02:36.320
+Ein weiteres Argument
+
+61
+00:02:36.320 --> 00:02:38.080
+ist die Vergleichbarkeit.
+
+62
+00:02:38.080 --> 00:02:40.160
+Ergebnisse könnten über verschiedene
+
+63
+00:02:40.160 --> 00:02:43.110
+Schulen, Regionen oder Länder hinweg
+
+64
+00:02:43.110 --> 00:02:44.790
+leichter verglichen werden.
+
+65
+00:02:44.790 --> 00:02:46.190
+Auch eine Entlastung von
+
+66
+00:02:46.190 --> 00:02:48.030
+Routinetätigkeiten wird
+
+67
+00:02:48.030 --> 00:02:49.350
+als Chance gesehen.
+
+68
+00:02:52.310 --> 00:02:55.190
+Gleichzeitig gibt es erhebliche Bedenken.
+
+69
+00:02:55.190 --> 00:02:57.310
+Zu den größten Risiken zählt das
+
+70
+00:02:57.310 --> 00:02:59.990
+Problem von Bias und Diskriminierung.
+
+71
+00:02:59.990 --> 00:03:02.910
+Automatisierte Systeme können Vorurteile
+
+72
+00:03:02.910 --> 00:03:04.710
+aus Trainingsdaten übernehmen
+
+73
+00:03:04.710 --> 00:03:07.190
+oder verstärken, wie das Beispiel des
+
+74
+00:03:07.190 --> 00:03:09.750
+britischen A-Level-Algorithm im Jahr
+
+75
+00:03:09.750 --> 00:03:12.230
+2020 eindrücklich gezeigt hat.
+
+76
+00:03:12.780 --> 00:03:14.940
+Der Algorithmus berücksichtigte
+
+77
+00:03:14.940 --> 00:03:17.180
+nicht individuelle Prüfungsleistungen,
+
+78
+00:03:17.180 --> 00:03:18.380
+sondern historische
+
+79
+00:03:18.380 --> 00:03:20.780
+Leistungsdaten, Klassengrößen,
+
+80
+00:03:20.780 --> 00:03:22.940
+Rankings in der Lerngruppe und
+
+81
+00:03:22.940 --> 00:03:25.420
+Durchschnittsnoten der Schulen.
+
+82
+00:03:25.420 --> 00:03:27.620
+Dadurch wurden insbesondere Lernende
+
+83
+00:03:27.620 --> 00:03:29.580
+an öffentlichen Schulen und aus
+
+84
+00:03:29.580 --> 00:03:32.220
+sozioökonomisch benachteiligten Gruppen
+
+85
+00:03:32.220 --> 00:03:34.540
+systematisch schlechter bewertet,
+
+86
+00:03:34.540 --> 00:03:36.260
+während Privatschulen von
+
+87
+00:03:36.260 --> 00:03:38.140
+besseren Ergebnissen profitierten.
+
+88
+00:03:39.080 --> 00:03:41.400
+Die Proteste führten letztlich dazu,
+
+89
+00:03:41.400 --> 00:03:43.640
+dass das System zurückgenommen wurde.
+
+90
+00:03:44.200 --> 00:03:46.160
+Neben der Gefahr systematischer
+
+91
+00:03:46.160 --> 00:03:47.680
+Diskriminierung bergen
+
+92
+00:03:47.680 --> 00:03:50.040
+KI-Systeme auch das Risiko.
+
+93
+00:03:50.040 --> 00:03:52.440
+Einer Nivellierung von Leistungen,
+
+94
+00:03:52.440 --> 00:03:55.800
+eine Tendenz zum Teaching to the Middle.
+
+95
+00:03:55.800 --> 00:03:58.160
+Dabei orientieren sich automatisierte
+
+96
+00:03:58.160 --> 00:04:00.200
+Bewertungen an Durchschnittsmustern
+
+97
+00:04:00.200 --> 00:04:02.320
+und übersehen häufig individuelle
+
+98
+00:04:02.320 --> 00:04:05.320
+Stärken oder kreative Lösungsansätze.
+
+99
+00:04:06.140 --> 00:04:07.900
+Dies kann dazu führen, dass
+
+100
+00:04:07.900 --> 00:04:10.020
+besonders leistungsstarke oder
+
+101
+00:04:10.020 --> 00:04:12.420
+besonders förderbedürftige Schülerinnen
+
+102
+00:04:12.420 --> 00:04:13.740
+oder Schüler weniger
+
+103
+00:04:13.740 --> 00:04:15.580
+differenziertes Feedback erhalten.
+
+104
+00:04:16.300 --> 00:04:17.740
+Zudem sind viele KI
+
+105
+00:04:17.740 --> 00:04:19.579
+Systeme wenig transparent.
+
+106
+00:04:19.579 --> 00:04:21.820
+Die Kriterien und Bewertungswege
+
+107
+00:04:21.820 --> 00:04:23.740
+sind oft nicht nachvollziehbar,
+
+108
+00:04:23.740 --> 00:04:25.580
+was Einspruchsmöglichkeiten
+
+109
+00:04:25.580 --> 00:04:27.820
+und Überprüfbarkeit erschwert.
+
+110
+00:04:27.820 --> 00:04:30.020
+Links zu weiteren Lernangeboten zum
+
+111
+00:04:30.020 --> 00:04:32.700
+Thema Bias und Verzerrungen finden
+
+112
+00:04:32.700 --> 00:04:34.380
+sich im Abschnitt Vertiefung.
+
+113
+00:04:37.570 --> 00:04:38.890
+Rechtlich sind autonome
+
+114
+00:04:38.890 --> 00:04:40.890
+Bewertungssysteme in Deutschland und
+
+115
+00:04:40.890 --> 00:04:43.610
+der EU als Hochrisikoanwendungen
+
+116
+00:04:43.610 --> 00:04:45.650
+eingestuft und nicht zulässig.
+
+117
+00:04:46.210 --> 00:04:48.650
+Automatisierte Benotung ohne menschliche
+
+118
+00:04:48.650 --> 00:04:50.690
+Aufsicht ist ausgeschlossen.
+
+119
+00:04:50.690 --> 00:04:52.850
+Die Letztverantwortung für die Bewertung
+
+120
+00:04:52.850 --> 00:04:54.770
+bleibt bei einer natürlichen Person.
+
+121
+00:04:55.570 --> 00:04:57.330
+Pädagogisch und didaktisch
+
+122
+00:04:57.330 --> 00:04:59.410
+werden zudem Grenzen deutlich.
+
+123
+00:04:59.410 --> 00:05:01.090
+Solche Systeme funktionieren
+
+124
+00:05:01.090 --> 00:05:03.010
+nur bei klar strukturierten
+
+125
+00:05:03.010 --> 00:05:04.930
+und formalisierbaren Aufgaben.
+
+126
+00:05:05.670 --> 00:05:08.950
+Kreative, offene oder soziale Kompetenzen
+
+127
+00:05:08.950 --> 00:05:11.270
+lassen sich damit kaum abbilden.
+
+128
+00:05:11.270 --> 00:05:13.630
+Es besteht die Gefahr, dass Bildung
+
+129
+00:05:13.630 --> 00:05:16.150
+auf das Messbare reduziert und die
+
+130
+00:05:16.150 --> 00:05:18.310
+Vielfalt individueller Leistungen
+
+131
+00:05:18.310 --> 00:05:20.550
+nicht ausreichend gewürdigt wird.
+
+132
+00:05:21.350 --> 00:05:23.470
+Zudem können aufgrund der statistischen
+
+133
+00:05:23.470 --> 00:05:26.190
+Konzeption von LLMs qualitativ
+
+134
+00:05:26.190 --> 00:05:29.270
+hochwertige, aber von der erwarteten
+
+135
+00:05:29.270 --> 00:05:31.310
+Norm abweichende Leistungen von
+
+136
+00:05:31.310 --> 00:05:33.710
+Schülerinnen und Schülern benachteiligt
+
+137
+00:05:33.710 --> 00:05:35.270
+oder schlechter bewertet werden.
+
+138
+00:05:37.500 --> 00:05:39.140
+Insgesamt bleibt der Einsatz
+
+139
+00:05:39.140 --> 00:05:41.500
+autonomer KI-Bewertungssysteme
+
+140
+00:05:41.500 --> 00:05:42.900
+im deutschsprachigen Raum
+
+141
+00:05:42.900 --> 00:05:44.580
+sehr eingeschränkt und wird
+
+142
+00:05:44.580 --> 00:05:46.380
+kontrovers diskutiert.
+
+143
+00:05:46.380 --> 00:05:48.500
+Die negativen Erfahrungen in anderen
+
+144
+00:05:48.500 --> 00:05:50.380
+Ländern zeigen die Risiken von
+
+145
+00:05:50.380 --> 00:05:52.780
+Ungleichbehandlung, Vertrauensverlust
+
+146
+00:05:52.780 --> 00:05:54.700
+und Fehlentscheidungen.
+
+147
+00:05:54.700 --> 00:05:56.860
+Lehrkräfte, Fachverbände
+
+148
+00:05:56.860 --> 00:05:58.780
+sowie Datenschutzexpertinnen
+
+149
+00:05:58.780 --> 00:06:00.380
+und Experten fordern
+
+150
+00:06:00.380 --> 00:06:03.260
+deshalb, dass KI Systeme höchstens
+
+151
+00:06:03.260 --> 00:06:05.340
+unterstützend eingesetzt werden dürfen
+
+152
+00:06:05.340 --> 00:06:05.680
+und
+
+153
+00:06:05.680 --> 00:06:07.000
+die Letztverantwortung
+
+154
+00:06:07.000 --> 00:06:08.480
+immer beim Menschen bleibt.
+
+155
+00:06:11.760 --> 00:06:13.040
+Gleichzeitig wird in der
+
+156
+00:06:13.040 --> 00:06:14.800
+internationalen Forschung daran
+
+157
+00:06:14.800 --> 00:06:17.680
+gearbeitet, wie Transparenz, Fairness
+
+158
+00:06:17.680 --> 00:06:20.600
+und Nachvollziehbarkeit in KI Systemen
+
+159
+00:06:20.600 --> 00:06:23.200
+verbessert werden könnten, etwa durch
+
+160
+00:06:23.200 --> 00:06:26.040
+Explainable AI oder hybride
+
+161
+00:06:26.040 --> 00:06:28.800
+Bewertungsmodelle mit klar definierten
+
+162
+00:06:28.800 --> 00:06:30.640
+menschlichen Kontrollinstanzen.
+
+163
+00:06:31.210 --> 00:06:33.650
+Autonome KI Bewertungssysteme bieten
+
+164
+00:06:33.650 --> 00:06:36.170
+theoretisch Vorteile bei Effizienz und
+
+165
+00:06:36.170 --> 00:06:39.250
+Vergleichbarkeit, stoßen aber aktuell in
+
+166
+00:06:39.250 --> 00:06:42.250
+Bezug auf Fairness, Nachvollziehbarkeit,
+
+167
+00:06:42.250 --> 00:06:45.090
+rechtliche Zulässigkeit und pädagogische
+
+168
+00:06:45.090 --> 00:06:47.449
+Qualität auf fundamentale Grenzen.

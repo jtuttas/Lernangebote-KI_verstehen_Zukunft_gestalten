@@ -1,0 +1,993 @@
+WEBVTT
+
+1
+00:00:06.560 --> 00:00:08.600
+Lehrkräfte bewerten Leistungen
+
+2
+00:00:08.600 --> 00:00:10.400
+von Schülerinnen und Schülern
+
+3
+00:00:10.400 --> 00:00:13.200
+mit KI Assistenzsysteme.
+
+4
+00:00:15.280 --> 00:00:17.920
+Schauen wir uns zunächst an, wie KI
+
+5
+00:00:17.920 --> 00:00:19.640
+heute schon zur Unterstützung bei der
+
+6
+00:00:19.640 --> 00:00:22.000
+Leistungsbewertung eingesetzt wird und
+
+7
+00:00:22.000 --> 00:00:24.720
+was das für den Schulalltag bedeutet.
+
+8
+00:00:24.720 --> 00:00:26.840
+In deutschen und europäischen Schulen
+
+9
+00:00:26.840 --> 00:00:28.320
+kommt Künstliche Intelligenz
+
+10
+00:00:29.100 --> 00:00:31.980
+(KI) als Tool zur Leistungsbewertung
+
+11
+00:00:31.980 --> 00:00:34.380
+bisher vor allem als Assistenzsystem
+
+12
+00:00:34.380 --> 00:00:36.380
+für Lehrkräfte zum Einsatz.
+
+13
+00:00:36.380 --> 00:00:38.780
+Eine Teil- oder vollautomatisierte
+
+14
+00:00:38.780 --> 00:00:41.500
+Benotung ist rechtlich nicht zugelassen.
+
+15
+00:00:41.500 --> 00:00:43.420
+Die Verantwortung für die Bewertung
+
+16
+00:00:43.420 --> 00:00:45.740
+bleibt fest in menschlicher Hand.
+
+17
+00:00:45.740 --> 00:00:47.300
+Gleichzeitig wird immer wieder
+
+18
+00:00:47.300 --> 00:00:49.420
+in Projekten erprobt, wie KI
+
+19
+00:00:49.420 --> 00:00:51.340
+Lehrkräfte unterstützen kann,
+
+20
+00:00:51.340 --> 00:00:53.740
+etwa indem Systeme Schülerarbeiten
+
+21
+00:00:53.740 --> 00:00:55.580
+analysieren, typische Fehler
+
+22
+00:00:55.580 --> 00:00:57.540
+erkennen, automatisiert
+
+23
+00:00:57.540 --> 00:00:59.940
+Feedback geben oder Hinweise zur
+
+24
+00:00:59.940 --> 00:01:01.420
+Verbesserung vorschlagen.
+
+25
+00:01:01.980 --> 00:01:05.340
+Dabei bleibt entscheident: Die Lehrkraft kontrolliert,
+
+26
+00:01:05.340 --> 00:01:08.220
+ergänzt und verantwortet die Ergebnisse.
+
+27
+00:01:11.180 --> 00:01:12.579
+Neben diesen offiziell
+
+28
+00:01:12.579 --> 00:01:14.260
+begleiteten Projekten ist auch
+
+29
+00:01:14.260 --> 00:01:15.580
+ein nicht unerheblicher
+
+30
+00:01:15.580 --> 00:01:17.660
+Schattenbetrieb entstanden.
+
+31
+00:01:17.660 --> 00:01:19.620
+Viele Lehrkräfte setzen privat
+
+32
+00:01:19.620 --> 00:01:21.820
+KI-Tools wie ChatGPT
+
+33
+00:01:21.820 --> 00:01:23.740
+oder andere Analysewerkzeuge ein,
+
+34
+00:01:23.740 --> 00:01:25.480
+um Korrekturen oder
+
+35
+00:01:25.480 --> 00:01:26.960
+Rückmeldungen schneller und
+
+36
+00:01:26.960 --> 00:01:28.680
+individueller zu gestalten.
+
+37
+00:01:29.240 --> 00:01:31.080
+Fachlich ist das reizvoll,
+
+38
+00:01:31.080 --> 00:01:33.400
+da KI Systeme mittlerweile
+
+39
+00:01:33.400 --> 00:01:35.080
+in der Lage sind, längere
+
+40
+00:01:35.080 --> 00:01:36.760
+Texte zu analysieren,
+
+41
+00:01:36.760 --> 00:01:39.240
+Argumentationsstrukturen zu erkennen
+
+42
+00:01:39.240 --> 00:01:40.960
+oder auf formale Aspekte
+
+43
+00:01:40.960 --> 00:01:42.440
+wie Rechtschreibung und
+
+44
+00:01:42.440 --> 00:01:44.360
+Grammatik einzugehen.
+
+45
+00:01:44.360 --> 00:01:46.360
+Das Feedback ist gegebenenfalls
+
+46
+00:01:46.360 --> 00:01:49.080
+umfangreicher und passgenauer als
+
+47
+00:01:49.080 --> 00:01:50.840
+im klassischen Korrekturprozess.
+
+48
+00:01:51.650 --> 00:01:53.250
+Allerdings sind diese Tools
+
+49
+00:01:53.250 --> 00:01:54.730
+meist nicht für den Schulbereich
+
+50
+00:01:54.730 --> 00:01:55.650
+lizenziert
+
+51
+00:01:55.650 --> 00:01:58.370
+oder so datenschutzkonform konzipiert,
+
+52
+00:01:58.370 --> 00:02:00.490
+dass sie einer Prüfung durch schulische
+
+53
+00:02:00.490 --> 00:02:02.170
+Datenschutzbeauftragte
+
+54
+00:02:02.170 --> 00:02:04.650
+oder Informationssicherheitsbeauftragte
+
+55
+00:02:04.650 --> 00:02:05.730
+standhalten.
+
+56
+00:02:05.730 --> 00:02:08.250
+Die Weitergabe personenbezogener Daten
+
+57
+00:02:08.250 --> 00:02:10.169
+von Schülerinnen und Schülern an
+
+58
+00:02:10.169 --> 00:02:12.250
+externe Plattformen verstößt gegen
+
+59
+00:02:12.250 --> 00:02:14.530
+die Datenschutzgrundverordnung und ist
+
+60
+00:02:14.530 --> 00:02:16.370
+deshalb rechtlich nicht zulässig.
+
+61
+00:02:16.940 --> 00:02:18.620
+Ein solcher Schattenbetrieb zeigt
+
+62
+00:02:18.620 --> 00:02:20.300
+sich nicht nur bei Lehrkräften,
+
+63
+00:02:20.300 --> 00:02:22.060
+sondern auch bei Schülerinnen und
+
+64
+00:02:22.060 --> 00:02:24.380
+Schülern, die KI Tools heimlich
+
+65
+00:02:24.380 --> 00:02:26.780
+zur Leistungsverbesserung nutzen.
+
+66
+00:02:26.780 --> 00:02:28.340
+Fachinstitutionen und
+
+67
+00:02:28.340 --> 00:02:30.860
+Datenschutzbeauftragte fordern daher
+
+68
+00:02:30.860 --> 00:02:32.939
+verstärkte Aufklärung und einen
+
+69
+00:02:32.939 --> 00:02:34.220
+verantwortungsvollen,
+
+70
+00:02:34.220 --> 00:02:36.460
+rechtssicheren Einsatz im Unterricht.
+
+71
+00:02:40.140 --> 00:02:42.540
+Erprobungen zeigen, dass Lehrkräfte
+
+72
+00:02:42.540 --> 00:02:45.440
+mit KI-Systemen gezielt Rückmeldungen
+
+73
+00:02:45.440 --> 00:02:48.120
+zu komplexen Aufgaben generieren können,
+
+74
+00:02:48.120 --> 00:02:49.800
+wobei die KI für jede
+
+75
+00:02:49.800 --> 00:02:51.680
+Schülerin und jeden Schüler eigene
+
+76
+00:02:51.680 --> 00:02:54.040
+Hinweise und Anregungen liefert.
+
+77
+00:02:54.040 --> 00:02:55.720
+Ebenso wird untersucht,
+
+78
+00:02:55.720 --> 00:02:58.280
+wie generative KI adaptive
+
+79
+00:02:58.280 --> 00:03:01.080
+Prüfungsformate und personalisierte
+
+80
+00:03:01.080 --> 00:03:03.160
+Lernwege unterstützen kann,
+
+81
+00:03:03.160 --> 00:03:05.320
+etwa durch gezielte Rückfragen
+
+82
+00:03:05.320 --> 00:03:07.600
+oder Lernstandsanalysen, die
+
+83
+00:03:07.600 --> 00:03:09.440
+die Lehrkraft dann einordnet
+
+84
+00:03:09.440 --> 00:03:10.680
+und weiterverarbeitet.
+
+85
+00:03:11.500 --> 00:03:13.500
+Gleichzeitig berichten Lehrkräfte,
+
+86
+00:03:13.500 --> 00:03:14.860
+dass die Nutzung solcher
+
+87
+00:03:14.860 --> 00:03:16.780
+Tools den Austausch mit den
+
+88
+00:03:16.780 --> 00:03:18.780
+Schülerinnen und Schülern verändert.
+
+89
+00:03:19.420 --> 00:03:21.300
+Die automatische Rückmeldung
+
+90
+00:03:21.300 --> 00:03:23.340
+führt häufiger zu Rückfragen und
+
+91
+00:03:23.340 --> 00:03:25.460
+Reflexionen über die eigenen
+
+92
+00:03:25.460 --> 00:03:27.660
+Lernwege und Bewertungskriterien.
+
+93
+00:03:28.380 --> 00:03:29.660
+So entsteht eine neue
+
+94
+00:03:29.660 --> 00:03:32.220
+Dynamik im Feedbackprozess.
+
+95
+00:03:32.220 --> 00:03:34.620
+Dennoch bleibt der Einsatz dieser Systeme
+
+96
+00:03:34.620 --> 00:03:37.140
+stark begrenzt und an Pilotprojekte
+
+97
+00:03:37.140 --> 00:03:39.100
+oder Einzelinitiativen geknüpft,
+
+98
+00:03:39.680 --> 00:03:41.440
+da eine datenschutzkonforme und
+
+99
+00:03:41.440 --> 00:03:43.680
+rechtssichere Nutzung im breiten
+
+100
+00:03:43.680 --> 00:03:46.320
+Schulalltag bislang kaum gegeben ist.
+
+101
+00:03:49.280 --> 00:03:52.040
+Der Einsatz von KI Assistenzsystemen
+
+102
+00:03:52.040 --> 00:03:53.880
+eröffnet nicht nur Möglichkeiten
+
+103
+00:03:53.880 --> 00:03:55.960
+zur Effizienzsteigerung, sondern
+
+104
+00:03:55.960 --> 00:03:58.080
+kann schulische Leistungsbewertung
+
+105
+00:03:58.080 --> 00:04:00.160
+grundlegend weiterentwickeln.
+
+106
+00:04:00.160 --> 00:04:02.600
+Forschungsergebnisse aus Pilotprojekten
+
+107
+00:04:02.600 --> 00:04:04.920
+zeigen, dass KI basierte Rückmeldungen
+
+108
+00:04:04.920 --> 00:04:06.960
+zu einer stärkeren Auseinandersetzung
+
+109
+00:04:06.960 --> 00:04:09.300
+mit Bewertungskriterien führen
+
+110
+00:04:09.300 --> 00:04:10.980
+und die Bereitschaft zur gezielten
+
+111
+00:04:10.980 --> 00:04:13.700
+Überarbeitung eigener Arbeiten fördern.
+
+112
+00:04:13.700 --> 00:04:15.780
+Für die Schulentwicklung bedeutet
+
+113
+00:04:15.780 --> 00:04:18.700
+Rückmeldekultur und Lernprozesse werden
+
+114
+00:04:18.700 --> 00:04:21.300
+nachhaltiger und individueller.
+
+115
+00:04:24.020 --> 00:04:25.860
+Ein zentrales Potenzial liegt
+
+116
+00:04:25.860 --> 00:04:26.980
+in der systematischen
+
+117
+00:04:26.980 --> 00:04:29.300
+Analyse großer Datenmengen.
+
+118
+00:04:29.300 --> 00:04:32.020
+KI kann innerhalb kurzer Zeit Muster und
+
+119
+00:04:32.020 --> 00:04:34.920
+Fehlerschwerpunkte auf Klassen, Gruppen
+
+120
+00:04:34.920 --> 00:04:37.390
+oder Individualebene identifizieren.
+
+121
+00:04:38.030 --> 00:04:39.950
+Das ermöglicht Lehrkräften,
+
+122
+00:04:39.950 --> 00:04:41.790
+Trends im Lernverhalten früh
+
+123
+00:04:41.790 --> 00:04:43.790
+zu erkennen und differenzierte
+
+124
+00:04:43.790 --> 00:04:45.710
+Förderstrategien zu entwickeln,
+
+125
+00:04:45.710 --> 00:04:47.390
+etwa indem gezielt
+
+126
+00:04:47.390 --> 00:04:49.230
+Aufgabenstellungen angepasst
+
+127
+00:04:49.230 --> 00:04:50.989
+oder Unterstützungsmaterial
+
+128
+00:04:50.989 --> 00:04:52.110
+bereitgestellt werden.
+
+129
+00:04:56.190 --> 00:04:57.750
+Ein weiterer Fortschritt ergibt
+
+130
+00:04:57.750 --> 00:04:59.310
+sich aus der Transparenz und
+
+131
+00:04:59.310 --> 00:05:01.150
+Nachvollziehbarkeit von Bewertungen.
+
+132
+00:05:01.870 --> 00:05:03.990
+Digitale Feedbackprotokolle, die
+
+133
+00:05:03.990 --> 00:05:05.430
+durch Künstliche Intelligenz
+
+134
+00:05:05.430 --> 00:05:07.510
+unterstützt werden, dokumentieren
+
+135
+00:05:07.510 --> 00:05:09.430
+den Lernfortschritt und machen
+
+136
+00:05:09.430 --> 00:05:11.110
+die Entwicklung von Kompetenzen
+
+137
+00:05:11.110 --> 00:05:13.390
+für alle Beteiligten sichtbarer.
+
+138
+00:05:13.390 --> 00:05:15.310
+Damit wird Leistungsbewertung nicht
+
+139
+00:05:15.310 --> 00:05:17.470
+nur eine einmalige Rückmeldung,
+
+140
+00:05:17.470 --> 00:05:19.270
+sondern ein kontinuierlicher
+
+141
+00:05:19.270 --> 00:05:22.270
+Begleitprozess, der Selbstregulation und
+
+142
+00:05:22.270 --> 00:05:24.150
+Verantwortungsbewusstsein der
+
+143
+00:05:24.150 --> 00:05:26.350
+Schülerinnen und Schüler fördert.
+
+144
+00:05:26.350 --> 00:05:28.270
+Zugleich müssen wir berücksichtigen,
+
+145
+00:05:28.270 --> 00:05:30.390
+dass auch KI gestütztes Feedback
+
+146
+00:05:30.390 --> 00:05:33.010
+Verzerrungen enthalten kann, etwa eine
+
+147
+00:05:33.010 --> 00:05:36.010
+Tendenz zum „Teaching to the Middle".
+
+148
+00:05:36.010 --> 00:05:37.330
+Lehrkräfte sollten die
+
+149
+00:05:37.330 --> 00:05:39.530
+Rückmeldungen daher kritisch prüfen
+
+150
+00:05:39.530 --> 00:05:40.970
+und ihre Schülerinnen und
+
+151
+00:05:40.970 --> 00:05:43.210
+Schüler dafür sensibilisieren.
+
+152
+00:05:43.210 --> 00:05:45.010
+Eine vertiefte Auseinandersetzung
+
+153
+00:05:45.010 --> 00:05:47.130
+mit Bias und Diskriminierung
+
+154
+00:05:47.130 --> 00:05:48.570
+folgt im Abschnitt zu
+
+155
+00:05:48.570 --> 00:05:50.490
+autonomen Bewertungssystemen.
+
+156
+00:05:53.290 --> 00:05:55.690
+Schließlich zeigen erste Erfahrungen,
+
+157
+00:05:55.690 --> 00:05:58.130
+dass KI Assistenzsysteme
+
+158
+00:05:58.130 --> 00:05:59.850
+auch die Barrierefreiheit und
+
+159
+00:05:59.850 --> 00:06:01.370
+Inklusion verbessern können.
+
+160
+00:06:02.180 --> 00:06:05.020
+Sprachsensibles Feedback oder adaptive
+
+161
+00:06:05.020 --> 00:06:07.500
+Hilfen helfen besonders Schülerinnen
+
+162
+00:06:07.500 --> 00:06:09.540
+und Schülern mit Förderbedarf oder
+
+163
+00:06:09.540 --> 00:06:12.740
+Deutsch als Zweitsprache ihren Lernstand
+
+164
+00:06:12.740 --> 00:06:14.780
+differenziert einzuschätzen und
+
+165
+00:06:14.780 --> 00:06:16.740
+passgenaue Unterstützung zu erhalten.
+
+166
+00:06:20.020 --> 00:06:21.980
+Über den aktuellen Stand hinaus
+
+167
+00:06:21.980 --> 00:06:23.260
+eröffnen sich durch die
+
+168
+00:06:23.260 --> 00:06:25.940
+Weiterentwicklung von KI-Technologien
+
+169
+00:06:25.940 --> 00:06:27.300
+Perspektiven für eine
+
+170
+00:06:27.300 --> 00:06:29.660
+individuellere, gerechtere und
+
+171
+00:06:29.660 --> 00:06:31.940
+kompetenzorientierte Leistungsbewertung
+
+172
+00:06:32.660 --> 00:06:33.340
+Lernende und
+
+173
+00:06:33.340 --> 00:06:35.380
+Lehrkräfte gleichermaßen stärkt.
+
+174
+00:06:38.500 --> 00:06:40.140
+Wie schon angeklungen, stehen
+
+175
+00:06:40.140 --> 00:06:42.260
+diesen Potenzialen jedoch erhebliche
+
+176
+00:06:42.260 --> 00:06:44.420
+Herausforderungen gegenüber.
+
+177
+00:06:44.420 --> 00:06:47.300
+Der Datenschutz ist ein zentrales Thema.
+
+178
+00:06:47.300 --> 00:06:49.260
+Die DSGVO verbietet das
+
+179
+00:06:49.260 --> 00:06:51.540
+Hochladen personenbezogener und
+
+180
+00:06:51.540 --> 00:06:53.260
+personenbeziehbarer Daten von
+
+181
+00:06:53.260 --> 00:06:54.980
+Schülerinnen und Schülern.
+
+182
+00:06:54.980 --> 00:06:57.820
+Zudem wird mit dem EU AI Act die
+
+183
+00:06:57.820 --> 00:06:59.500
+Nutzung von KI-Systemen zur
+
+184
+00:06:59.500 --> 00:07:01.620
+Leistungsbewertung sehr stark reguliert.
+
+185
+00:07:02.390 --> 00:07:03.710
+Solche Systeme gelten als
+
+186
+00:07:03.710 --> 00:07:06.470
+Hochrisikoanwendungen und dürfen nur
+
+187
+00:07:06.470 --> 00:07:09.190
+unter strengen Auflagen mit Transparenz,
+
+188
+00:07:09.190 --> 00:07:11.590
+Dokumentations und Kontrollpflichten
+
+189
+00:07:11.590 --> 00:07:13.430
+sowie ständiger menschlicher
+
+190
+00:07:13.430 --> 00:07:14.870
+Aufsicht eingesetzt werden.
+
+191
+00:07:15.910 --> 00:07:17.749
+Eine automatisierte Bewertung
+
+192
+00:07:17.749 --> 00:07:19.670
+ist rechtlich ausgeschlossen.
+
+193
+00:07:19.670 --> 00:07:21.390
+Die Letztverantwortung für die
+
+194
+00:07:21.390 --> 00:07:23.190
+Leistungsbewertung bleibt
+
+195
+00:07:23.190 --> 00:07:25.030
+verbindlich bei der Lehrkraft.
+
+196
+00:07:25.030 --> 00:07:27.350
+Hinzu kommt, dass viele KI
+
+197
+00:07:27.350 --> 00:07:29.150
+Tools nicht für den schulischen
+
+198
+00:07:29.150 --> 00:07:30.550
+Kontext entwickelt wurden.
+
+199
+00:07:31.250 --> 00:07:33.250
+Sie erfüllen deshalb die Anforderungen
+
+200
+00:07:33.250 --> 00:07:35.770
+an Transparenz, Nachvollziehbarkeit
+
+201
+00:07:35.770 --> 00:07:37.890
+und Datensicherheit oft nicht.
+
+202
+00:07:40.930 --> 00:07:42.650
+Neben der Sicherheit ist auch die
+
+203
+00:07:42.650 --> 00:07:45.250
+Qualität der KI Bewertung begrenzt.
+
+204
+00:07:45.250 --> 00:07:47.130
+Untersuchungen zeigen, dass die
+
+205
+00:07:47.130 --> 00:07:48.930
+Ergebnisse je nach Eingabe
+
+206
+00:07:48.930 --> 00:07:50.970
+unterschiedlich ausfallen, Fehler
+
+207
+00:07:50.970 --> 00:07:53.410
+übersehen werden und sachlich falsche
+
+208
+00:07:53.410 --> 00:07:55.490
+Texte teilweise nicht erkannt werden.
+
+209
+00:07:56.300 --> 00:07:58.180
+Die Kultusministerkonferenz und
+
+210
+00:07:58.180 --> 00:08:00.500
+Fachinstitutionen betonen, dass
+
+211
+00:08:00.500 --> 00:08:02.780
+die pädagogische Bewertungskompetenz
+
+212
+00:08:02.780 --> 00:08:04.380
+und Letztverantwortung
+
+213
+00:08:04.380 --> 00:08:06.940
+immer bei der Lehrkraft liegen muss.
+
+214
+00:08:06.940 --> 00:08:09.340
+Fortbildungsbedarf bei Lehrkräften,
+
+215
+00:08:09.340 --> 00:08:10.940
+mangelnde Standardisierung
+
+216
+00:08:10.940 --> 00:08:13.100
+und offene Fragen zur Haftung
+
+217
+00:08:13.100 --> 00:08:14.940
+sind weitere Herausforderungen.
+
+218
+00:08:17.980 --> 00:08:19.940
+Ein weiteres Risiko besteht in der
+
+219
+00:08:19.940 --> 00:08:22.020
+Gefahr, dass sich Lehrkräfte oder
+
+220
+00:08:22.020 --> 00:08:24.460
+Schulleitungen zu sehr auf maschinelle
+
+221
+00:08:24.460 --> 00:08:26.520
+Vorschläge verlassen und und dabei
+
+222
+00:08:26.520 --> 00:08:29.120
+die notwendige individuelle pädagogische
+
+223
+00:08:29.120 --> 00:08:30.640
+Einordnung vernachlässigen.
+
+224
+00:08:31.360 --> 00:08:33.520
+Es besteht zudem die Gefahr der
+
+225
+00:08:33.520 --> 00:08:36.240
+Überbewertung quantitativer Daten,
+
+226
+00:08:36.240 --> 00:08:39.120
+da KI Systeme eher das messen, was
+
+227
+00:08:39.120 --> 00:08:41.280
+digitalisiert und formalisierbar
+
+228
+00:08:41.280 --> 00:08:43.760
+ist, während komplexe kreative oder
+
+229
+00:08:43.760 --> 00:08:45.960
+soziale Kompetenzen weniger gut
+
+230
+00:08:45.960 --> 00:08:46.800
+erfasst werden.
+
+231
+00:08:47.440 --> 00:08:49.720
+Kritisch zu sehen ist auch, dass durch
+
+232
+00:08:49.720 --> 00:08:52.040
+die Vielzahl an Tools und mangelnde
+
+233
+00:08:52.040 --> 00:08:53.560
+Transparenz in in deren
+
+234
+00:08:53.560 --> 00:08:55.920
+Bewertungskriterien das Vertrauen in
+
+235
+00:08:55.920 --> 00:08:58.480
+schulische Leistungsbewertung insgesamt
+
+236
+00:08:58.480 --> 00:09:00.640
+beeinträchtigt werden könnte.
+
+237
+00:09:00.640 --> 00:09:02.920
+Zudem ist bislang ungeklärt, wie
+
+238
+00:09:02.920 --> 00:09:05.080
+mit Fehlern oder Falschbewertungen
+
+239
+00:09:05.080 --> 00:09:07.600
+der KI im Ernstfall umgegangen wird
+
+240
+00:09:07.600 --> 00:09:09.520
+und wer im Streitfall haftet.
+
+241
+00:09:13.600 --> 00:09:16.480
+Der Einsatz von KI-Assistenzsystemen
+
+242
+00:09:16.480 --> 00:09:18.160
+zur Leistungsbewertung birgt.
+
+243
+00:09:18.160 --> 00:09:19.680
+Chancen für Entlastung und
+
+244
+00:09:19.680 --> 00:09:22.450
+Individualisierung, ist aber aktuell an
+
+245
+00:09:22.450 --> 00:09:24.450
+strenge rechtliche, ethische und
+
+246
+00:09:24.450 --> 00:09:27.010
+qualitative Bedingungen geknüpft.
+
+247
+00:09:27.010 --> 00:09:29.410
+KI kann unterstützen, aber
+
+248
+00:09:29.410 --> 00:09:31.090
+der Mensch muss agieren.
