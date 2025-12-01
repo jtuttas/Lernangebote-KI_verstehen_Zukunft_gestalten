@@ -7,19 +7,35 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Dieses Lernangebot führt Lehrkräfte in die anwendungsbezogene Perspektive des Frankfurt-Dreiecks ein und beantwortet die Leitfrage „Wie nutze ich KI interaktiv im Sprachenunterricht?“. In einer kompakten Mischung aus wissenschaftlichem Fundament und Praxisbezug wird vermittelt, wie generative KI-Werkzeuge Routinetätigkeiten wie Texterstellung, differenziertes Feedback, adaptive Hör- und Leseaufgaben oder interkulturelle Simulationen unterstützen können. Das Lernangebot stellt konkrete Tools und praxiserprobte Unterrichtsszenarien vor, um KI kritisch auszuwählen, datenschutzkonform zu integrieren und die fünf sprachlichen Fertigkeiten gezielt zu fördern.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+Allgemeine Einsatzmöglichkeiten von KI: Texterstellung und -differenzierung, Fragengenerierung, Niveaudifferenzierung, Übersetzungen und Erstellung von Handlungssituationen
+
+KI-Einsatz zur Förderung der fünf sprachlichen Fertigkeiten (Hören, Lesen, Schreiben, Sprechen, Mediation)
+
+Hören: Erstellung angepasster Hörübungen und kreativer Folgeaufgaben
+
+Lesen: Unterstützung bei der Textanalyse, Anpassung von Texten an unterschiedliche Leseniveaus und Generierung von Aufgaben zur Vertiefung
+
+Schreiben: Generierung von Schreibimpulsen, Strukturierungshilfen und Erstellung von KI-gestütztem Feedback
+
+Sprechen: Anregungen für Rollenspiele, Dialogübungen basierend auf Szenarien und Nutzung von KI-Apps für Aussprachetraining
+
+Mediation: Vereinfachung komplexer Texte, Erstellung von Materialien zu kulturellen Themen und Simulationen interkultureller Szenarien
+
+Wissenschaftliche Grundlagen und empirische Evidenz zum KI-Einsatz im Sprachunterricht
+
+Rechtliche Rahmenbedingungen (DSGVO, EU AI Act) und ethische Reflexion
+
+Anregung zur praktischen Erprobung mit eigenem Unterrichtsmaterial
 
 **Lernziele**
 
-...
+Die Teilnehmenden verstehen grundlegende Einsatzmöglichkeiten von Künstlicher Intelligenz (KI) im Sprachenunterricht. Sie können ausgewählte KI-Werkzeuge und -Methoden nutzen, um die Perspektive der KI für die Gestaltung von Lernangeboten und die Förderung sprachlicher Kompetenzen (Lesen, Schreiben, Hören, Sprechen, Mediation) nutzbar zu machen.
 
 **Format**
 
@@ -27,17 +43,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal. Es eignet sich insbesondere für Lehrkräfte aller Schulformen, die bereits über digitale Grundkenntnisse verfügen (Kompetenzstufe 2) und KI-Methoden gezielt für die Gestaltung von Lernangeboten im Sprachunterricht nutzen möchten.
 
 **Voraussetzungen und Hinweise**
 
-...
+Sie sollten über grundlegende digitale Fertigkeiten, erste Unterrichtserfahrung und Basiswissen zu KI verfügen.
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skripte
+- [Videos](https://speicher.nibis.de/s/tFmH8EHJ9ijmZjH)
 - Audiospur
 - Transkript
 
