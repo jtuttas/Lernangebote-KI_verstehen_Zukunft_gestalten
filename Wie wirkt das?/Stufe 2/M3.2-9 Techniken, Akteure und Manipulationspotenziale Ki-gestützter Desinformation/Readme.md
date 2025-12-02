@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+#  Techniken, Akteure und Manipulationspotenziale Ki-gestützter Desinformation
+Angebotskennung: M3.2-9
 
 ## Inhaltiche Gestaltung
 
@@ -7,19 +7,22 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+In diesem Lernangebot erfahren Sie, wie Künstliche Intelligenz die Entstehung und Verbreitung von Informationen verändert und welche neuen Risiken durch KI-gestützte Desinformation entstehen. Das Modul beleuchtet, wie generative KI täuschend echte Falschmeldungen und Deepfakes erzeugt, welche Akteure diese Technologien für welche Ziele nutzen und welche psychologischen Mechanismen die Wirkung dieser Inhalte verstärken. Ziel ist es, typische Techniken und Manipulationsstrategien zu erkennen sowie Kompetenzen für einen kritischen und sicheren Umgang mit digitalen Informationen zu entwickeln.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Grundlagen der Desinformation: Abgrenzung von Desinformation, Misinformation und Malinformation sowie die Rolle generativer KI als Verstärker.
+* Technische Methoden: Funktionsweise von Textgeneratoren (LLMs), Deepfakes (Audio/Video), Social Bots und Fake-Websites.
+* Akteure und Motive: Analyse staatlicher, politischer, kommerzieller und individueller Akteure sowie deren Ziele (z. B. Destabilisierung, Einflussnahme, Profit).
+* Wirkmechanismen: Psychologische Effekte wie emotionale Trigger, der „Truth Effect“ und die „Liar’s Dividend“.
+* Gesellschaftliche Folgen: Auswirkungen auf Meinungsbildung, Vertrauen in Institutionen und demokratische Prozesse.
+* Gegenstrategien: Technische Erkennungsmöglichkeiten, Faktenchecks, regulatorische Maßnahmen und die Bedeutung von Medienkompetenz.
 
 **Lernziele**
 
-...
+Vermittlung von Wissen über eingesetzte KI-Techniken, typische Akteure und das Potenzial zur Manipulation durch KI-gestützte Desinformationskampagnen.
 
 **Format**
 
@@ -27,17 +30,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren).
 
 **Voraussetzungen und Hinweise**
 
-...
+Es sind keine spezialisierten Vorkenntnisse in Informatik oder KI erforderlich. 
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Script
+- [Videos](https://speicher.nibis.de/s/wmNpZXernNxqoS8)
 - Audiospur
 - Transkript
 
@@ -47,7 +50,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50776)**
 
 ## Contribution
 
