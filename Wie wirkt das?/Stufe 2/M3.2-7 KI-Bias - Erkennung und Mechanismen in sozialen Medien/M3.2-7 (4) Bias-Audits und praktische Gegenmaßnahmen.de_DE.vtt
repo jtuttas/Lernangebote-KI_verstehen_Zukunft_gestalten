@@ -1,0 +1,785 @@
+WEBVTT
+
+1
+00:00:06.480 --> 00:00:07.880
+Willkommen zu diesem Video
+
+2
+00:00:07.880 --> 00:00:09.240
+dieser Schulungsreihe über
+
+3
+00:00:09.240 --> 00:00:12.160
+KI-Bias in sozialen Medien.
+
+4
+00:00:12.160 --> 00:00:15.360
+Thema sind die konkreten Fragen: Was lässt sich
+
+5
+00:00:15.360 --> 00:00:18.000
+gegen algorithmische Verzerrungen tun?
+
+6
+00:00:18.000 --> 00:00:20.080
+Welche Rolle spielen Bias-
+
+7
+00:00:20.080 --> 00:00:22.320
+Audits und welche Strategien
+
+8
+00:00:22.320 --> 00:00:23.840
+sind in der Praxis hilfreich?
+
+9
+00:00:26.970 --> 00:00:29.090
+Bias-Audits sind systematische
+
+10
+00:00:29.090 --> 00:00:31.290
+Überprüfungen von KI-Systemen auf
+
+11
+00:00:31.290 --> 00:00:33.610
+mögliche Diskriminierungseffekte.
+
+12
+00:00:33.610 --> 00:00:35.250
+Ziel ist es, Verzerrungen
+
+13
+00:00:35.250 --> 00:00:38.130
+aufzuspüren, zu minimieren und ethische
+
+14
+00:00:38.130 --> 00:00:39.730
+Prinzipien wie Fairness und
+
+15
+00:00:39.730 --> 00:00:41.690
+Gleichbehandlung zu sichern.
+
+16
+00:00:41.690 --> 00:00:43.250
+Darüber hinaus bestehen
+
+17
+00:00:43.250 --> 00:00:44.970
+rechtliche Verpflichtungen.
+
+18
+00:00:44.970 --> 00:00:47.290
+In der Europäischen Union verpflichten
+
+19
+00:00:47.290 --> 00:00:49.610
+Gesetze wie der Digital Services
+
+20
+00:00:49.610 --> 00:00:51.810
+Act oder das deutsche Digitale
+
+21
+00:00:51.810 --> 00:00:54.570
+Dienstegesetz große Plattformen dazu,
+
+22
+00:00:54.570 --> 00:00:56.970
+algorithmische Systeme regelmäßig
+
+23
+00:00:56.970 --> 00:00:59.690
+zu überprüfen und offenzulegen.
+
+24
+00:00:59.690 --> 00:01:01.210
+Ein Audit kann helfen,
+
+25
+00:01:01.210 --> 00:01:03.210
+verborgene Muster zu erkennen,
+
+26
+00:01:03.210 --> 00:01:05.170
+die ansonsten von Entwicklern oder
+
+27
+00:01:05.170 --> 00:01:07.450
+Betroffenen übersehen würden.
+
+28
+00:01:07.450 --> 00:01:10.010
+Gerade in dynamischen sozialen Medien,
+
+29
+00:01:10.010 --> 00:01:12.250
+wo sich Inhalte und Nutzungsverhalten
+
+30
+00:01:12.250 --> 00:01:14.090
+ständig verändern, ist eine
+
+31
+00:01:14.090 --> 00:01:16.410
+regelmäßige Überprüfung zentral.
+
+32
+00:01:19.580 --> 00:01:21.660
+Um die praktische Umsetzung greifbarer
+
+33
+00:01:21.660 --> 00:01:22.940
+zu machen, lässt sich der
+
+34
+00:01:22.940 --> 00:01:24.900
+Ablauf in vier Schritten beschreiben.
+
+35
+00:01:25.366 --> 00:01:26.260
+Erstens:
+
+36
+00:01:26.260 --> 00:01:29.060
+Festlegung von Fairness-Kriterien.
+
+37
+00:01:29.060 --> 00:01:32.420
+Was bedeutet fair im jeweiligen Kontext?
+
+38
+00:01:32.420 --> 00:01:34.300
+Das kann unterschiedliche Gruppen,
+
+39
+00:01:34.300 --> 00:01:36.340
+Themen oder Inhalte betreffen.
+
+40
+00:01:36.933 --> 00:01:37.780
+Zweitens:
+
+41
+00:01:37.780 --> 00:01:39.740
+Test mit ausgewogenen und
+
+42
+00:01:39.740 --> 00:01:41.780
+diversen Datensätzen.
+
+43
+00:01:41.780 --> 00:01:43.780
+Algorithmen werden mit eigens
+
+44
+00:01:43.780 --> 00:01:45.460
+erstellten Daten konfrontiert,
+
+45
+00:01:46.220 --> 00:01:48.540
+um problematische Muster zu identifizieren.
+
+46
+00:01:49.300 --> 00:01:50.140
+Drittens:
+
+47
+00:01:50.140 --> 00:01:53.580
+Analyse der Ergebnismuster. Welche Gruppen werden
+
+48
+00:01:53.580 --> 00:01:55.980
+bevorzugt oder benachteiligt?
+
+49
+00:01:55.980 --> 00:01:58.220
+Gibt es systematische Unterschiede
+
+50
+00:01:58.220 --> 00:01:59.980
+bei der Ausspielung von Inhalten?
+
+51
+00:02:00.766 --> 00:02:01.660
+Viertens:
+
+52
+00:02:01.660 --> 00:02:04.780
+Anpassung der Algorithmen und Prozesse.
+
+53
+00:02:04.780 --> 00:02:06.940
+Die gewonnenen Erkenntnisse fließen
+
+54
+00:02:06.940 --> 00:02:08.940
+direkt in die Optimierung ein.
+
+55
+00:02:08.940 --> 00:02:11.180
+In der Praxis können solche Audits
+
+56
+00:02:11.180 --> 00:02:13.740
+meist nur von spezialisierten Fachleuten
+
+57
+00:02:13.740 --> 00:02:15.420
+und Plattformen umgesetzt werden,
+
+58
+00:02:16.170 --> 00:02:17.970
+da sie Zugang zu den Daten und
+
+59
+00:02:17.970 --> 00:02:19.930
+technische Expertise erfordern.
+
+60
+00:02:20.570 --> 00:02:22.530
+Für einzelne Nutzende bleibt dies
+
+61
+00:02:22.530 --> 00:02:24.930
+eher ein ideales Setting, das auf
+
+62
+00:02:24.930 --> 00:02:27.850
+Plattformebene umgesetzt werden muss.
+
+63
+00:02:27.850 --> 00:02:31.170
+Bias-Detektion und Abschwächung muss
+
+64
+00:02:31.170 --> 00:02:32.970
+als Prozess verstanden werden,
+
+65
+00:02:32.970 --> 00:02:34.970
+der fortlaufend wiederholt wird.
+
+66
+00:02:37.930 --> 00:02:39.890
+Die folgenden Prinzipien beziehen
+
+67
+00:02:39.890 --> 00:02:42.770
+sich teilweise auf textgenerierende KI
+
+68
+00:02:42.770 --> 00:02:43.530
+und lassen sich bei
+
+69
+00:02:43.530 --> 00:02:45.570
+der direkten Social Media Nutzung
+
+70
+00:02:45.570 --> 00:02:47.890
+nicht eins zu eins anwenden.
+
+71
+00:02:47.890 --> 00:02:50.610
+Sie helfen aber, das Grundprinzip besser
+
+72
+00:02:50.610 --> 00:02:52.850
+zu verstehen, bevor anschließend der
+
+73
+00:02:52.850 --> 00:02:55.010
+Blick auf konkrete Möglichkeiten im
+
+74
+00:02:55.010 --> 00:02:57.730
+Umgang mit Social Media gerichtet wird.
+
+75
+00:02:57.730 --> 00:02:59.690
+Denn auch einzelne Personen können
+
+76
+00:02:59.690 --> 00:03:01.930
+bei der KI-Nutzung etwas tun,
+
+77
+00:03:01.930 --> 00:03:03.650
+um Bias-Effekte zu verringern.
+
+78
+00:03:04.210 --> 00:03:07.250
+Zwei Ansatzpunkte sind entscheident: Vor der
+
+79
+00:03:07.250 --> 00:03:11.320
+Dateneingabe und nach der Ausgabe.
+
+80
+00:03:11.320 --> 00:03:14.920
+A: Vor der Eingabe, Prompt Engineering.
+
+81
+00:03:14.920 --> 00:03:17.400
+Wer mit KI-Anwendungen arbeitet,
+
+82
+00:03:17.400 --> 00:03:18.640
+kann durch bewusste und
+
+83
+00:03:18.640 --> 00:03:20.840
+neutrale Formulierungen Einfluss
+
+84
+00:03:20.840 --> 00:03:22.600
+auf die Ergebnisse nehmen.
+
+85
+00:03:22.600 --> 00:03:25.320
+Suggestivfragen oder voreingenommene
+
+86
+00:03:25.320 --> 00:03:26.600
+Prompts erhöhen das
+
+87
+00:03:26.600 --> 00:03:29.000
+Risiko einseitiger Antworten.
+
+88
+00:03:29.000 --> 00:03:32.280
+Hilfreich ist zudem, vorurteilsbehaftete
+
+89
+00:03:32.280 --> 00:03:34.560
+Begriffe zu vermeiden und stattdessen
+
+90
+00:03:34.560 --> 00:03:36.440
+inklusive Sprache zu verwenden.
+
+91
+00:03:37.266 --> 00:03:38.230
+Tipps:
+
+92
+00:03:38.230 --> 00:03:41.030
+Offene und neutrale Fragen formulieren.
+
+93
+00:03:41.030 --> 00:03:43.190
+KI explizit auffordern,
+
+94
+00:03:43.190 --> 00:03:45.710
+verschiedene Perspektiven, Pro und
+
+95
+00:03:45.710 --> 00:03:47.710
+Contra Argumente oder auch
+
+96
+00:03:47.710 --> 00:03:49.590
+Gegenmeinungen zu berücksichtigen.
+
+97
+00:03:50.230 --> 00:03:52.550
+Ein negatives Beispiel wäre eine
+
+98
+00:03:52.550 --> 00:03:55.630
+Suggestivfrage wie: Warum posten Frauen
+
+99
+00:03:55.630 --> 00:03:57.670
+weniger spannende Inhalte,
+
+100
+00:03:57.670 --> 00:04:00.790
+die einseitige Vorurteile verstärkt.
+
+101
+00:04:00.790 --> 00:04:02.630
+Ein positives Beispiel wäre
+
+102
+00:04:02.630 --> 00:04:03.990
+die neutrale Formulierung.
+
+103
+00:04:04.730 --> 00:04:06.810
+Welche unterschiedlichen Argumente gibt
+
+104
+00:04:06.810 --> 00:04:10.010
+es für und gegen diese Maßnahme,
+
+105
+00:04:10.010 --> 00:04:12.490
+die vielfältige Sichtweisen ermöglicht.
+
+106
+00:04:13.130 --> 00:04:16.930
+B: Nach der Ausgabe. Kritische Bewertung
+
+107
+00:04:16.930 --> 00:04:19.690
+und Anpassung des Nutzungsverhaltens.
+
+108
+00:04:19.690 --> 00:04:22.330
+Algorithmische Vorschläge und Ergebnisse
+
+109
+00:04:22.330 --> 00:04:25.370
+textgenerierender KI bewusst prüfen
+
+110
+00:04:25.370 --> 00:04:28.170
+und aktiv nach alternativen Quellen,
+
+111
+00:04:28.170 --> 00:04:30.570
+Inhalten und Perspektiven suchen.
+
+112
+00:04:31.200 --> 00:04:33.080
+Wichtig ist das Bewusstsein, dass
+
+113
+00:04:33.080 --> 00:04:35.840
+KI generierte Ergebnisse und die Social
+
+114
+00:04:35.840 --> 00:04:37.960
+Media Timeline oft ein
+
+115
+00:04:37.960 --> 00:04:40.400
+Spiegel der bisherigen Interaktionen,
+
+116
+00:04:40.400 --> 00:04:42.160
+Anfragen und Interessen sind.
+
+117
+00:04:42.720 --> 00:04:45.600
+Hilfreiche Fragen sind hier: Fehlen
+
+118
+00:04:45.600 --> 00:04:48.080
+bestimmte Meinungen? Gibt es Muster
+
+119
+00:04:48.080 --> 00:04:50.400
+in den Empfehlungen? Wie Divers
+
+120
+00:04:50.400 --> 00:04:52.560
+sind die Informationsquellen?
+
+121
+00:04:52.560 --> 00:04:55.680
+Ein Beispiel: Wenn der Feed fast ausschließlich
+
+122
+00:04:55.680 --> 00:04:57.360
+Unterhaltungsvideos anzeigt
+
+123
+00:04:57.870 --> 00:04:59.910
+und Nachrichten oder Bildungsinhalte
+
+124
+00:04:59.910 --> 00:05:02.390
+fehlen, lohnt es sich, gezielt nach
+
+125
+00:05:02.390 --> 00:05:04.510
+diesen Kategorien zu suchen.
+
+126
+00:05:04.510 --> 00:05:06.630
+Umgekehrt kann es auch positiv
+
+127
+00:05:06.630 --> 00:05:09.110
+auffallen, wenn im Feed Beiträge aus
+
+128
+00:05:09.110 --> 00:05:10.710
+ganz unterschiedlichen Quellen
+
+129
+00:05:10.710 --> 00:05:12.750
+erscheinen und dadurch verschiedene
+
+130
+00:05:12.750 --> 00:05:14.430
+Perspektiven sichtbar werden.
+
+131
+00:05:17.950 --> 00:05:19.830
+Die folgenden Strategien bieten
+
+132
+00:05:19.830 --> 00:05:21.790
+konkrete Handlungsmöglichkeiten
+
+133
+00:05:21.790 --> 00:05:23.710
+wie Nutzende ihr Social Media
+
+134
+00:05:23.710 --> 00:05:25.710
+erleben aktiv beeinflussen können.
+
+135
+00:05:26.433 --> 00:05:27.370
+Erstens:
+
+136
+00:05:27.370 --> 00:05:29.010
+Den Algorithmus durch gezielte
+
+137
+00:05:29.010 --> 00:05:31.530
+Interaktionen bewusst trainieren.
+
+138
+00:05:31.530 --> 00:05:33.610
+Unterschiedlichen Accounts folgen.
+
+139
+00:05:33.610 --> 00:05:35.570
+Vielfältige Inhalte liken und
+
+140
+00:05:35.570 --> 00:05:37.690
+gezielt Suchfragen einsetzen.
+
+141
+00:05:38.333 --> 00:05:39.290
+Zweitens:
+
+142
+00:05:39.290 --> 00:05:41.130
+Regelmäßig die Social Media
+
+143
+00:05:41.130 --> 00:05:43.050
+Einstellungen zurücksetzen,
+
+144
+00:05:43.050 --> 00:05:45.370
+festgefahrene Vorlieben zu lockern.
+
+145
+00:05:45.900 --> 00:05:46.570
+Drittens:
+
+146
+00:05:46.570 --> 00:05:48.170
+Verschiedene Plattformen oder
+
+147
+00:05:48.170 --> 00:05:50.690
+Suchmaschinen nutzen, um eine größere
+
+148
+00:05:50.690 --> 00:05:52.810
+Bandbreite an Perspektiven zu erhalten.
+
+149
+00:05:53.533 --> 00:05:54.660
+Viertens:
+
+150
+00:05:54.660 --> 00:05:56.420
+Social Media Zeiten begrenzen
+
+151
+00:05:56.420 --> 00:05:58.780
+und analoge Alternativen schaffen,
+
+152
+00:05:58.780 --> 00:06:00.260
+um die Dominanz digitaler
+
+153
+00:06:00.260 --> 00:06:02.340
+Informationskanäle zu reduzieren.
+
+154
+00:06:05.460 --> 00:06:06.820
+Auch die beste Technik
+
+155
+00:06:06.820 --> 00:06:08.660
+stößt an ihre Grenzen.
+
+156
+00:06:08.660 --> 00:06:11.140
+Vollautomatische Bias-Filter sind
+
+157
+00:06:11.140 --> 00:06:12.500
+bisher nicht möglich,
+
+158
+00:06:12.500 --> 00:06:14.660
+weil gesellschaftliche Vorurteile sehr
+
+159
+00:06:14.660 --> 00:06:17.140
+komplex sind und sich stetig verändern.
+
+160
+00:06:17.700 --> 00:06:19.260
+Es braucht daher immer eine
+
+161
+00:06:19.260 --> 00:06:20.260
+menschliche Aufsicht
+
+162
+00:06:20.850 --> 00:06:22.770
+und kontinuierliche Überprüfung.
+
+163
+00:06:23.490 --> 00:06:25.010
+Grenzen automatisierter
+
+164
+00:06:25.010 --> 00:06:27.410
+Biaserkennung bestehen darin, dass
+
+165
+00:06:27.410 --> 00:06:29.690
+Algorithmen, die schon auf Basis
+
+166
+00:06:29.690 --> 00:06:32.050
+verzerrter Trainingsdaten agieren,
+
+167
+00:06:32.050 --> 00:06:33.930
+subtile gesellschaftliche Muster
+
+168
+00:06:33.930 --> 00:06:36.170
+nicht erkennen können und damit
+
+169
+00:06:36.170 --> 00:06:38.050
+fehleranfällig bleiben und sie
+
+170
+00:06:38.050 --> 00:06:39.730
+gleichzeitig noch verstärken.
+
+171
+00:06:40.290 --> 00:06:42.530
+Sie orientieren sich stark an klar
+
+172
+00:06:42.530 --> 00:06:44.730
+messbaren Daten und übersehen
+
+173
+00:06:44.730 --> 00:06:47.080
+dabei feine Unterschiede wie etwa
+
+174
+00:06:47.080 --> 00:06:49.320
+stereotype Darstellungen oder
+
+175
+00:06:49.320 --> 00:06:51.720
+unterschwellige Diskriminierungen.
+
+176
+00:06:51.720 --> 00:06:53.320
+Dadurch kann es passieren,
+
+177
+00:06:53.320 --> 00:06:54.840
+dass bestehende Vorurteile
+
+178
+00:06:54.840 --> 00:06:56.440
+unbemerkt reproduziert werden.
+
+179
+00:06:59.480 --> 00:07:00.952
+Das Verständnis von KI-
+
+180
+00:07:00.952 --> 00:07:03.560
+Bias ist nur der erste Schritt.
+
+181
+00:07:03.560 --> 00:07:05.040
+Entscheidend ist der Umgang
+
+182
+00:07:05.040 --> 00:07:07.240
+damit sowohl auf technischer als
+
+183
+00:07:07.240 --> 00:07:09.160
+auch auf persönlicher Ebene.
+
+184
+00:07:09.160 --> 00:07:12.080
+Bias-Audits helfen, systematische
+
+185
+00:07:12.080 --> 00:07:14.320
+Verzerrungen sichtbar zu machen und
+
+186
+00:07:14.320 --> 00:07:16.280
+Fairness Kriterien umzusetzen.
+
+187
+00:07:17.120 --> 00:07:19.200
+Solche Audits sollten in erster
+
+188
+00:07:19.200 --> 00:07:21.520
+Linie auf Unternehmensseite stattfinden
+
+189
+00:07:21.520 --> 00:07:23.000
+oder durch unabhängige
+
+190
+00:07:23.000 --> 00:07:25.360
+Prüforganisationen durchgeführt werden.
+
+191
+00:07:26.000 --> 00:07:28.200
+Einzelne Nutzende können mit bewusstem
+
+192
+00:07:28.200 --> 00:07:30.720
+Verhalten, kritischer Bewertung und
+
+193
+00:07:30.720 --> 00:07:33.120
+vielfältiger Nutzung Einfluss nehmen.
+
+194
+00:07:33.680 --> 00:07:35.120
+Technische Lösungen haben
+
+195
+00:07:35.120 --> 00:07:37.120
+Grenzen, weshalb menschliche
+
+196
+00:07:37.120 --> 00:07:39.200
+Aufsicht unverzichtbar bleibt.

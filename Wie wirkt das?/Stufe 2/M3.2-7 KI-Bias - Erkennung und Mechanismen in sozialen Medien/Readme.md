@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# KI-Bias: Erkennung und Mechanismen in sozialen Medien
+Angebotskennung: M3.2-7
 
 ## Inhaltiche Gestaltung
 
@@ -7,19 +7,22 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Dieses Lernangebot widmet sich dem Thema KI-Bias in sozialen Medien und beleuchtet, wie algorithmische Verzerrungen entstehen, wirken und erkannt werden können. Anhand von vier aufeinander aufbauenden Videos werden zentrale Konzepte wie Input-Bias, verzerrte Trainingsdaten, algorithmische Meinungsbildung („Meinungen“ in KI) und Bias-Audits anschaulich erklärt. Das Modul zeigt auf, wie künstliche Intelligenz gesellschaftliche Vorurteile verstärken kann und welche Verantwortung sich daraus ergibt. Ziel ist es, diese Mechanismen zu verstehen, Risiken kritisch einzuordnen und Strategien zu entwickeln, um Jugendliche zu einem reflektierten und verantwortungsvollen Umgang mit digitalen Medien und KI-Systemen zu befähigen.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Grundlagen von KI-Bias: Systematische Verzerrungen in Algorithmen durch Input-Bias oder fehlerhaftes Design
+* „Meinungen“ in KI-Systemen: Gewichtete Perspektiven und Prozesse in den „Hidden Layers“
+* Datenqualität: Bedeutung von Diversität und Repräsentativität in Trainingsdaten zur Prävention von Bias
+* Bias-Audits: Methoden zur Erkennung und Minimierung von Diskriminierung sowie zur Wahrung ethischer Prinzipien
+* Praktische Mechanismen in sozialen Medien: Analyse von Inhaltsempfehlungen und Moderationsentscheidungen
+* Filtermechanismen: Einsatz von Prompt Engineering und Kontrolle der Ausgabe zur Reduktion von Verzerrungen
 
 **Lernziele**
 
-...
+Vermittlung eines grundlegenden Verständnisses für KI-Bias, dessen Ursachen (Input-Bias, "Meinungen" in KI) und die Notwendigkeit von Bias-Audits.
 
 **Format**
 
@@ -27,17 +30,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). Es ist besonders relevant für Personen, die die Einflüsse künstlicher Intelligenz auf Meinungsbildung und gesellschaftliche Wahrnehmung besser erkennen, verstehen und reflektiert in ihre pädagogische oder administrative Arbeit integrieren möchten.
 
 **Voraussetzungen und Hinweise**
 
-...
+Grundlegende Kenntnisse über die Funktionsweise künstlicher Intelligenz sind hilfreich, aber keine zwingende Voraussetzung. Zur Vorbereitung empfiehlt sich ein Blick in die weiteren Lernangebote dieser Reihe, insbesondere M1.1 (Einführung und Grundlagen) sowie M3.1 (KI und Ethik).
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos](https://speicher.nibis.de/s/3b4SsYRrC2XjBXR)
 - Audiospur
 - Transkript
 
@@ -47,7 +50,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50777)**
 
 ## Contribution
 

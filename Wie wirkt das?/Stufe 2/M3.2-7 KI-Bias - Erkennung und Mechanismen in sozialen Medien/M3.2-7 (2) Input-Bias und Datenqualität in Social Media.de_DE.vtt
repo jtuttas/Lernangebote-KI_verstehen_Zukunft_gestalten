@@ -1,0 +1,945 @@
+WEBVTT
+
+1
+00:00:06.480 --> 00:00:08.440
+Dieses Schulungsvideo vertieft
+
+2
+00:00:08.440 --> 00:00:11.760
+ein zentrales Problem: Input Bias.
+
+3
+00:00:11.760 --> 00:00:13.840
+Im Fokus steht, wie die Qualität
+
+4
+00:00:13.840 --> 00:00:15.360
+der Trainingsdaten die
+
+5
+00:00:15.360 --> 00:00:17.760
+Ergebnisse von KI Systemen prägt.
+
+6
+00:00:20.960 --> 00:00:24.080
+Input Bias bezeichnet Verzerrungen, die
+
+7
+00:00:24.080 --> 00:00:26.600
+durch unausgewogene, einseitige oder
+
+8
+00:00:26.600 --> 00:00:29.560
+unvollständige Trainingsdaten entstehen.
+
+9
+00:00:29.560 --> 00:00:31.640
+Diese Verzerrungen spiegeln oft
+
+10
+00:00:31.640 --> 00:00:33.880
+gesellschaftliche Ungleichheiten wider,
+
+11
+00:00:33.880 --> 00:00:34.800
+die bereits in den
+
+12
+00:00:34.800 --> 00:00:37.120
+ursprünglichen Daten wie Beiträgen im
+
+13
+00:00:37.120 --> 00:00:39.080
+Netz oder Posts vorhanden sind.
+
+14
+00:00:39.720 --> 00:00:41.840
+Beispiele hierfür sind etwa eine
+
+15
+00:00:41.840 --> 00:00:43.760
+einseitige Darstellung bestimmter
+
+16
+00:00:43.760 --> 00:00:46.200
+Geschlechterrollen in Textdaten.
+
+17
+00:00:46.760 --> 00:00:48.480
+Sehr anschaulich wird das am
+
+18
+00:00:48.480 --> 00:00:50.360
+Beispiel klassischer Märchen.
+
+19
+00:00:50.920 --> 00:00:53.960
+Wenn Ihre Trainingsdaten Märchen sind,
+
+20
+00:00:53.960 --> 00:00:55.920
+wird die KI daraus schlussfolgern,
+
+21
+00:00:55.920 --> 00:00:57.240
+dass regierende Personen
+
+22
+00:00:57.240 --> 00:00:59.720
+immer Könige sind und heldenhaft
+
+23
+00:00:59.720 --> 00:01:01.480
+grundsätzlich Männer handeln.
+
+24
+00:01:02.200 --> 00:01:04.680
+Weitere Beispiele von Input Bias
+
+25
+00:01:04.680 --> 00:01:06.640
+sind die Unterrepräsentation
+
+26
+00:01:06.640 --> 00:01:08.240
+regionaler Sprachvarianten
+
+27
+00:01:08.240 --> 00:01:09.560
+in Sprachaufnahmen
+
+28
+00:01:09.560 --> 00:01:11.480
+oder die häufige Bevorzugung
+
+29
+00:01:11.480 --> 00:01:13.240
+englischsprachiger Inhalte
+
+30
+00:01:13.240 --> 00:01:15.080
+gegenüber kleineren Sprachen
+
+31
+00:01:15.080 --> 00:01:18.040
+in internationalen Datensätzen.
+
+32
+00:01:18.040 --> 00:01:21.640
+Ein wichtiger Punkt ist, KI-Systeme lernen
+
+33
+00:01:21.640 --> 00:01:23.560
+ausschließlich aus den Daten, die
+
+34
+00:01:23.560 --> 00:01:25.400
+ihnen zur Verfügung gestellt werden.
+
+35
+00:01:26.440 --> 00:01:28.800
+Sind diese Daten verzerrt, übernimmt
+
+36
+00:01:28.800 --> 00:01:30.720
+die KI diese Verzerrungen und
+
+37
+00:01:30.720 --> 00:01:32.840
+verstärkt sie möglicherweise sogar.
+
+38
+00:01:33.640 --> 00:01:35.799
+Dies lässt sich auf eine einfache Formel bringen.
+
+39
+00:01:36.520 --> 00:01:38.320
+Die Qualität der Ergebnisse
+
+40
+00:01:38.320 --> 00:01:40.280
+hängt immer direkt von der Qualität
+
+41
+00:01:40.280 --> 00:01:42.840
+der verwendeten Trainingsdaten ab.
+
+42
+00:01:42.840 --> 00:01:45.240
+Da KI Systeme jedoch auf menschlichen
+
+43
+00:01:45.240 --> 00:01:46.840
+Inhalten basieren, die
+
+44
+00:01:46.840 --> 00:01:48.920
+über Jahrhunderte von gesellschaftlichen
+
+45
+00:01:48.920 --> 00:01:50.880
+Vorurteilen, Benachteiligungen
+
+46
+00:01:50.880 --> 00:01:51.540
+und diskriminierenden
+
+47
+00:01:51.540 --> 00:01:53.260
+Strukturen geprägt
+
+48
+00:01:53.260 --> 00:01:54.820
+sind, spiegeln sie diese
+
+49
+00:01:54.820 --> 00:01:56.660
+Verzerrungen häufig wider.
+
+50
+00:02:00.340 --> 00:02:02.140
+Welche Daten fließen eigentlich
+
+51
+00:02:02.140 --> 00:02:04.820
+in Social Media Algorithmen ein?
+
+52
+00:02:04.820 --> 00:02:06.540
+Diese Frage ist entscheidend für
+
+53
+00:02:06.540 --> 00:02:08.580
+das Verständnis von Input Bias.
+
+54
+00:02:09.300 --> 00:02:11.140
+Social Media Plattformen verwenden
+
+55
+00:02:11.140 --> 00:02:12.980
+unterschiedlichste Datenquellen.
+
+56
+00:02:13.540 --> 00:02:16.020
+Dazu gehören Nutzerinteraktionen wie
+
+57
+00:02:16.020 --> 00:02:18.500
+Likes, Kommentare und Verweildauer.
+
+58
+00:02:19.170 --> 00:02:20.890
+Außerdem fließen demografische
+
+59
+00:02:20.890 --> 00:02:23.010
+Informationen, Standortdaten
+
+60
+00:02:23.010 --> 00:02:25.170
+und Inhaltsanalysen ein.
+
+61
+00:02:25.170 --> 00:02:27.330
+Problematisch wird es, wenn bestimmte
+
+62
+00:02:27.330 --> 00:02:29.890
+Datenmengen unterrepräsentiert sind.
+
+63
+00:02:29.890 --> 00:02:31.290
+Ein erstes Problem ist die
+
+64
+00:02:31.290 --> 00:02:33.890
+Unterrepräsentation bestimmter Gruppen.
+
+65
+00:02:33.890 --> 00:02:36.370
+Wenn beispielsweise ältere Menschen oder
+
+66
+00:02:36.370 --> 00:02:38.570
+Menschen mit geringeren technischen
+
+67
+00:02:38.570 --> 00:02:41.050
+Kenntnissen weniger aktiv in sozialen
+
+68
+00:02:41.050 --> 00:02:43.850
+Medien sind, lernt die KI hauptsächlich
+
+69
+00:02:43.850 --> 00:02:46.940
+von jüngeren technikaffinen Nutzern.
+
+70
+00:02:46.940 --> 00:02:48.660
+Ebenso könnten auch Menschen mit
+
+71
+00:02:48.660 --> 00:02:50.300
+Behinderungen oder Personen
+
+72
+00:02:50.300 --> 00:02:53.100
+ohne Zugang zu einem digitalen Endgerät
+
+73
+00:02:53.100 --> 00:02:54.940
+unterrepräsentiert sein,
+
+74
+00:02:54.940 --> 00:02:57.380
+wodurch ihre Lebensrealitäten nicht
+
+75
+00:02:57.380 --> 00:02:59.260
+ausreichend berücksichtigt werden.
+
+76
+00:02:59.820 --> 00:03:02.180
+Ein zweites Problem sind geografische
+
+77
+00:03:02.180 --> 00:03:04.300
+und kulturelle Verzerrungen.
+
+78
+00:03:04.300 --> 00:03:06.660
+Viele KI Systeme werden primär
+
+79
+00:03:06.660 --> 00:03:08.060
+mit Daten aus westlichen,
+
+80
+00:03:08.060 --> 00:03:10.060
+industrialisierten Ländern trainiert.
+
+81
+00:03:10.710 --> 00:03:12.790
+Dadurch entstehen Algorithmen, die andere
+
+82
+00:03:12.790 --> 00:03:14.950
+Kulturen und Lebensweisen schlechter
+
+83
+00:03:14.950 --> 00:03:17.830
+verstehen oder falsch interpretieren.
+
+84
+00:03:17.830 --> 00:03:19.830
+So können zum Beispiel traditionelle
+
+85
+00:03:19.830 --> 00:03:21.830
+Kleidung, Essgewohnheiten
+
+86
+00:03:21.830 --> 00:03:23.790
+oder Feiertage aus nicht-westlichen
+
+87
+00:03:23.790 --> 00:03:25.470
+Regionen falsch erkannt
+
+88
+00:03:25.470 --> 00:03:27.430
+oder fehlerhaft dargestellt werden.
+
+89
+00:03:30.799 --> 00:03:31.510
+Erstens:
+
+90
+00:03:31.510 --> 00:03:33.870
+Fehlinterpretation von Dialekten
+
+91
+00:03:33.870 --> 00:03:35.510
+in der Spracherkennung.
+
+92
+00:03:35.510 --> 00:03:36.910
+Eine aktuelle Studie des
+
+93
+00:03:36.910 --> 00:03:39.030
+Bayerischen Rundfunks und der Ludwig
+
+94
+00:03:39.030 --> 00:03:41.550
+Maximilians Universität München zeigt
+
+95
+00:03:41.550 --> 00:03:42.990
+deutliche Probleme.
+
+96
+00:03:42.990 --> 00:03:45.470
+Spracherkennungssysteme wie Whisper
+
+97
+00:03:45.470 --> 00:03:49.150
+von OpenAI oder XLS-R von Meta machten
+
+98
+00:03:49.150 --> 00:03:50.830
+bei bayerischen Dialekten deutlich
+
+99
+00:03:50.830 --> 00:03:52.910
+mehr Fehler als bei Hochdeutsch.
+
+100
+00:03:52.910 --> 00:03:54.710
+Häufig ging dabei der Sinn des
+
+101
+00:03:54.710 --> 00:03:56.830
+gesprochenen Satzes völlig verloren.
+
+102
+00:03:56.830 --> 00:03:59.510
+Der Grund: Die Systeme wurden hauptsächlich
+
+103
+00:03:59.510 --> 00:04:01.230
+mit hochdeutschen Daten trainiert.
+
+104
+00:04:01.799 --> 00:04:02.590
+Zweitens:
+
+105
+00:04:02.590 --> 00:04:05.070
+Verstärkung von Geschlechterstereotypen
+
+106
+00:04:05.070 --> 00:04:05.790
+in Empfehlungen.
+
+107
+00:04:06.460 --> 00:04:07.980
+Studien zeigen, dass Social
+
+108
+00:04:07.980 --> 00:04:10.020
+Media Algorithmen traditionelle
+
+109
+00:04:10.020 --> 00:04:11.660
+Rollenbilder fördern.
+
+110
+00:04:11.660 --> 00:04:13.580
+Menschen, die viel Zeit in sozialen
+
+111
+00:04:13.580 --> 00:04:15.300
+Netzwerken verbringen, neigen
+
+112
+00:04:15.300 --> 00:04:17.459
+eher zu Stereotypenvorstellungen
+
+113
+00:04:17.459 --> 00:04:19.180
+über Geschlechterrollen.
+
+114
+00:04:19.180 --> 00:04:21.140
+Algorithmen auf Instagram können
+
+115
+00:04:21.140 --> 00:04:23.100
+beispielsweise einen sogenannten
+
+116
+00:04:23.100 --> 00:04:25.660
+Glass Ceiling Effekt verstärken.
+
+117
+00:04:25.660 --> 00:04:27.740
+Damit ist gemeint, dass Frauen trotz
+
+118
+00:04:27.740 --> 00:04:30.420
+gleicher Qualifikation weniger sichtbar
+
+119
+00:04:30.420 --> 00:04:32.620
+werden, seltener befördert werden
+
+120
+00:04:32.620 --> 00:04:34.940
+und durch implizite Vorurteile
+
+121
+00:04:34.940 --> 00:04:36.860
+sowie algorithmische Muster
+
+122
+00:04:36.860 --> 00:04:39.100
+systematisch benachteiligt bleiben.
+
+123
+00:04:39.933 --> 00:04:40.780
+Drittens:
+
+124
+00:04:40.780 --> 00:04:42.780
+Rassistische Kategorisierung
+
+125
+00:04:42.780 --> 00:04:44.620
+bei Bilderkennung.
+
+126
+00:04:44.620 --> 00:04:46.620
+Ein prominentes Beispiel ist das
+
+127
+00:04:46.620 --> 00:04:49.740
+Kunstprojekt ImageNet Roulette.
+
+128
+00:04:49.740 --> 00:04:51.140
+Hier zeigte sich, dass
+
+129
+00:04:51.140 --> 00:04:53.620
+Gesichtserkennungssoftware dunkelhäutige
+
+130
+00:04:53.620 --> 00:04:55.700
+Menschen häufig mit abwertenden
+
+131
+00:04:55.700 --> 00:04:57.900
+Begriffen wie Waisenkind
+
+132
+00:04:57.900 --> 00:05:00.780
+oder sogar Vergewaltigungsverdächtiger
+
+133
+00:05:00.780 --> 00:05:01.980
+kategorisierte.
+
+134
+00:05:02.590 --> 00:05:05.070
+Der Grund: Die Trainingsdaten spiegelten
+
+135
+00:05:05.070 --> 00:05:07.070
+gesellschaftliche Vorurteile wider.
+
+136
+00:05:07.633 --> 00:05:08.670
+Viertens:
+
+137
+00:05:08.670 --> 00:05:11.030
+Bevorzugung bestimmter Körpertypen
+
+138
+00:05:11.030 --> 00:05:12.990
+in Beauty Algorithmen.
+
+139
+00:05:12.990 --> 00:05:15.230
+Beauty Filter werden oft automatisch
+
+140
+00:05:15.230 --> 00:05:17.150
+aktiviert und folgen sehr
+
+141
+00:05:17.150 --> 00:05:19.550
+einseitigen Schönheitsidealen.
+
+142
+00:05:19.550 --> 00:05:21.390
+Sie bevorzugen helle Haut,
+
+143
+00:05:21.390 --> 00:05:23.190
+bestimmte Gesichtsformen
+
+144
+00:05:23.190 --> 00:05:25.630
+und jugendliches Aussehen.
+
+145
+00:05:25.630 --> 00:05:27.670
+Menschen, die nicht diesem Ideal
+
+146
+00:05:27.670 --> 00:05:29.890
+entsprechend, werden systematisch
+
+147
+00:05:29.890 --> 00:05:32.410
+benachteiligt oder unsichtbar gemacht.
+
+148
+00:05:36.090 --> 00:05:38.330
+Bei der Nutzung von Social Media
+
+149
+00:05:38.330 --> 00:05:40.370
+werden die Verzerrung bewusst in Kauf
+
+150
+00:05:40.370 --> 00:05:42.930
+genommen und haben konkrete Auswirkungen
+
+151
+00:05:42.930 --> 00:05:44.330
+auf die tägliche Nutzung.
+
+152
+00:05:44.890 --> 00:05:46.650
+Es entstehen einseitige
+
+153
+00:05:46.650 --> 00:05:49.210
+Informationsverteilungen im Feed.
+
+154
+00:05:49.210 --> 00:05:51.250
+Wenn Algorithmen bestimmte Inhalte
+
+155
+00:05:51.250 --> 00:05:53.370
+bevorzugen, erhalten Nutzende
+
+156
+00:05:53.370 --> 00:05:55.370
+ein verzerrtes Bild der Realität.
+
+157
+00:05:56.120 --> 00:05:57.520
+Wichtige Perspektiven und
+
+158
+00:05:57.520 --> 00:05:59.400
+Stimmen bleiben unsichtbar.
+
+159
+00:05:59.400 --> 00:06:00.960
+Es kommt zur Diskriminierung
+
+160
+00:06:00.960 --> 00:06:03.080
+bei Inhaltsempfehlungen.
+
+161
+00:06:03.080 --> 00:06:05.040
+Marginalisierte Gruppen werden
+
+162
+00:06:05.040 --> 00:06:07.560
+systematisch weniger ausgespielt,
+
+163
+00:06:07.560 --> 00:06:09.640
+ihre Reichweite wird reduziert,
+
+164
+00:06:09.640 --> 00:06:11.400
+ihre Stimmen gedämpft.
+
+165
+00:06:11.400 --> 00:06:13.200
+Außerdem werden bestehende
+
+166
+00:06:13.200 --> 00:06:15.000
+Vorurteile verstärkt.
+
+167
+00:06:15.000 --> 00:06:17.560
+Was als neutrale Technologie erscheint,
+
+168
+00:06:17.560 --> 00:06:19.720
+reproduziert und potenziert
+
+169
+00:06:19.720 --> 00:06:21.320
+gesellschaftliche Schieflagen.
+
+170
+00:06:22.100 --> 00:06:24.020
+Letztlich führt dies zum Ausschluss
+
+171
+00:06:24.020 --> 00:06:25.940
+marginalisierter Stimmen.
+
+172
+00:06:25.940 --> 00:06:27.380
+Wichtige gesellschaftliche
+
+173
+00:06:27.380 --> 00:06:29.140
+Diskurse werden erschwert,
+
+174
+00:06:29.140 --> 00:06:30.940
+weil nicht alle Perspektiven
+
+175
+00:06:30.940 --> 00:06:32.500
+gleichermaßen sichtbar sind.
+
+176
+00:06:35.620 --> 00:06:37.659
+Präventionsstrategien müssen auf
+
+177
+00:06:37.659 --> 00:06:39.500
+verschiedenen Ebenen ansetzen.
+
+178
+00:06:39.959 --> 00:06:41.700
+Erstens: Ausgewogene
+
+179
+00:06:41.700 --> 00:06:43.220
+und diverse Datensätze und
+
+180
+00:06:43.220 --> 00:06:46.020
+Trainingsdaten sind fundamental.
+
+181
+00:06:46.020 --> 00:06:47.700
+Plattformen müssen bewusst darauf
+
+182
+00:06:47.700 --> 00:06:48.970
+achten, dass alle
+
+183
+00:06:48.970 --> 00:06:50.890
+gesellschaftlichen Gruppen in ihren
+
+184
+00:06:50.890 --> 00:06:53.130
+Trainingsdaten repräsentiert sind.
+
+185
+00:06:53.130 --> 00:06:56.170
+Das bedeutet konkret, Daten von Menschen
+
+186
+00:06:56.170 --> 00:06:57.850
+unterschiedlicher Herkunft,
+
+187
+00:06:57.850 --> 00:06:59.610
+verschiedener Altersgruppen
+
+188
+00:06:59.610 --> 00:07:00.810
+und aus verschiedenen
+
+189
+00:07:00.810 --> 00:07:02.810
+geografischen Regionen sammeln.
+
+190
+00:07:03.300 --> 00:07:04.090
+Zweitens:
+
+191
+00:07:04.090 --> 00:07:06.570
+Transparente Datenauswahl und
+
+192
+00:07:06.570 --> 00:07:08.490
+Aufbereitung ist notwendig.
+
+193
+00:07:09.050 --> 00:07:11.530
+Unternehmen sollten offenlegen, welche
+
+194
+00:07:11.530 --> 00:07:13.730
+Daten sie verwenden und nach welchen
+
+195
+00:07:13.730 --> 00:07:15.530
+Kriterien sie diese auswählen.
+
+196
+00:07:16.070 --> 00:07:17.430
+Dies schafft Vertrauen
+
+197
+00:07:17.430 --> 00:07:19.590
+und ermöglicht externe Kontrolle.
+
+198
+00:07:20.950 --> 00:07:23.750
+Regelmäßige Überprüfung der Datenqualität
+
+199
+00:07:23.750 --> 00:07:25.510
+muss etabliert werden.
+
+200
+00:07:25.510 --> 00:07:27.750
+Datensätze sind nicht statisch,
+
+201
+00:07:27.750 --> 00:07:30.230
+sie müssen kontinuierlich aktualisiert
+
+202
+00:07:30.230 --> 00:07:32.470
+und auf Verzerrungen überprüft werden.
+
+203
+00:07:33.000 --> 00:07:33.750
+Viertens:
+
+204
+00:07:33.750 --> 00:07:35.590
+Die Einbeziehung verschiedener
+
+205
+00:07:35.590 --> 00:07:36.870
+Perspektiven bei der
+
+206
+00:07:36.870 --> 00:07:39.190
+Datensammlung ist entscheidend.
+
+207
+00:07:39.190 --> 00:07:41.070
+Diverse Entwicklungsteams können
+
+208
+00:07:41.070 --> 00:07:42.150
+blinde Flecken erkennen,
+
+209
+00:07:42.720 --> 00:07:44.800
+die homogene Teams übersehen würden.
+
+210
+00:07:47.760 --> 00:07:49.840
+Für Bildungsverantwortliche ergeben
+
+211
+00:07:49.840 --> 00:07:51.680
+sich wichtige Erkenntnisse.
+
+212
+00:07:51.680 --> 00:07:53.520
+Jugendliche nutzen Social Media
+
+213
+00:07:53.520 --> 00:07:55.400
+täglich und werden dabei von
+
+214
+00:07:55.400 --> 00:07:57.160
+Algorithmen beeinflusst, die
+
+215
+00:07:57.160 --> 00:07:59.200
+möglicherweise verzerrt sind.
+
+216
+00:07:59.200 --> 00:08:00.800
+Der Auftrag besteht darin,
+
+217
+00:08:00.800 --> 00:08:03.160
+diese Mechanismen zu erklären und
+
+218
+00:08:03.160 --> 00:08:05.120
+kritisches Bewusstsein zu schaffen.
+
+219
+00:08:05.840 --> 00:08:07.680
+Konkret können Jugendliche dafür
+
+220
+00:08:07.680 --> 00:08:09.760
+sensibilisiert werden, dass ihre
+
+221
+00:08:09.760 --> 00:08:12.080
+Feeds nicht die Realität abbilden,
+
+222
+00:08:12.080 --> 00:08:13.400
+sondern das Ergebnis
+
+223
+00:08:13.400 --> 00:08:15.920
+algorithmischer Entscheidungen sind.
+
+224
+00:08:15.920 --> 00:08:18.560
+Sie können dazu angeregt werden, selbst
+
+225
+00:08:18.560 --> 00:08:21.080
+zur Vielfalt beizutragen, indem sie
+
+226
+00:08:21.080 --> 00:08:23.360
+bewusst verschiedene Quellen nutzen und
+
+227
+00:08:23.360 --> 00:08:25.679
+unterschiedliche Perspektiven suchen.
+
+228
+00:08:26.240 --> 00:08:28.440
+Generell sollte das Ziel bei der Nutzung
+
+229
+00:08:28.440 --> 00:08:30.960
+von KI im Bildungskontext sein,
+
+230
+00:08:30.960 --> 00:08:33.200
+offene Sprachmodelle mit transparent
+
+231
+00:08:33.200 --> 00:08:35.360
+dargelegten Trainingsdaten zu nutzen.
+
+232
+00:08:35.990 --> 00:08:38.230
+Denn auch Werkzeuge, die unterstützend
+
+233
+00:08:38.230 --> 00:08:40.710
+bei Verwaltungstätigkeiten sein können,
+
+234
+00:08:40.710 --> 00:08:43.350
+wie Tools zur Textanalyse oder
+
+235
+00:08:43.350 --> 00:08:45.190
+Entscheidungsunterstützung, können
+
+236
+00:08:45.190 --> 00:08:47.270
+ähnliche Verzerrungen aufweisen.

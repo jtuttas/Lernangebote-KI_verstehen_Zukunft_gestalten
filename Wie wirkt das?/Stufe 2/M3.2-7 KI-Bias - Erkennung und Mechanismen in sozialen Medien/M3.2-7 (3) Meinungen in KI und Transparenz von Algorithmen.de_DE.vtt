@@ -1,0 +1,1181 @@
+WEBVTT
+
+1
+00:00:06.560 --> 00:00:08.520
+Herzlich willkommen zu diesem Video
+
+2
+00:00:08.520 --> 00:00:11.440
+über KI-Bias in sozialen Medien.
+
+3
+00:00:11.440 --> 00:00:13.320
+Dieses Video befasst sich mit
+
+4
+00:00:13.320 --> 00:00:16.720
+faszinierenden Fragestellungen. Wie entstehen
+
+5
+00:00:16.720 --> 00:00:19.600
+gewissermaßen Meinungen in KI Systemen
+
+6
+00:00:19.600 --> 00:00:21.520
+und warum ist es so schwierig,
+
+7
+00:00:21.520 --> 00:00:22.760
+die Entscheidungen von
+
+8
+00:00:22.760 --> 00:00:24.800
+Algorithmen nachzuvollziehen?
+
+9
+00:00:28.170 --> 00:00:29.210
+Zunächst eine wichtige Klarstellung:
+
+10
+00:00:30.330 --> 00:00:32.409
+KI Systeme haben keine bewussten
+
+11
+00:00:32.409 --> 00:00:34.650
+Meinungen, wie Menschen sie haben.
+
+12
+00:00:34.650 --> 00:00:36.370
+Sie entwickeln keine persönlichen
+
+13
+00:00:36.370 --> 00:00:38.410
+Überzeugungen oder Emotionen.
+
+14
+00:00:38.410 --> 00:00:40.610
+Stattdessen verarbeiten die sogenannten
+
+15
+00:00:40.610 --> 00:00:41.929
+Hidden Layers Informationen
+
+16
+00:00:42.650 --> 00:00:45.010
+zwischen Eingabe und Ausgabe und
+
+17
+00:00:45.010 --> 00:00:47.610
+gewichten dabei unterschiedliche Muster.
+
+18
+00:00:47.610 --> 00:00:49.370
+Diese Hidden Layers sind die
+
+19
+00:00:49.370 --> 00:00:51.810
+Zwischenschichten neuronaler Netze, in
+
+20
+00:00:51.810 --> 00:00:53.970
+denen Daten schrittweise analysiert
+
+21
+00:00:53.970 --> 00:00:55.960
+und neu kombiniert werden.
+
+22
+00:00:55.960 --> 00:00:59.320
+Ein Beispiel: In einem Hidden Layer kann eine
+
+23
+00:00:59.320 --> 00:01:01.440
+hohe Gewichtung dafür sorgen, dass
+
+24
+00:01:01.440 --> 00:01:03.720
+Beiträge mit bestimmten Schlüsselwörtern
+
+25
+00:01:03.720 --> 00:01:06.200
+wie „Skandal“ stärker berücksichtigt
+
+26
+00:01:06.200 --> 00:01:07.960
+werden, während neutrale
+
+27
+00:01:07.960 --> 00:01:09.960
+Begriffe weniger Gewicht erhalten.
+
+28
+00:01:10.760 --> 00:01:12.640
+Diese Gewichtungen entwickeln sich
+
+29
+00:01:12.640 --> 00:01:14.200
+durch statistische Muster
+
+30
+00:01:14.200 --> 00:01:16.720
+in den Trainingsdaten, können aber auch
+
+31
+00:01:16.720 --> 00:01:18.960
+gewollter, fester Bestandteil der
+
+32
+00:01:18.960 --> 00:01:21.400
+Architektur neuronaler Netze sein.
+
+33
+00:01:22.220 --> 00:01:24.580
+Ein Beispiel dafür ist, dass Wörter wie
+
+34
+00:01:24.580 --> 00:01:27.740
+„Skandal“ in den Trainingsdaten besonders
+
+35
+00:01:27.740 --> 00:01:30.780
+häufig mit hoher Interaktionsrate,
+
+36
+00:01:30.780 --> 00:01:33.580
+etwa vielen Kommentaren, Likes oder
+
+37
+00:01:33.580 --> 00:01:36.460
+geteilten Beiträgen, verknüpft sind.
+
+38
+00:01:36.460 --> 00:01:39.020
+Das Modell erkennt diese Korrelation
+
+39
+00:01:39.020 --> 00:01:40.980
+und weist dem Wort ein höheres
+
+40
+00:01:40.980 --> 00:01:43.300
+Gewicht zu, weil es statistisch
+
+41
+00:01:43.300 --> 00:01:45.220
+betrachtet mehr Aufmerksamkeit
+
+42
+00:01:45.220 --> 00:01:47.180
+erzeugt als neutrale Begriffe.
+
+43
+00:01:47.900 --> 00:01:50.540
+Die KI „lernt“ nicht im menschlichen
+
+44
+00:01:50.540 --> 00:01:52.980
+Sinne, sondern passt mathematische
+
+45
+00:01:52.980 --> 00:01:55.420
+Parameter an, um Muster zu erkennen.
+
+46
+00:01:56.140 --> 00:01:58.340
+Das Ergebnis sind Entscheidungen, die
+
+47
+00:01:58.340 --> 00:02:01.220
+so wirken, als hätte die KI eine Meinung
+
+48
+00:02:01.220 --> 00:02:03.500
+zu bestimmten Themen oder Inhalten.
+
+49
+00:02:05.820 --> 00:02:07.540
+Wie funktionieren diese Hidden
+
+50
+00:02:07.540 --> 00:02:10.780
+Layers konkret in Social Media-Algorithmen?
+
+51
+00:02:10.780 --> 00:02:12.420
+Neuronale Netze bestehen
+
+52
+00:02:12.420 --> 00:02:13.500
+aus mehreren Schichten.
+
+53
+00:02:14.090 --> 00:02:16.410
+Die Eingabeschicht nimmt Daten auf,
+
+54
+00:02:16.410 --> 00:02:19.330
+beispielsweise Likes, Kommentare oder
+
+55
+00:02:19.330 --> 00:02:22.010
+Verweildauer bei bestimmten Posts.
+
+56
+00:02:22.010 --> 00:02:23.650
+Die Ausgabeschicht liefert
+
+57
+00:02:23.650 --> 00:02:25.650
+Entscheidungen, welche Inhalte als
+
+58
+00:02:25.650 --> 00:02:27.930
+nächstes angezeigt werden sollen.
+
+59
+00:02:27.930 --> 00:02:29.410
+Dazwischen liegen die Hidden
+
+60
+00:02:29.410 --> 00:02:32.010
+Layers, die verborgenen Schichten.
+
+61
+00:02:32.010 --> 00:02:33.970
+In diesen Hidden Layers werden
+
+62
+00:02:33.970 --> 00:02:36.410
+komplexe Berechnungen durchgeführt.
+
+63
+00:02:36.410 --> 00:02:38.170
+Jede Schicht verarbeitet die
+
+64
+00:02:38.170 --> 00:02:40.630
+Informationen der vorherigen Schicht und
+
+65
+00:02:40.630 --> 00:02:43.190
+gibt das Ergebnis an die nächste weiter.
+
+66
+00:02:43.190 --> 00:02:45.030
+Dabei entstehen die Gewichtungen,
+
+67
+00:02:45.030 --> 00:02:46.910
+die mathematischen Werte, die
+
+68
+00:02:46.910 --> 00:02:49.590
+bestimmen, wie stark bestimmte Faktoren
+
+69
+00:02:49.590 --> 00:02:51.670
+die Entscheidung beeinflussen.
+
+70
+00:02:51.670 --> 00:02:53.990
+Darüber hinaus können die Entwickler
+
+71
+00:02:53.990 --> 00:02:55.750
+aber auch personenbezogene
+
+72
+00:02:55.750 --> 00:02:57.870
+Hidden Layers in die Algorithmen
+
+73
+00:02:57.870 --> 00:02:58.790
+integriert haben.
+
+74
+00:02:59.350 --> 00:03:01.270
+In den meisten Fällen wird eine
+
+75
+00:03:01.270 --> 00:03:03.270
+Kombination aus beidem vorliegen.
+
+76
+00:03:03.830 --> 00:03:06.230
+Anschaulich bedeutet das: Wenn ein
+
+77
+00:03:06.230 --> 00:03:09.150
+Nutzender häufig Beiträge zu Sportthemen
+
+78
+00:03:09.150 --> 00:03:10.840
+liked und einer bestimmten
+
+79
+00:03:10.840 --> 00:03:13.000
+Altersgruppe angehört, kann ein
+
+80
+00:03:13.000 --> 00:03:15.200
+Hidden Layer diesen Merkmalen ein
+
+81
+00:03:15.200 --> 00:03:17.560
+besonders hohes Gewicht geben.
+
+82
+00:03:17.560 --> 00:03:20.040
+Dadurch werden Sportinhalte häufiger
+
+83
+00:03:20.040 --> 00:03:22.120
+vorgeschlagen, während andere
+
+84
+00:03:22.120 --> 00:03:24.360
+Themen in den Hintergrund treten.
+
+85
+00:03:24.360 --> 00:03:27.120
+Das Problem: Diese Prozesse sind für
+
+86
+00:03:27.120 --> 00:03:29.480
+Menschen kaum nachvollziehbar.
+
+87
+00:03:29.480 --> 00:03:31.160
+Dies wird als Black Box-Problem
+
+88
+00:03:31.160 --> 00:03:32.760
+bezeichnet.
+
+89
+00:03:32.760 --> 00:03:34.880
+Selbst Entwickler können oft nicht genau
+
+90
+00:03:34.880 --> 00:03:37.280
+erklären, warum ein Algorithmus eine
+
+91
+00:03:37.280 --> 00:03:38.920
+bestimmte Entscheidung getroffen hat.
+
+92
+00:03:41.333 --> 00:03:42.170
+Erstens:
+
+93
+00:03:42.170 --> 00:03:43.530
+Die Bevorzugung bestimmter
+
+94
+00:03:43.530 --> 00:03:46.010
+Schlagwörter oder Hashtags.
+
+95
+00:03:46.010 --> 00:03:48.130
+Algorithmen entwickeln Präferenzen
+
+96
+00:03:48.130 --> 00:03:49.450
+für bestimmte Begriffe.
+
+97
+00:03:49.450 --> 00:03:51.770
+Posts mit emotional aufgeladenen
+
+98
+00:03:51.770 --> 00:03:55.850
+Hashtags wie „Skandal" oder „unglaublich"
+
+99
+00:03:55.850 --> 00:03:57.970
+erhalten oft mehr Reichweite als
+
+100
+00:03:57.970 --> 00:04:00.410
+nüchterne, sachliche Beiträge.
+
+101
+00:04:00.410 --> 00:04:03.010
+Der Algorithmus hat gelernt, dass solche
+
+102
+00:04:03.010 --> 00:04:05.210
+Begriffe zu mehr Engagement führen.
+
+103
+00:04:06.150 --> 00:04:08.350
+Beispielsweise könnte ein Post mit dem
+
+104
+00:04:08.350 --> 00:04:11.270
+Wort „Skandal" bevorzugt werden,
+
+105
+00:04:11.270 --> 00:04:13.670
+selbst wenn der Inhalt sachlich weniger
+
+106
+00:04:13.670 --> 00:04:16.029
+bedeutsam ist, weil die Gewichtung des
+
+107
+00:04:16.029 --> 00:04:18.630
+Begriffs besonders hoch angesetzt wurde.
+
+108
+00:04:19.233 --> 00:04:20.149
+Zweitens:
+
+109
+00:04:20.149 --> 00:04:22.270
+Die Unterdrückung differenzierter
+
+110
+00:04:22.270 --> 00:04:24.390
+oder kontroverser Inhalte.
+
+111
+00:04:24.390 --> 00:04:26.350
+Algorithmen benachteiligen oft
+
+112
+00:04:26.350 --> 00:04:29.190
+moderate, ausgewogene Inhalte.
+
+113
+00:04:29.190 --> 00:04:31.750
+Stattdessen bevorzugen sie eindeutige,
+
+114
+00:04:31.750 --> 00:04:34.240
+polarisierende Positionen, weil
+
+115
+00:04:34.240 --> 00:04:37.280
+diese mehr Reaktionen hervorrufen.
+
+116
+00:04:37.280 --> 00:04:39.520
+So kann es vorkommen, dass Beiträge
+
+117
+00:04:39.520 --> 00:04:41.680
+mit ausgewogener Argumentation
+
+118
+00:04:41.680 --> 00:04:43.520
+ein geringeres Gewicht erhalten
+
+119
+00:04:43.520 --> 00:04:46.240
+und seltener angezeigt werden, während
+
+120
+00:04:46.240 --> 00:04:48.640
+extreme Aussagen bevorzugt werden.
+
+121
+00:04:49.366 --> 00:04:49.920
+Drittens:
+
+122
+00:04:49.920 --> 00:04:51.800
+Die Verstärkung emotionaler
+
+123
+00:04:51.800 --> 00:04:54.320
+oder polarisierender Posts.
+
+124
+00:04:54.320 --> 00:04:56.600
+Emotional aufgeladene Botschaften
+
+125
+00:04:56.600 --> 00:04:58.120
+erzielen deutlich höhere
+
+126
+00:04:58.120 --> 00:04:59.600
+Interaktionen der Nutzenden.
+
+127
+00:05:00.280 --> 00:05:02.440
+Plattformalgorithmen lernen dies und
+
+128
+00:05:02.440 --> 00:05:05.080
+spielen solche Inhalte bevorzugt aus.
+
+129
+00:05:05.640 --> 00:05:07.840
+Ein Beispiel ist, dass Beiträge mit
+
+130
+00:05:07.840 --> 00:05:10.440
+stark emotionaler Sprache oder Bildern
+
+131
+00:05:10.440 --> 00:05:12.520
+eine höhere Gewichtung bekommen und
+
+132
+00:05:12.520 --> 00:05:15.160
+dadurch häufiger im Feed erscheinen.
+
+133
+00:05:15.160 --> 00:05:18.000
+Eine Studie zeigt: Politische Posts mit
+
+134
+00:05:18.000 --> 00:05:20.360
+emotional oder moralisch konnotierten
+
+135
+00:05:20.360 --> 00:05:22.200
+Begriffen haben eine höhere
+
+136
+00:05:22.200 --> 00:05:24.360
+Wahrscheinlichkeit, viral zu gehen.
+
+137
+00:05:25.100 --> 00:05:25.980
+Viertens:
+
+138
+00:05:25.980 --> 00:05:28.220
+Der Algorithmus lernt gesellschaftliche
+
+139
+00:05:28.220 --> 00:05:30.620
+Vorurteile aus Interaktionsdaten.
+
+140
+00:05:31.180 --> 00:05:33.260
+Wenn Nutzende bestimmte Inhalte
+
+141
+00:05:33.260 --> 00:05:35.420
+häufiger liken oder teilen,
+
+142
+00:05:35.420 --> 00:05:38.380
+interpretiert die KI dies als Präferenz
+
+143
+00:05:38.380 --> 00:05:40.220
+und verstärkt diese Muster,
+
+144
+00:05:40.220 --> 00:05:42.060
+auch wenn sie problematisch sind.
+
+145
+00:05:42.620 --> 00:05:44.300
+So kann es passieren, dass
+
+146
+00:05:44.300 --> 00:05:47.020
+diskriminierende Inhalte oder stereotype
+
+147
+00:05:47.020 --> 00:05:48.980
+Darstellungen immer wieder bevorzugt
+
+148
+00:05:48.980 --> 00:05:51.220
+auftauchen, weil sie durch hohe
+
+149
+00:05:51.220 --> 00:05:53.740
+Interaktionsraten ein starkes Gewicht
+
+150
+00:05:53.740 --> 00:05:55.420
+in den Hidden Layers erhalten.
+
+151
+00:05:58.810 --> 00:06:00.250
+Warum ist Transparenz für
+
+152
+00:06:00.250 --> 00:06:02.090
+die Nutzenden so wichtig?
+
+153
+00:06:02.090 --> 00:06:04.050
+Sie ermöglicht es, algorithmische
+
+154
+00:06:04.050 --> 00:06:04.930
+Entscheidungen zu
+
+155
+00:06:04.930 --> 00:06:06.490
+verstehen und zu hinterfragen.
+
+156
+00:06:07.130 --> 00:06:09.330
+Außerdem schafft sie Vertrauen in
+
+157
+00:06:09.330 --> 00:06:11.689
+die verwendeten Systeme und hilft,
+
+158
+00:06:11.689 --> 00:06:13.530
+bewusstere Entscheidungen über die
+
+159
+00:06:13.530 --> 00:06:15.690
+digitale Mediennutzung zu treffen.
+
+160
+00:06:16.410 --> 00:06:18.610
+Aktuelle Bemühungen der Plattformen
+
+161
+00:06:18.610 --> 00:06:20.090
+zeigen erste Fortschritte.
+
+162
+00:06:20.650 --> 00:06:22.850
+Instagram erklärt inzwischen, warum
+
+163
+00:06:22.850 --> 00:06:24.890
+bestimmte Posts im Feed erscheinen.
+
+164
+00:06:25.630 --> 00:06:27.670
+TikTok bietet Einstellungen,
+
+165
+00:06:27.670 --> 00:06:30.030
+um den Algorithmus zu beeinflussen.
+
+166
+00:06:30.030 --> 00:06:32.510
+YouTube zeigt an, welche Faktoren
+
+167
+00:06:32.510 --> 00:06:34.510
+die Empfehlungen bestimmen.
+
+168
+00:06:34.510 --> 00:06:36.070
+Dennoch gibt es Grenzen
+
+169
+00:06:36.070 --> 00:06:37.310
+der Erklärbarkeit.
+
+170
+00:06:38.030 --> 00:06:40.990
+Komplexe KI-Systeme mit Millionen von
+
+171
+00:06:40.990 --> 00:06:43.590
+Parametern lassen sich nicht vollständig
+
+172
+00:06:43.590 --> 00:06:46.190
+in verständliche Sprache übersetzen.
+
+173
+00:06:46.190 --> 00:06:48.670
+Hier entsteht ein Spannungsfeld zwischen
+
+174
+00:06:48.670 --> 00:06:50.870
+technischer Komplexität und dem
+
+175
+00:06:50.870 --> 00:06:52.910
+berechtigten Wunsch nach Transparenz.
+
+176
+00:06:54.000 --> 00:06:55.480
+Neue Gesetze verstärken den
+
+177
+00:06:55.480 --> 00:06:57.680
+Druck hin zu mehr Transparenz.
+
+178
+00:06:57.680 --> 00:07:00.680
+Der Digital Services Act der EU und
+
+179
+00:07:00.680 --> 00:07:02.133
+das entsprechende deutsche
+
+180
+00:07:02.133 --> 00:07:04.760
+Digitale-Dienste-Gesetz verpflichten große
+
+181
+00:07:04.760 --> 00:07:07.200
+Plattformen zu mehr Offenlegung.
+
+182
+00:07:07.200 --> 00:07:09.359
+Die Datenschutz-Grundverordnung
+
+183
+00:07:09.359 --> 00:07:11.040
+gibt Nutzenden das Recht,
+
+184
+00:07:11.040 --> 00:07:13.040
+Auskunft über automatisierte
+
+185
+00:07:13.040 --> 00:07:14.240
+Entscheidungen zu erhalten.
+
+186
+00:07:14.960 --> 00:07:17.160
+Konkret bedeutet Transparenz zum
+
+187
+00:07:17.160 --> 00:07:19.200
+Beispiel, dass Plattformen erklären
+
+188
+00:07:19.200 --> 00:07:21.460
+müssen, welche Datenarten für
+
+189
+00:07:21.460 --> 00:07:23.820
+Empfehlungen genutzt werden, wie lange
+
+190
+00:07:23.820 --> 00:07:26.100
+sie gespeichert bleiben und nach welchen
+
+191
+00:07:26.100 --> 00:07:28.460
+Kriterien Inhalte priorisiert werden.
+
+192
+00:07:29.020 --> 00:07:31.660
+Für Nutzende kann dies Vorteile bringen,
+
+193
+00:07:31.660 --> 00:07:34.100
+etwa durch Einstellungen, mit denen
+
+194
+00:07:34.100 --> 00:07:36.220
+die Personalisierung angepasst werden
+
+195
+00:07:36.220 --> 00:07:38.900
+kann oder durch Tools, die Einblick
+
+196
+00:07:38.900 --> 00:07:41.420
+in den eigenen Datenfluss geben.
+
+197
+00:07:41.420 --> 00:07:43.020
+Dabei sollte jedoch deutlich
+
+198
+00:07:43.020 --> 00:07:45.100
+gemacht werden, dass Transparenz
+
+199
+00:07:45.100 --> 00:07:47.820
+allein keine Garantie für Fairness ist,
+
+200
+00:07:47.820 --> 00:07:48.940
+sondern lediglich einen
+
+201
+00:07:48.940 --> 00:07:50.460
+ersten Schritt darstellt.
+
+202
+00:07:53.820 --> 00:07:56.100
+Praktische Strategien für den Umgang
+
+203
+00:07:56.100 --> 00:07:58.140
+mit algorithmischen Verzerrungen im
+
+204
+00:07:58.166 --> 00:07:58.800
+Alltag.
+
+205
+00:07:59.300 --> 00:08:00.300
+Erstens:
+
+206
+00:08:00.300 --> 00:08:01.500
+Aufmerksamkeit für
+
+207
+00:08:01.500 --> 00:08:03.260
+wiederkehrende Muster im Feed.
+
+208
+00:08:03.900 --> 00:08:05.260
+Welche Art von Inhalten
+
+209
+00:08:05.260 --> 00:08:06.380
+erscheinen häufig?
+
+210
+00:08:07.020 --> 00:08:08.380
+Welche Perspektiven
+
+211
+00:08:08.380 --> 00:08:10.224
+fehlen möglicherweise?
+
+212
+00:08:10.566 --> 00:08:11.740
+Zweitens:
+
+213
+00:08:11.740 --> 00:08:13.500
+Bewusste Diversifizierung
+
+214
+00:08:13.500 --> 00:08:14.780
+der eigenen Quellen.
+
+215
+00:08:15.650 --> 00:08:17.130
+Unterschiedliche Accounts mit
+
+216
+00:08:17.130 --> 00:08:19.090
+verschiedenen Standpunkten folgen
+
+217
+00:08:19.090 --> 00:08:20.850
+und verschiedene Suchbegriffe
+
+218
+00:08:20.850 --> 00:08:22.890
+nutzen, über den algorithmischen
+
+219
+00:08:22.890 --> 00:08:24.450
+Tellerrand zu blicken.
+
+220
+00:08:25.100 --> 00:08:25.970
+Drittens:
+
+221
+00:08:25.970 --> 00:08:28.130
+Empfehlungen kritisch hinterfragen.
+
+222
+00:08:28.770 --> 00:08:30.610
+Nur weil ein Algorithmus etwas
+
+223
+00:08:30.610 --> 00:08:33.010
+vorschlägt, muss es nicht relevant,
+
+224
+00:08:33.010 --> 00:08:34.929
+richtig oder zutreffend sein.
+
+225
+00:08:35.500 --> 00:08:36.289
+Viertens:
+
+226
+00:08:36.289 --> 00:08:38.690
+Verschiedene Plattformen vergleichen.
+
+227
+00:08:38.690 --> 00:08:41.169
+Jede Plattform hat andere Algorithmen
+
+228
+00:08:41.169 --> 00:08:43.010
+und damit andere Verzerrungen.
+
+229
+00:08:43.630 --> 00:08:45.070
+Der Vergleich hilft, ein
+
+230
+00:08:45.070 --> 00:08:47.150
+ausgewogeneres Bild zu bekommen.
+
+231
+00:08:50.270 --> 00:08:52.070
+Trotz aller Bemühungen bleiben
+
+232
+00:08:52.070 --> 00:08:54.670
+wichtige Herausforderungen bestehen.
+
+233
+00:08:54.670 --> 00:08:56.150
+Das Spannungsfeld zwischen
+
+234
+00:08:56.150 --> 00:08:58.270
+Transparenz und Betriebsgeheimnis
+
+235
+00:08:58.270 --> 00:09:00.030
+ist ein zentrales Problem.
+
+236
+00:09:00.670 --> 00:09:03.270
+Unternehmen befürchten, dass vollständige
+
+237
+00:09:03.270 --> 00:09:05.070
+Offenlegung ihrer Algorithmen
+
+238
+00:09:05.070 --> 00:09:07.390
+Missbrauch ermöglichen könnte.
+
+239
+00:09:07.390 --> 00:09:08.990
+Gleichzeitig haben Nutzende
+
+240
+00:09:08.990 --> 00:09:10.510
+ein berechtigtes Interesse
+
+241
+00:09:10.510 --> 00:09:11.870
+an Nachvollziehbarkeit.
+
+242
+00:09:12.680 --> 00:09:14.640
+Die Komplexität der Systeme
+
+243
+00:09:14.640 --> 00:09:16.520
+überfordert die meisten Menschen.
+
+244
+00:09:17.240 --> 00:09:19.120
+Selbst wenn alle technischen Details
+
+245
+00:09:19.120 --> 00:09:21.400
+verfügbar wären, könnten sie oft nicht
+
+246
+00:09:21.400 --> 00:09:23.800
+verstanden oder sinnvoll genutzt werden.
+
+247
+00:09:24.440 --> 00:09:26.240
+Deshalb ist die Notwendigkeit
+
+248
+00:09:26.240 --> 00:09:28.920
+vereinfachter Erklärungen so wichtig.
+
+249
+00:09:28.920 --> 00:09:31.080
+Es braucht verständliche Übersetzungen
+
+250
+00:09:31.080 --> 00:09:33.600
+komplexer Algorithmen, ohne dabei
+
+251
+00:09:33.600 --> 00:09:36.040
+wichtige Informationen zu verlieren.
+
+252
+00:09:36.040 --> 00:09:37.240
+Beispiele für solche
+
+253
+00:09:37.240 --> 00:09:39.000
+vereinfachten Erklärungen sind.
+
+254
+00:09:39.000 --> 00:09:41.070
+grafische Darstellungen, die die
+
+255
+00:09:41.070 --> 00:09:43.190
+wichtigsten Faktoren eines Algorithmus
+
+256
+00:09:43.190 --> 00:09:45.670
+veranschaulichen, oder kurze Hinweise
+
+257
+00:09:45.670 --> 00:09:47.710
+im Feed, die erklären, warum ein
+
+258
+00:09:47.710 --> 00:09:49.670
+bestimmter Beitrag angezeigt wird.
+
+259
+00:09:52.710 --> 00:09:54.950
+Für Bildungsverantwortliche ergeben
+
+260
+00:09:54.950 --> 00:09:57.750
+sich wichtige Aufgaben. Erstens gilt es,
+
+261
+00:09:57.750 --> 00:09:59.990
+Jugendliche dabei zu unterstützen,
+
+262
+00:09:59.990 --> 00:10:01.470
+algorithmische Entscheidungen
+
+263
+00:10:01.470 --> 00:10:03.350
+zu erkennen und zu hinterfragen.
+
+264
+00:10:03.910 --> 00:10:06.110
+Zweitens können ihnen Strategien
+
+265
+00:10:06.110 --> 00:10:08.430
+vermittelt werden, um Verzerrungen im
+
+266
+00:10:08.430 --> 00:10:11.150
+eigenen Medienkonsum zu reduzieren.
+
+267
+00:10:11.150 --> 00:10:13.630
+Praktisch bedeutet das: Jugendliche
+
+268
+00:10:13.630 --> 00:10:14.733
+sollten über ihre
+
+269
+00:10:14.733 --> 00:10:17.230
+Social Media-Erfahrungen sprechen.
+
+270
+00:10:17.230 --> 00:10:18.950
+Welche Inhalte bekommen sie
+
+271
+00:10:18.950 --> 00:10:20.830
+zu sehen? Welche nicht?
+
+272
+00:10:21.390 --> 00:10:22.990
+Gemeinsam lassen sich Muster
+
+273
+00:10:22.990 --> 00:10:24.750
+erkennen und alternative
+
+274
+00:10:24.750 --> 00:10:26.670
+Informationsquellen erschließen.
+
+275
+00:10:27.390 --> 00:10:28.870
+Auch für Schulverwaltungen
+
+276
+00:10:28.870 --> 00:10:30.750
+ist das Thema relevant.
+
+277
+00:10:30.750 --> 00:10:33.190
+Bei der Auswahl und Nutzung von
+
+278
+00:10:33.190 --> 00:10:35.710
+KI-Tools, sei es für die Textverarbeitung
+
+279
+00:10:35.710 --> 00:10:38.090
+oder Entscheidungsunterstützung, sollten
+
+280
+00:10:38.090 --> 00:10:40.290
+Transparenz und Nachvollziehbarkeit
+
+281
+00:10:40.290 --> 00:10:41.890
+wichtige Kriterien sein.
+
+282
+00:10:44.930 --> 00:10:47.930
+In KI-Systemen entstehen sogenannte
+
+283
+00:10:47.930 --> 00:10:50.050
+„Meinungen“, die auf statistischen
+
+284
+00:10:50.050 --> 00:10:51.730
+Mustern in den Daten beruhen.
+
+285
+00:10:52.370 --> 00:10:54.690
+Diese Prozesse sind schwer durchschaubar
+
+286
+00:10:54.690 --> 00:10:57.250
+und verstärken das Black Box-Problem.
+
+287
+00:10:57.810 --> 00:10:59.930
+Praktische Beispiele zeigen, dass
+
+288
+00:10:59.930 --> 00:11:02.970
+Schlagwörter, emotionale Inhalte oder
+
+289
+00:11:02.970 --> 00:11:04.610
+gesellschaftliche Vorurteile
+
+290
+00:11:05.190 --> 00:11:07.430
+überproportional berücksichtigt werden.
+
+291
+00:11:08.150 --> 00:11:10.070
+Transparenz ist entscheidend,
+
+292
+00:11:10.070 --> 00:11:11.870
+um Entscheidungen nachvollziehbar zu
+
+293
+00:11:11.870 --> 00:11:14.230
+machen und Vertrauen zu schaffen,
+
+294
+00:11:14.230 --> 00:11:15.990
+auch wenn die Erklärbarkeit
+
+295
+00:11:15.990 --> 00:11:18.310
+komplexer Systeme Grenzen hat.
