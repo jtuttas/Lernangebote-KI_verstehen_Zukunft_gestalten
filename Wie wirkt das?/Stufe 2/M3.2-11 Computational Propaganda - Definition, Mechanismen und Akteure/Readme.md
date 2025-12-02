@@ -1,5 +1,5 @@
-# 
-Angebotskennung: 
+# Computational Propaganda: Definition, Mechanismen und Akteure
+Angebotskennung: M3.2-11
 
 ## Inhaltiche Gestaltung
 
@@ -7,19 +7,23 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+In diesem Lernangebot erkunden Sie die grundlegenden Methoden algorithmischer Desinformation, darunter Social Bots, Deepfakes, Filterblasen und psychografisches Targeting. Sie erfahren, wie automatisierte Programme und Künstliche Intelligenz genutzt werden, um Inhalte in sozialen Netzwerken zu verbreiten und Meinungen gezielt zu beeinflussen. Ziel des Kurses ist es, Ihre Medienkompetenz zu stärken, damit Sie manipulative Mechanismen erkennen, ihre Wirkungsweisen verstehen und sowohl technische als auch pädagogische Gegenstrategien für den Schulalltag und die gesellschaftliche Resilienz entwickeln können.
 
 **Inhalte**
 
-Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
-
-* ...
-* ...
-* ...
+* Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
+* Definition und Konzepte von Computational Propaganda
+* Mechanismen der algorithmischen Manipulation (Social Bots, Astroturfing, Troll-Armeen)
+* Rolle der Künstlichen Intelligenz: Automatisierte Inhaltserstellung, Deepfakes und Emotional Targeting
+* Personalisierung und psychografisches Targeting (Behavioral und Emotional Targeting)
+* Phänomene digitaler Öffentlichkeiten: Filterblasen und Echokammern
+* Akteure und ihre Ziele (staatliche Stellen, Parteien, Interessengruppen)
+* Gesellschaftliche Auswirkungen und Gefahren für demokratische Prozesse
+* Strategien zur Erkennung, Abwehr und Förderung der gesellschaftlichen Resilienz
 
 **Lernziele**
 
-...
+Erläuterung des Konzepts "Computational Propaganda", der Rolle von KI bei dessen Umsetzung sowie der typischen Mechanismen und Akteure.
 
 **Format**
 
@@ -27,17 +31,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren).
 
 **Voraussetzungen und Hinweise**
 
-...
+Grundlegende KI Kenntnisse
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos](https://speicher.nibis.de/s/ejrA8ZSAjmwnkCS)
 - Audiospur
 - Transkript
 
@@ -47,7 +51,7 @@ Dieses Lernangebot kann direkt als Selbstlernkurs im Niedersächsischen LernCent
 
 Das Angebot steht auch für Interessierte außerhalb von Niedersachsen zur Verfügung.
 
-**[Direkt zum Kurs im NLC]()**
+**[Direkt zum Kurs im NLC](https://nlc.info/app/edb/event/50775)**
 
 ## Contribution
 
