@@ -7,19 +7,22 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Das Lernangebot unterstützt Sie dabei, die tiefgreifenden Veränderungen zu verstehen, die Künstliche Intelligenz (KI) für individuelles und gemeinsames Lernen mit sich bringt. Es zeigt anhand alltagsnaher Beispiele, wie KI-Technologien Lernprozesse beeinflussen – etwa durch Sprachmodelle, Chatbots oder personalisierte Lernumgebungen. Dabei werden sowohl Chancen (wie Personalisierung und Barrierefreiheit) als auch Risiken (wie Kompetenzverlust und fehlende Transparenz) beleuchtet. Ziel ist es, Lernprozesse im Zeitalter von KI aktiv, kritisch und selbstbestimmt zu gestalten und KI nicht als bloße Abkürzung, sondern als Werkzeug für nachhaltiges Lernen zu begreifen.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Grundlegende Veränderungen des Lernverhaltens und der Lernkultur durch KI-Technologien.
+* Potenziale von KI für den Lernprozess, darunter Personalisierung, adaptives Feedback und Inklusion.
+* Risiken und Herausforderungen beim Einsatz von KI, insbesondere „Deskilling“ (Kompetenzverlust), Abhängigkeiten und Bias.
+* Strategien zur Förderung von KI-Kompetenz (AI Literacy), Upskilling und Reskilling.
+* Reflexion der eigenen Haltung zum Lernen („Be a learner, not a finisher“).
+* Entwicklung eines verantwortungsvollen Umgangs und individueller Leitlinien für das Lernen mit KI.
 
 **Lernziele**
 
-...
+Verständnis der Veränderungen im Lernprozess durch KI-Technologien.
 
 **Format**
 
@@ -27,17 +30,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). 
 
 **Voraussetzungen und Hinweise**
 
-...
+Es sind keine technischen Vorkenntnisse erforderlich. Neugierde und die Bereitschaft zur Reflexion der eigenen Lernpraxis sind erwünscht.
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Script
+- [Videos]()
 - Audiospur
 - Transkript
 
