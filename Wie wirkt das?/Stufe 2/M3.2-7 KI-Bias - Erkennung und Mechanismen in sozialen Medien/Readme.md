@@ -40,7 +40,7 @@ Grundlegende Kenntnisse über die Funktionsweise künstlicher Intelligenz sind h
 
 - Texte
 - Skript
-- [Videos](https://speicher.nibis.de/s/3b4SsYRrC2XjBXR)
+- [Videos](https://speicher.nibis.de/s/PZJnaWmaxjxQEPY)
 - Audiospur
 - Transkript
 

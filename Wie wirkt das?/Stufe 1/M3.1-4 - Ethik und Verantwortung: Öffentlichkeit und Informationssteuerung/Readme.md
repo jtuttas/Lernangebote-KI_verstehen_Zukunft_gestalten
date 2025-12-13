@@ -7,19 +7,23 @@ Dieses Lernangebot ist Teil des Programms „KI verstehen. Zukunft gestalten“.
 
 **Kurzbeschreibung**
 
-
+Digitale Technologien und Künstliche Intelligenz verändern grundlegend, wie öffentliche Kommunikation stattfindet und Informationen gesteuert werden. Dieses Modul bietet eine Einführung in die Mechanismen, mit denen Plattformen Informationsflüsse strukturieren, und beleuchtet die Chancen sowie die Risiken durch KI-generierte Desinformation. Ziel ist es, ein fundiertes Verständnis für die digitale Öffentlichkeit zu entwickeln und Wege aufzuzeigen, wie Informationen kritisch eingeordnet und reflektiert genutzt werden können, um Manipulationen proaktiv zu begegnen.
 
 **Inhalte**
 
 Das Lernangebot behandelt die folgenden zentralen Themenbereiche:
 
-* ...
-* ...
-* ...
+* Einfluss von KI auf die digitale Informationslandschaft und öffentliche Kommunikation 
+* Formen der Informationssteuerung: Personalisierung, Filterung und algorithmische Sortierung 
+* KI-gestützte Manipulationstechniken: Generierung von Texten, Bildern, Audio und Deepfakes 
+* Wirkungsmechanismen: Wie Algorithmen, Wiederholungseffekte und emotionale Dynamiken Wahrnehmung beeinflussen 
+* Historische Einordnung von Medienmanipulation im Vergleich zu heutigen KI-Methoden 
+* Verantwortung von Einzelpersonen, Plattformbetreibern, Medien und Politik 
+* Praktische Strategien und Checklisten zum sicheren Umgang mit digitalen Quellen und zur Erkennung von Desinformation
 
 **Lernziele**
 
-...
+Sensibilisierung und Bewusstseinsschaffung für den Einfluss und die Möglichkeiten von KI auf den politischen Diskurs
 
 **Format**
 
@@ -27,17 +31,17 @@ Dies ist ein Online-Selbstlernkurs. Nach der Anmeldung steht Ihnen das Angebot s
 
 **Zielgruppe**
 
-...
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). Es eignet sich besonders für Personen, die sich erstmals mit dem Thema befassen, und bietet einen niedrigschwelligen Einstieg in Fragen rund um KI, Medien und Demokratie.
 
 **Voraussetzungen und Hinweise**
 
-...
+--
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentation
-- Videos
+- Skript
+- [Videos](https://speicher.nibis.de/s/PZJnaWmaxjxQEPY)
 - Audiospur
 - Transkript
 
