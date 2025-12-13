@@ -1,0 +1,415 @@
+﻿1
+00:00:06,760 --> 00:00:09,120
+Herzlich willkommen zu diesem Video.
+
+2
+00:00:09,120 --> 00:00:10,200
+Wir beginnen mit einer
+
+3
+00:00:10,200 --> 00:00:12,200
+grundlegenden Frage:
+
+4
+00:00:12,200 --> 00:00:14,960
+Was bedeutet Bias in KI-Systemen?
+
+5
+00:00:14,960 --> 00:00:17,040
+Und warum ist dieses Thema wichtig
+
+6
+00:00:17,040 --> 00:00:17,880
+für alle,
+
+7
+00:00:17,880 --> 00:00:19,240
+die KI einsetzen
+
+8
+00:00:19,240 --> 00:00:22,240
+oder darüber entscheiden?
+
+9
+00:00:23,760 --> 00:00:24,280
+Der Begriff
+
+10
+00:00:24,280 --> 00:00:25,960
+Bias stammt ursprünglich
+
+11
+00:00:25,960 --> 00:00:27,520
+aus der Psychologie,
+
+12
+00:00:27,520 --> 00:00:28,440
+der Statistik
+
+13
+00:00:28,440 --> 00:00:30,840
+und den Sozialwissenschaften.
+
+14
+00:00:30,840 --> 00:00:31,480
+Er bezeichnet
+
+15
+00:00:31,480 --> 00:00:33,240
+eine systematische Verzerrung
+
+16
+00:00:33,240 --> 00:00:34,400
+in Wahrnehmung,
+
+17
+00:00:34,400 --> 00:00:36,720
+Beurteilung oder Datenerhebung,
+
+18
+00:00:36,720 --> 00:00:37,840
+die dazu führt,
+
+19
+00:00:37,840 --> 00:00:39,840
+dass Ergebnisse nicht neutral
+
+20
+00:00:39,840 --> 00:00:42,840
+oder objektiv sind.
+
+21
+00:00:43,680 --> 00:00:46,680
+Eine kompakte allgemeine Definition:
+
+22
+00:00:46,920 --> 00:00:49,440
+Bias ist ein vorhersehbarer,
+
+23
+00:00:49,440 --> 00:00:51,520
+nicht-zufälliger Fehler,
+
+24
+00:00:51,520 --> 00:00:52,200
+der entsteht,
+
+25
+00:00:52,200 --> 00:00:54,240
+weil bestimmte Informationen,
+
+26
+00:00:54,240 --> 00:00:55,800
+Wahrnehmungen oder Methoden
+
+27
+00:00:55,800 --> 00:00:57,120
+bevorzugt werden
+
+28
+00:00:57,120 --> 00:00:58,880
+und andere systematisch
+
+29
+00:00:58,880 --> 00:01:01,440
+vernachlässigt werden.
+
+30
+00:01:01,440 --> 00:01:02,960
+Solche Verzerrungen können
+
+31
+00:01:02,960 --> 00:01:04,200
+entstehen durch:
+
+32
+00:01:04,200 --> 00:01:06,320
+– Vorurteile oder Erwartungen
+
+33
+00:01:06,320 --> 00:01:08,040
+– selektive Wahrnehmung
+
+34
+00:01:08,040 --> 00:01:10,800
+– kulturelle oder soziale Prägungen
+
+35
+00:01:10,800 --> 00:01:11,760
+– fehlerhafte
+
+36
+00:01:11,760 --> 00:01:14,760
+oder unausgewogene Datenerhebung
+
+37
+00:01:15,320 --> 00:01:18,320
+Bias ist also kein einmaliger Messfehler,
+
+38
+00:01:18,360 --> 00:01:20,400
+sondern ein strukturelles Muster,
+
+39
+00:01:20,400 --> 00:01:21,240
+das Ergebnisse
+
+40
+00:01:21,240 --> 00:01:22,000
+konsistent
+
+41
+00:01:22,000 --> 00:01:24,680
+in eine bestimmte Richtung verschiebt.
+
+42
+00:01:24,680 --> 00:01:26,040
+Solche Verzerrungen
+
+43
+00:01:26,040 --> 00:01:28,400
+begegnen uns ständig im Alltag,
+
+44
+00:01:28,400 --> 00:01:29,560
+in Bewertungen,
+
+45
+00:01:29,560 --> 00:01:31,480
+Entscheidungen oder der Art,
+
+46
+00:01:31,480 --> 00:01:34,120
+wie wir Informationen wahrnehmen.
+
+47
+00:01:34,120 --> 00:01:34,880
+Sie entstehen,
+
+48
+00:01:34,880 --> 00:01:36,400
+weil Menschen und Maschinen
+
+49
+00:01:36,400 --> 00:01:38,160
+auf Muster zurückgreifen,
+
+50
+00:01:38,160 --> 00:01:38,560
+welche
+
+51
+00:01:38,560 --> 00:01:39,400
+die Ergebnisse
+
+52
+00:01:39,400 --> 00:01:42,080
+systematisch beeinflussen können.
+
+53
+00:01:42,080 --> 00:01:43,000
+Genau deshalb
+
+54
+00:01:43,000 --> 00:01:44,960
+spielt Bias eine wichtige Rolle,
+
+55
+00:01:44,960 --> 00:01:47,400
+wenn wir KI verantwortungsvoll einsetzen.
+
+56
+00:01:48,840 --> 00:01:49,440
+Wichtig ist
+
+57
+00:01:49,440 --> 00:01:50,280
+dabei:
+
+58
+00:01:50,280 --> 00:01:53,200
+Eine KI hat keine eigenen Absichten.
+
+59
+00:01:53,200 --> 00:01:53,760
+Sie bildet
+
+60
+00:01:53,760 --> 00:01:55,440
+ausschließlich Muster ab,
+
+61
+00:01:55,440 --> 00:01:57,720
+die in ihren Daten enthalten sind.
+
+62
+00:01:57,720 --> 00:01:59,160
+Dadurch wirken Verzerrungen
+
+63
+00:01:59,160 --> 00:02:01,240
+in KI oft unsichtbarer,
+
+64
+00:02:01,240 --> 00:02:03,280
+aber gleichzeitig konsequenter,
+
+65
+00:02:03,280 --> 00:02:03,920
+weil sie sich
+
+66
+00:02:03,920 --> 00:02:06,920
+in jeder Ausgabe wiederholen können.
+
+67
+00:02:06,920 --> 00:02:08,280
+Gleichzeitig kann KI
+
+68
+00:02:08,280 --> 00:02:10,120
+nie völlig neutral sein,
+
+69
+00:02:10,120 --> 00:02:11,160
+weil Neutralität
+
+70
+00:02:11,160 --> 00:02:12,760
+immer von gesellschaftlichen,
+
+71
+00:02:12,760 --> 00:02:13,680
+kulturellen
+
+72
+00:02:13,680 --> 00:02:16,080
+oder fachlichen Vorstellungen abhängt.
+
+73
+00:02:16,080 --> 00:02:18,200
+Was in einem Kontext als ausgewogen
+
+74
+00:02:18,200 --> 00:02:19,840
+gilt, kann in einem anderen
+
+75
+00:02:19,840 --> 00:02:22,840
+bereits verzerrt wirken.
+
+76
+00:02:24,000 --> 00:02:26,760
+KI hat keine eigenen Wertmaßstäbe
+
+77
+00:02:26,760 --> 00:02:27,320
+und folgt
+
+78
+00:02:27,320 --> 00:02:28,640
+keinem eigenständigen
+
+79
+00:02:28,640 --> 00:02:30,480
+Neutralitätsbegriff.
+
+80
+00:02:30,480 --> 00:02:32,120
+Sie trifft Entscheidungen allein
+
+81
+00:02:32,120 --> 00:02:34,360
+auf Basis von Daten, Mustern
+
+82
+00:02:34,360 --> 00:02:35,880
+und Trainingsprozessen
+
+83
+00:02:35,880 --> 00:02:36,800
+und kann dadurch
+
+84
+00:02:36,800 --> 00:02:39,480
+systematische Verzerrungen reproduzieren
+
+85
+00:02:39,480 --> 00:02:41,040
+oder verstärken.
+
+86
+00:02:41,040 --> 00:02:41,840
+Daher lautet
+
+87
+00:02:41,840 --> 00:02:44,080
+eine spezifische Definition:
+
+88
+00:02:44,080 --> 00:02:45,840
+Bias in KI beschreibt
+
+89
+00:02:45,840 --> 00:02:47,760
+systematische Unterschiede,
+
+90
+00:02:47,760 --> 00:02:48,680
+die entstehen,
+
+91
+00:02:48,680 --> 00:02:50,360
+weil Modelle die gesellschaftlichen
+
+92
+00:02:50,360 --> 00:02:51,200
+und kulturellen
+
+93
+00:02:51,200 --> 00:02:53,960
+Muster aus ihren Trainingsdaten abbilden
+
+94
+00:02:53,960 --> 00:02:55,400
+und reproduzieren
+
+95
+00:02:55,400 --> 00:02:56,040
+und dadurch
+
+96
+00:02:56,040 --> 00:02:58,080
+bestimmte Sichtweisen oder Gruppen
+
+97
+00:02:58,080 --> 00:03:00,040
+stärker gewichten als andere,
+
+98
+00:03:00,040 --> 00:03:02,240
+da es keine objektive Norm gibt,
+
+99
+00:03:02,240 --> 00:03:04,280
+an der sie sich orientieren könnten.
+
+100
+00:03:06,520 --> 00:03:08,640
+Damit kennen Sie die Grundlagen.
+
+101
+00:03:08,640 --> 00:03:11,240
+Im nächsten Video geht es darum, wie Bias
+
+102
+00:03:11,240 --> 00:03:12,720
+in KI entsteht
+
+103
+00:03:12,720 --> 00:03:14,160
+und welche Muster dabei
+
+104
+00:03:14,160 --> 00:03:15,160
+eine Rolle spielen.

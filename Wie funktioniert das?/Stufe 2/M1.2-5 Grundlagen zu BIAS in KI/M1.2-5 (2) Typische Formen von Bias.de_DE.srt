@@ -1,0 +1,1211 @@
+﻿1
+00:00:06,800 --> 00:00:09,120
+Typische Formen von Bias.
+
+2
+00:00:09,120 --> 00:00:10,120
+In diesem Video
+
+3
+00:00:10,120 --> 00:00:11,480
+schauen wir darauf,
+
+4
+00:00:11,480 --> 00:00:14,320
+warum Bias in KI-Modellen entsteht
+
+5
+00:00:14,320 --> 00:00:16,200
+und welche typischen Biasformen
+
+6
+00:00:16,200 --> 00:00:19,200
+sich daraus ableiten lassen.
+
+7
+00:00:21,000 --> 00:00:22,080
+Schauen wir uns zuerst
+
+8
+00:00:22,080 --> 00:00:24,480
+die Rolle der Trainingsdaten an.
+
+9
+00:00:24,480 --> 00:00:25,600
+Viele Verzerrungen
+
+10
+00:00:25,600 --> 00:00:27,520
+in KI-Systemen entstehen
+
+11
+00:00:27,520 --> 00:00:29,360
+nicht durch das Modell selbst,
+
+12
+00:00:29,360 --> 00:00:30,040
+sondern schon
+
+13
+00:00:30,040 --> 00:00:32,720
+durch die Daten, aus denen die KI lernt,
+
+14
+00:00:32,720 --> 00:00:33,960
+also durch das,
+
+15
+00:00:33,960 --> 00:00:35,320
+was das Modell überhaupt
+
+16
+00:00:35,320 --> 00:00:36,840
+als Datenbasis nutzt
+
+17
+00:00:36,840 --> 00:00:39,400
+und woraus es seine Muster ableitet.
+
+18
+00:00:39,400 --> 00:00:40,040
+Diese Daten,
+
+19
+00:00:40,040 --> 00:00:41,720
+Muster stammen immer aus
+
+20
+00:00:41,720 --> 00:00:44,040
+einer bestimmten Realität.
+
+21
+00:00:44,040 --> 00:00:46,200
+Diese Realität ist nicht neutral
+
+22
+00:00:46,200 --> 00:00:47,920
+oder ausgewogen
+
+23
+00:00:47,920 --> 00:00:49,440
+und genau deshalb entstehen
+
+24
+00:00:49,440 --> 00:00:52,440
+Verzerrungen oft bereits im Training.
+
+25
+00:00:52,800 --> 00:00:55,320
+Ein Grund ist, dass bestimmte Merkmale
+
+26
+00:00:55,320 --> 00:00:56,760
+oder Gruppen in den Daten
+
+27
+00:00:56,760 --> 00:00:59,400
+stärker vertreten sind als andere.
+
+28
+00:00:59,400 --> 00:01:00,520
+Das führt dazu,
+
+29
+00:01:00,520 --> 00:01:01,760
+dass Modelle dominante
+
+30
+00:01:01,760 --> 00:01:04,320
+Sprachvarianten, Bildmerkmale
+
+31
+00:01:04,320 --> 00:01:05,720
+oder Altersgruppen
+
+32
+00:01:05,720 --> 00:01:07,880
+sehr zuverlässig erkennen,
+
+33
+00:01:07,880 --> 00:01:09,240
+während seltene Fälle
+
+34
+00:01:09,240 --> 00:01:11,760
+schlechter generalisiert werden.
+
+35
+00:01:11,760 --> 00:01:13,920
+Das Modell lernt vor allem das,
+
+36
+00:01:13,920 --> 00:01:15,480
+was es häufig sieht
+
+37
+00:01:15,480 --> 00:01:17,960
+und behandelt andere Muster als Ausnahme.
+
+38
+00:01:19,080 --> 00:01:21,440
+Auch historische Verzerrungen spielen
+
+39
+00:01:21,440 --> 00:01:22,800
+eine Rolle.
+
+40
+00:01:22,800 --> 00:01:24,120
+Datensätze enthalten
+
+41
+00:01:24,120 --> 00:01:26,000
+kulturelle Vorannahmen,
+
+42
+00:01:26,000 --> 00:01:27,600
+stereotype Muster
+
+43
+00:01:27,600 --> 00:01:29,840
+oder einseitige Darstellungen,
+
+44
+00:01:29,840 --> 00:01:31,320
+die schon vor dem Einsatz
+
+45
+00:01:31,320 --> 00:01:33,480
+von KI existierten.
+
+46
+00:01:33,480 --> 00:01:35,520
+Wenn solche Muster in den Trainingsdaten
+
+47
+00:01:35,520 --> 00:01:36,360
+stark vertreten
+
+48
+00:01:36,360 --> 00:01:36,960
+sind,
+
+49
+00:01:36,960 --> 00:01:37,920
+schreibt das Modell
+
+50
+00:01:37,920 --> 00:01:40,200
+sie später einfach fort.
+
+51
+00:01:40,200 --> 00:01:42,600
+Nicht weil es das möchte,
+
+52
+00:01:42,600 --> 00:01:44,880
+sondern weil diese Muster statistisch
+
+53
+00:01:44,880 --> 00:01:47,880
+besonders stabil erscheinen.
+
+54
+00:01:48,200 --> 00:01:49,560
+In einigen Bereichen werden
+
+55
+00:01:49,560 --> 00:01:51,120
+Trainingsdaten zusätzlich
+
+56
+00:01:51,120 --> 00:01:52,600
+von Menschen beschriftet,
+
+57
+00:01:52,600 --> 00:01:55,080
+etwa bei der Bildklassifikation
+
+58
+00:01:55,080 --> 00:01:57,880
+oder der Moderation von Inhalten.
+
+59
+00:01:57,880 --> 00:01:58,720
+Dabei entstehen
+
+60
+00:01:58,720 --> 00:01:59,800
+Verzerrungen durch
+
+61
+00:01:59,800 --> 00:02:02,080
+unterschiedliche Interpretationen,
+
+62
+00:02:02,080 --> 00:02:03,600
+kulturelle Unterschiede
+
+63
+00:02:03,600 --> 00:02:06,120
+oder unbewusste Erwartungen.
+
+64
+00:02:06,120 --> 00:02:08,040
+Diese individuellen Einschätzungen
+
+65
+00:02:08,040 --> 00:02:09,800
+fließen in die Daten ein
+
+66
+00:02:09,800 --> 00:02:10,800
+und beeinflussen
+
+67
+00:02:10,800 --> 00:02:12,920
+das Verhalten des Modells.
+
+68
+00:02:12,920 --> 00:02:14,280
+Ein weiterer Faktor
+
+69
+00:02:14,280 --> 00:02:15,680
+sind unvollständige
+
+70
+00:02:15,680 --> 00:02:17,880
+oder lückenhafte Daten.
+
+71
+00:02:17,880 --> 00:02:20,880
+Manche Aspekte der Realität fehlen völlig
+
+72
+00:02:21,000 --> 00:02:23,760
+oder sind nur sehr schwach vertreten.
+
+73
+00:02:23,760 --> 00:02:26,600
+Seltene Dialekte, spezielle Situationen
+
+74
+00:02:26,600 --> 00:02:27,960
+oder bestimmte Gruppen
+
+75
+00:02:27,960 --> 00:02:29,840
+kommen schlicht nicht vor.
+
+76
+00:02:29,840 --> 00:02:31,200
+Was im Training fehlt,
+
+77
+00:02:31,200 --> 00:02:32,480
+kann das Modell später
+
+78
+00:02:32,480 --> 00:02:34,200
+nicht zuverlässig erkennen.
+
+79
+00:02:34,200 --> 00:02:36,960
+Und genau dadurch entstehen systematische
+
+80
+00:02:36,960 --> 00:02:38,040
+Musterverzerrungen.
+
+81
+00:02:39,600 --> 00:02:41,760
+Zusammengefasst lässt sich sagen:
+
+82
+00:02:41,760 --> 00:02:42,760
+Verzerrte oder
+
+83
+00:02:42,760 --> 00:02:45,120
+unausgewogene Trainingsdaten
+
+84
+00:02:45,120 --> 00:02:47,280
+gehören zu den wichtigsten Ursachen
+
+85
+00:02:47,280 --> 00:02:50,040
+für Bias in KI-Systemen.
+
+86
+00:02:50,040 --> 00:02:51,120
+Modelle übernehmen
+
+87
+00:02:51,120 --> 00:02:53,320
+die Strukturen ihrer Daten.
+
+88
+00:02:53,320 --> 00:02:54,720
+Diese Form der Verzerrung
+
+89
+00:02:54,720 --> 00:02:57,720
+bezeichnet man als Datenbias.
+
+90
+00:02:59,920 --> 00:03:01,560
+Schauen wir nun auf die Rolle
+
+91
+00:03:01,560 --> 00:03:02,920
+der Algorithmen.
+
+92
+00:03:02,920 --> 00:03:05,920
+Es geht darum, wie ein KI-Modell lernt,
+
+93
+00:03:06,160 --> 00:03:08,360
+also welche mathematischen Prozesse
+
+94
+00:03:08,360 --> 00:03:09,320
+bestimmen,
+
+95
+00:03:09,320 --> 00:03:11,600
+welche Muster es stark gewichtet
+
+96
+00:03:11,600 --> 00:03:13,680
+und wie es Fehler reduziert.
+
+97
+00:03:13,680 --> 00:03:14,160
+Auch wenn
+
+98
+00:03:14,160 --> 00:03:15,160
+die Trainingsdaten
+
+99
+00:03:15,160 --> 00:03:17,280
+einigermaßen ausgewogen wären,
+
+100
+00:03:17,280 --> 00:03:19,200
+können Modelle selbst Verzerrungen
+
+101
+00:03:19,200 --> 00:03:20,440
+erzeugen.
+
+102
+00:03:20,440 --> 00:03:20,920
+Der Grund
+
+103
+00:03:20,920 --> 00:03:23,920
+dafür ist die Funktionsweise des Modells.
+
+104
+00:03:24,200 --> 00:03:25,560
+Ein Modell versucht
+
+105
+00:03:25,560 --> 00:03:27,880
+seine Gesamtfehlerquote zu senken
+
+106
+00:03:27,880 --> 00:03:28,400
+und nicht
+
+107
+00:03:28,400 --> 00:03:29,280
+Fairness oder
+
+108
+00:03:29,280 --> 00:03:32,280
+Ausgewogenheit herzustellen.
+
+109
+00:03:32,520 --> 00:03:34,720
+Ein zentrales Prinzip dabei ist,
+
+110
+00:03:34,720 --> 00:03:35,480
+dass ein Modell
+
+111
+00:03:35,480 --> 00:03:36,840
+vor allem das lernt,
+
+112
+00:03:36,840 --> 00:03:38,200
+was in den Trainingsdaten
+
+113
+00:03:38,200 --> 00:03:39,720
+häufig vorkommt.
+
+114
+00:03:39,720 --> 00:03:40,600
+Häufige Muster
+
+115
+00:03:40,600 --> 00:03:42,720
+prägen den Lernprozess stark,
+
+116
+00:03:42,720 --> 00:03:45,000
+weil sie das Gesamtergebnis des Modells
+
+117
+00:03:45,000 --> 00:03:47,360
+am stärksten beeinflussen.
+
+118
+00:03:47,360 --> 00:03:48,480
+Seltene Muster
+
+119
+00:03:48,480 --> 00:03:49,680
+tragen dagegen wenig
+
+120
+00:03:49,680 --> 00:03:51,440
+zur Fehlerreduktion bei
+
+121
+00:03:51,440 --> 00:03:52,600
+und werden entsprechend
+
+122
+00:03:52,600 --> 00:03:54,080
+schwächer gelernt.
+
+123
+00:03:54,080 --> 00:03:55,200
+Das bedeutet,
+
+124
+00:03:55,200 --> 00:03:56,800
+wenn ein Muster im Datensatz
+
+125
+00:03:56,800 --> 00:03:58,080
+sehr oft vorkommt
+
+126
+00:03:58,080 --> 00:04:00,120
+und ein anderes nur selten,
+
+127
+00:04:00,120 --> 00:04:01,560
+dann investiert das Modell
+
+128
+00:04:01,560 --> 00:04:03,680
+deutlich mehr Lernkapazität
+
+129
+00:04:03,680 --> 00:04:05,880
+in das häufige Muster.
+
+130
+00:04:05,880 --> 00:04:07,880
+Seltene Fälle sind statistisch
+
+131
+00:04:07,880 --> 00:04:09,000
+kaum sichtbar
+
+132
+00:04:09,000 --> 00:04:09,560
+und fließen
+
+133
+00:04:09,560 --> 00:04:10,840
+deshalb weniger stark
+
+134
+00:04:10,840 --> 00:04:12,880
+in die Modellbildung ein.
+
+135
+00:04:12,880 --> 00:04:15,240
+Wenn Informationen aus Trainingsdaten
+
+136
+00:04:15,240 --> 00:04:18,160
+einen bestimmten Wahrscheinlichkeits-Schwellenwert
+
+137
+00:04:18,160 --> 00:04:19,000
+unterschreiten,
+
+138
+00:04:19,000 --> 00:04:21,480
+dann löschen KI-Modelle gegebenenfalls
+
+139
+00:04:21,480 --> 00:04:22,840
+diese Information,
+
+140
+00:04:22,840 --> 00:04:24,360
+um die eigene Datenmenge
+
+141
+00:04:24,360 --> 00:04:25,920
+gering zu halten.
+
+142
+00:04:25,920 --> 00:04:28,840
+Aus Sicht des Betreibers des KI-Modells
+
+143
+00:04:28,840 --> 00:04:30,280
+würden diese Informationen
+
+144
+00:04:30,280 --> 00:04:33,520
+zu selten abgerufen bzw. berücksichtigt,
+
+145
+00:04:33,720 --> 00:04:36,560
+dass sich eine Speicherung nicht lohnt.
+
+146
+00:04:36,560 --> 00:04:37,400
+Dadurch werden
+
+147
+00:04:37,400 --> 00:04:39,600
+marginalisierte Informationen
+
+148
+00:04:39,600 --> 00:04:41,320
+algorithmisch ausgeschlossen.
+
+149
+00:04:43,080 --> 00:04:45,520
+Verzerrungen entstehen somit selbst dann,
+
+150
+00:04:45,520 --> 00:04:47,440
+wenn die Daten nicht absichtlich
+
+151
+00:04:47,440 --> 00:04:49,440
+unausgewogen sind.
+
+152
+00:04:49,440 --> 00:04:50,520
+Zudem orientieren
+
+153
+00:04:50,520 --> 00:04:51,120
+sich Modelle
+
+154
+00:04:51,120 --> 00:04:52,920
+ausschließlich an statistischen
+
+155
+00:04:52,920 --> 00:04:54,280
+Zusammenhängen.
+
+156
+00:04:54,280 --> 00:04:55,200
+Sie erkennen nicht,
+
+157
+00:04:55,200 --> 00:04:56,760
+ob ein bestimmtes Merkmal
+
+158
+00:04:56,760 --> 00:04:59,760
+inhaltlich sinnvoll oder relevant ist.
+
+159
+00:05:00,040 --> 00:05:01,680
+Wenn ein Merkmal zufällig
+
+160
+00:05:01,680 --> 00:05:03,480
+oft mit einem Ergebnis verknüpft
+
+161
+00:05:03,480 --> 00:05:04,760
+ist, erhält es
+
+162
+00:05:04,760 --> 00:05:06,840
+eine hohe Bedeutung im Modell,
+
+163
+00:05:06,840 --> 00:05:08,080
+selbst wenn es fachlich
+
+164
+00:05:08,080 --> 00:05:10,120
+keine Rolle spielt.
+
+165
+00:05:10,120 --> 00:05:11,360
+Kurz gesagt:
+
+166
+00:05:11,360 --> 00:05:13,680
+Die Funktionsweise des Modells verstärkt
+
+167
+00:05:13,680 --> 00:05:14,880
+Mehrheitsmuster
+
+168
+00:05:14,880 --> 00:05:16,200
+und kann selbst bei gut
+
+169
+00:05:16,200 --> 00:05:17,920
+zusammengestellten Daten
+
+170
+00:05:17,920 --> 00:05:20,760
+zu systematischen Verzerrungen führen.
+
+171
+00:05:20,760 --> 00:05:22,560
+Diese Form der Verzerrung
+
+172
+00:05:22,560 --> 00:05:25,560
+wird als algorithmischer Bias bezeichnet.
+
+173
+00:05:26,920 --> 00:05:27,600
+Schauen wir nun
+
+174
+00:05:27,600 --> 00:05:29,760
+auf die Modellarchitektur.
+
+175
+00:05:29,760 --> 00:05:31,200
+Es geht darum, woraus
+
+176
+00:05:31,200 --> 00:05:33,040
+ein KI-Modell besteht,
+
+177
+00:05:33,040 --> 00:05:34,800
+also aus welchen Bausteinen,
+
+178
+00:05:34,800 --> 00:05:36,920
+Strukturen und Vereinfachungen
+
+179
+00:05:36,920 --> 00:05:38,920
+die Verarbeitung von Informationen
+
+180
+00:05:38,920 --> 00:05:40,680
+überhaupt möglich wird.
+
+181
+00:05:40,680 --> 00:05:42,120
+Jedes KI-Modell,
+
+182
+00:05:42,120 --> 00:05:43,000
+egal wie groß
+
+183
+00:05:43,000 --> 00:05:44,600
+oder komplex, arbeitet
+
+184
+00:05:44,600 --> 00:05:46,960
+mit einer bestimmten Architektur.
+
+185
+00:05:46,960 --> 00:05:47,800
+Sie legt fest,
+
+186
+00:05:47,800 --> 00:05:49,920
+wie viele Schichten es gibt,
+
+187
+00:05:49,920 --> 00:05:52,160
+wie Informationen verarbeitet werden
+
+188
+00:05:52,160 --> 00:05:53,040
+und wie stark
+
+189
+00:05:53,040 --> 00:05:55,560
+verschiedene Merkmale zusammengefasst
+
+190
+00:05:55,560 --> 00:05:57,720
+oder gefiltert werden.
+
+191
+00:05:57,720 --> 00:05:59,720
+Diese Strukturen bestimmen,
+
+192
+00:05:59,720 --> 00:06:01,840
+welche Art von Informationen
+
+193
+00:06:01,840 --> 00:06:04,520
+das Modell überhaupt darstellen kann
+
+194
+00:06:04,520 --> 00:06:05,520
+und welche nicht.
+
+195
+00:06:06,800 --> 00:06:07,680
+Da ein
+
+196
+00:06:07,680 --> 00:06:09,120
+KI-Modell Informationen
+
+197
+00:06:09,120 --> 00:06:09,720
+immer durch
+
+198
+00:06:09,720 --> 00:06:11,760
+seine Architektur verarbeitet,
+
+199
+00:06:11,760 --> 00:06:12,080
+werden
+
+200
+00:06:12,080 --> 00:06:13,720
+komplexe Zusammenhänge
+
+201
+00:06:13,720 --> 00:06:16,040
+automatisch verdichtet.
+
+202
+00:06:16,040 --> 00:06:17,320
+Selbst ausgewogene
+
+203
+00:06:17,320 --> 00:06:18,560
+Trainingsdaten
+
+204
+00:06:18,560 --> 00:06:20,880
+könnten diese strukturellen Begrenzungen
+
+205
+00:06:20,880 --> 00:06:23,040
+nicht vollständig ausgleichen,
+
+206
+00:06:23,040 --> 00:06:25,360
+weil die Architektur selbst festlegt,
+
+207
+00:06:25,360 --> 00:06:26,360
+wie detailliert
+
+208
+00:06:26,360 --> 00:06:29,360
+das Modell unterscheiden kann.
+
+209
+00:06:30,200 --> 00:06:31,200
+Hinzu kommt,
+
+210
+00:06:31,200 --> 00:06:33,440
+dass architektonische Entscheidungen,
+
+211
+00:06:33,440 --> 00:06:35,160
+etwa, welche Merkmale
+
+212
+00:06:35,160 --> 00:06:36,600
+berücksichtigt werden
+
+213
+00:06:36,600 --> 00:06:37,560
+oder wie tief
+
+214
+00:06:37,560 --> 00:06:39,520
+oder breit das Modell aufgebaut
+
+215
+00:06:39,520 --> 00:06:41,880
+ist, indirekt beeinflussen,
+
+216
+00:06:41,880 --> 00:06:44,880
+was das Modell „wichtig“ findet.
+
+217
+00:06:44,920 --> 00:06:46,320
+Wenn ein Modell bestimmte
+
+218
+00:06:46,320 --> 00:06:48,680
+Unterschiede nicht darstellen kann,
+
+219
+00:06:48,680 --> 00:06:50,640
+weil seine Struktur dafür zu grob
+
+220
+00:06:50,640 --> 00:06:53,640
+ist, entsteht ebenfalls Bias.
+
+221
+00:06:53,840 --> 00:06:55,040
+Kurz gesagt:
+
+222
+00:06:55,040 --> 00:06:56,280
+Die Architektur eines
+
+223
+00:06:56,280 --> 00:06:58,200
+KI-Modells legt fest,
+
+224
+00:06:58,200 --> 00:07:00,240
+wie Informationen verarbeitet
+
+225
+00:07:00,240 --> 00:07:02,640
+und zu Mustern verdichtet werden.
+
+226
+00:07:02,640 --> 00:07:04,680
+Wenn diese strukturellen Begrenzungen
+
+227
+00:07:04,680 --> 00:07:05,720
+dazu führen,
+
+228
+00:07:05,720 --> 00:07:07,200
+dass bestimmte Informationen
+
+229
+00:07:07,200 --> 00:07:09,240
+systematisch schlechter abgebildet
+
+230
+00:07:09,240 --> 00:07:09,880
+werden,
+
+231
+00:07:09,880 --> 00:07:12,880
+spricht man von strukturellem Bias.
+
+232
+00:07:15,240 --> 00:07:16,400
+Schauen wir nun darauf,
+
+233
+00:07:16,400 --> 00:07:17,520
+wie die Nutzung eines
+
+234
+00:07:17,520 --> 00:07:20,520
+KI-Modells selbst Bias verstärken kann.
+
+235
+00:07:20,640 --> 00:07:22,720
+Es geht dabei darum, wie Rückmeldungen,
+
+236
+00:07:22,720 --> 00:07:24,960
+Nutzungsverhalten oder fortlaufende
+
+237
+00:07:24,960 --> 00:07:26,760
+Datensammlung beeinflussen,
+
+238
+00:07:26,760 --> 00:07:27,600
+welche Muster
+
+239
+00:07:27,600 --> 00:07:29,600
+ein Modell zukünftig stärker
+
+240
+00:07:29,600 --> 00:07:31,040
+oder schwächer gewichtet.
+
+241
+00:07:32,320 --> 00:07:33,200
+Wenn ein
+
+242
+00:07:33,200 --> 00:07:33,840
+KI-Modell im
+
+243
+00:07:33,840 --> 00:07:34,840
+laufenden Betrieb
+
+244
+00:07:34,840 --> 00:07:37,160
+Daten aus Interaktionen aufnimmt,
+
+245
+00:07:37,160 --> 00:07:38,040
+zum Beispiel
+
+246
+00:07:38,040 --> 00:07:41,040
+Fragen, Bewertungen oder Klickverhalten,
+
+247
+00:07:41,040 --> 00:07:43,040
+dann kann es bestehende Verzerrungen
+
+248
+00:07:43,040 --> 00:07:44,760
+weiter ausbauen.
+
+249
+00:07:44,760 --> 00:07:47,000
+Häufige Eingaben werden verstärkt,
+
+250
+00:07:47,000 --> 00:07:48,120
+während seltenere
+
+251
+00:07:48,120 --> 00:07:49,920
+oder abweichende Eingaben
+
+252
+00:07:49,920 --> 00:07:52,240
+kaum berücksichtigt werden.
+
+253
+00:07:52,240 --> 00:07:54,720
+Das Modell orientiert sich also zunehmend
+
+254
+00:07:54,720 --> 00:07:56,480
+an den Mustern der aktivsten
+
+255
+00:07:56,480 --> 00:07:58,720
+oder lautesten Nutzergruppen,
+
+256
+00:07:58,720 --> 00:07:59,520
+nicht an einer
+
+257
+00:07:59,520 --> 00:08:02,520
+ausgewogenen Gesamtrepräsentation.
+
+258
+00:08:02,520 --> 00:08:04,160
+Auch Feedbackschleifen spielen
+
+259
+00:08:04,160 --> 00:08:05,760
+eine wichtige Rolle:
+
+260
+00:08:05,760 --> 00:08:07,440
+Wenn Nutzer bestimmte Antworten
+
+261
+00:08:07,440 --> 00:08:10,440
+häufiger positiv bewerten oder auswählen,
+
+262
+00:08:10,560 --> 00:08:12,720
+kann das Modell genau diese Muster
+
+263
+00:08:12,720 --> 00:08:14,440
+weiter hochgewichten.
+
+264
+00:08:14,440 --> 00:08:15,360
+Dadurch entstehen
+
+265
+00:08:15,360 --> 00:08:17,400
+sogenannte „Feedback-Loops“,
+
+266
+00:08:17,400 --> 00:08:19,240
+in denen vorhandene Verzerrungen
+
+267
+00:08:19,240 --> 00:08:21,960
+immer stärker zurückgespiegelt werden.
+
+268
+00:08:21,960 --> 00:08:24,120
+Besonders problematisch ist das,
+
+269
+00:08:24,120 --> 00:08:26,760
+wenn diese Muster auf Vorannahmen,
+
+270
+00:08:26,760 --> 00:08:28,800
+stereotypen Erwartungen
+
+271
+00:08:28,800 --> 00:08:30,000
+oder einseitigen
+
+272
+00:08:30,000 --> 00:08:32,400
+Nutzungssituationen beruhen.
+
+273
+00:08:32,400 --> 00:08:33,400
+Hinzu kommt,
+
+274
+00:08:33,400 --> 00:08:34,040
+dass Modelle
+
+275
+00:08:34,040 --> 00:08:36,640
+mit veralteten Realitäten arbeiten,
+
+276
+00:08:36,640 --> 00:08:36,960
+wenn sie
+
+277
+00:08:36,960 --> 00:08:39,200
+über längere Zeit nicht aktualisiert
+
+278
+00:08:39,200 --> 00:08:40,200
+werden,
+
+279
+00:08:40,200 --> 00:08:41,720
+da sie nur den Wissensstand
+
+280
+00:08:41,720 --> 00:08:44,120
+zum Zeitpunkt ihres Trainings kennen,
+
+281
+00:08:44,120 --> 00:08:46,080
+fehlen spätere Entwicklungen,
+
+282
+00:08:46,080 --> 00:08:47,560
+neue Sprachformen
+
+283
+00:08:47,560 --> 00:08:48,400
+und veränderte
+
+284
+00:08:48,400 --> 00:08:51,400
+gesellschaftliche Kontexte zwangsläufig.
+
+285
+00:08:51,720 --> 00:08:53,000
+Dadurch bleibt das Modell
+
+286
+00:08:53,000 --> 00:08:55,800
+bei einem veralteten Bild der Realität
+
+287
+00:08:55,800 --> 00:08:57,720
+und verstärkt dieses Bild weiter.
+
+288
+00:09:00,440 --> 00:09:01,560
+Kurz gesagt:
+
+289
+00:09:01,560 --> 00:09:02,280
+Die Art und
+
+290
+00:09:02,280 --> 00:09:05,280
+Weise, wie KI-Modelle genutzt, bewertet
+
+291
+00:09:05,520 --> 00:09:07,920
+und mit neuen Daten versorgt werden,
+
+292
+00:09:07,920 --> 00:09:10,080
+kann Bias nicht nur erzeugen,
+
+293
+00:09:10,080 --> 00:09:11,640
+sondern auch verstärken
+
+294
+00:09:11,640 --> 00:09:14,080
+und langfristig verfestigen.
+
+295
+00:09:14,080 --> 00:09:15,560
+Diese Verstärkung bekannter
+
+296
+00:09:15,560 --> 00:09:16,360
+Muster
+
+297
+00:09:16,360 --> 00:09:19,360
+wird als Confirmation Bias bezeichnet.
+
+298
+00:09:19,920 --> 00:09:21,960
+Damit haben Sie die wichtigsten Ursachen
+
+299
+00:09:21,960 --> 00:09:23,480
+und Formen von Bias
+
+300
+00:09:23,480 --> 00:09:26,160
+in KI-Systemen kennengelernt.
+
+301
+00:09:26,160 --> 00:09:28,080
+Im nächsten Video geht es darum,
+
+302
+00:09:28,080 --> 00:09:30,360
+wie Sie solche Verzerrungen erkennen
+
+303
+00:09:30,360 --> 00:09:32,320
+und aktiv entgegenwirken können.

@@ -3,13 +3,22 @@ Angebotskennung: M1.2-5
 
 ## Inhaltiche Gestaltung
 
+Dieses Lernangebot führt in die Grundlagen von Bias in KI-Systemen ein und zeigt auf, wie systematische Verzerrungen in Text- und Bild-KIs entstehen, wirken und erkannt werden können. Es wird vermittelt, warum KI nie vollständig neutral sein kann und welche Rolle Trainingsdaten, Algorithmen, Modellarchitekturen und Nutzungsmuster bei der Entstehung dieser Verzerrungen spielen. Ziel des Moduls ist ein reflektierter Umgang mit KI-Systemen, der Anwendenden hilft, Risiken zu erkennen, KI-Ausgaben kritisch einzuordnen und Entscheidungen bewusst abzusichern.
+
 **Kurzbeschreibung**
 
 Dieses Lernangebot ist Teil des Gesamtprogramms "KI verstehen. Zukunft gestalten." Es dient der Einführung in die grundlegenden Konzepte von Large Language Models (LLMs) und des maschinellen Lernens. Ziel ist es, ein fundiertes Verständnis für die Funktionsweise moderner KI-Systeme zu schaffen.
 
 **Inhalte**
 
+Das Modul vermittelt Kenntnisse zu folgenden Themen:
 
+* Definition und Bedeutung von Bias (systematische Verzerrung) in KI-Systemen.
+* Ursachen für die Entstehung von Bias: Trainingsdaten, algorithmische Optimierung, Modellarchitektur und Nutzungsmuster.
+* Typische Formen von Bias, darunter Datenbias, algorithmischer Bias, struktureller Bias und Confirmation Bias.
+* Praxisbeispiele, wie Algorithmen Ungleichheiten verstärken können (z. B. im Bewerbungsverfahren oder bei Geschlechterrollen).
+* Praktische Methoden zum Erkennen von Verzerrungen, wie Prompt-Variation und Modellvergleiche.
+* Strategien zur aktiven Reduktion von Bias durch bewusstes Prompting (Debiasing), kritische Rückfragen und Kontext-Ergänzung.
 
 **Format**
 
@@ -17,16 +26,16 @@ Es handelt sich um einen Online-Selbstlernkurs. Nach erfolgreicher Anmeldung und
 
 **Zielgruppe und Vorkenntnisse**
 
-Das Lernangebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums, darunter Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal sowie Bildungsadministratorinnen und -administratoren.
+Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des Kultusministeriums (Lehrkräfte, schulisches Leitungspersonal, leitungsunterstützendes Personal, Bildungsadministratorinnen und -administratoren). Darüber hinaus werden pädagogisch Verantwortliche, Multiplikator:innen und alle Personen angesprochen, die KI in Schule, Bildungspraxis oder Verwaltung nutzen und die Qualität sowie Fairness von KI-Ausgaben besser einschätzen möchten.
 
-Für diesen Kurs wird ein erstes Wissen über Künstliche Intelligenz und Large Language Models (LLM) vorausgesetzt. Gemäß des Frankfurt-Dreiecks konzentriert sich das Angebot im Kern auf die Perspektive: „Wie funktioniert KI?“.
+Zur Vorbereitung empfiehlt sich ein Blick in weitere Lernangebote dieser Reihe, insbesondere „M1.1 Einführung: Künstliche Intelligenz in Schule und Unterricht – Funktionsweise, Chancen und Herausforderungen“ sowie „M3.1 KI und Ethik: Chancen und Risiken der KI-Nutzung“.
 
 
 ## Bestandteile des Angebots
 
 - Texte
-- Präsentationen
-- [Video]() 
+- Skripte
+- [Video](https://speicher.nibis.de/s/4kij342n8qHK5G2) 
 - Audiospur der Videos
 - Transkripte
 

@@ -1,0 +1,571 @@
+﻿1
+00:00:06,280 --> 00:00:08,840
+Bias erkennen und reduzieren.
+
+2
+00:00:08,840 --> 00:00:11,440
+Um bei es in KI-Ausgaben zu erkennen,
+
+3
+00:00:11,440 --> 00:00:12,040
+brauchen Sie
+
+4
+00:00:12,040 --> 00:00:14,160
+keine technischen Kenntnisse.
+
+5
+00:00:14,160 --> 00:00:14,760
+Oft reichen
+
+6
+00:00:14,760 --> 00:00:15,880
+kleine Tests,
+
+7
+00:00:15,880 --> 00:00:16,600
+die sie direkt
+
+8
+00:00:16,600 --> 00:00:18,840
+während der Nutzung durchführen können.
+
+9
+00:00:18,840 --> 00:00:21,840
+Hier sind vier einfache Strategien.
+
+10
+00:00:24,040 --> 00:00:26,320
+Prompt leicht variieren.
+
+11
+00:00:26,320 --> 00:00:27,720
+Ein erster Ansatz besteht
+
+12
+00:00:27,720 --> 00:00:30,240
+darin, Prompts zu variieren.
+
+13
+00:00:30,240 --> 00:00:32,480
+Sie stellen die gleiche Aufgabe, ändern
+
+14
+00:00:32,480 --> 00:00:34,400
+aber ein einzelnes Wort.
+
+15
+00:00:34,400 --> 00:00:35,520
+Ein Beispiel:
+
+16
+00:00:35,520 --> 00:00:36,480
+Bitten Sie die KI,
+
+17
+00:00:36,480 --> 00:00:38,680
+einmal als „Finanzberater“
+
+18
+00:00:38,680 --> 00:00:40,920
+und einmal als „Sozialarbeiter“
+
+19
+00:00:40,920 --> 00:00:43,920
+eine E-Mail zum Autokauf zu formulieren.
+
+20
+00:00:44,160 --> 00:00:44,880
+Wenn die Rollen
+
+21
+00:00:44,880 --> 00:00:45,960
+zu unterschiedlichen
+
+22
+00:00:45,960 --> 00:00:47,920
+Argumentationsstilen führen,
+
+23
+00:00:47,920 --> 00:00:50,120
+obwohl die Aufgabe gleich bleibt,
+
+24
+00:00:50,120 --> 00:00:51,000
+deutet das auf
+
+25
+00:00:51,000 --> 00:00:54,000
+typische Rollenmuster im Modell hin.
+
+26
+00:00:57,120 --> 00:00:59,040
+Aufgabe verändern.
+
+27
+00:00:59,040 --> 00:01:01,800
+Eine zweite Methode ist, dieselbe Aufgabe
+
+28
+00:01:01,800 --> 00:01:03,840
+mit einer kleinen Zusatzinformation
+
+29
+00:01:03,840 --> 00:01:05,560
+erneut zu stellen.
+
+30
+00:01:05,560 --> 00:01:06,760
+Ein Beispiel:
+
+31
+00:01:06,760 --> 00:01:08,440
+Lassen Sie sich die Tagesroutine
+
+32
+00:01:08,440 --> 00:01:10,920
+einer Supermarktleitung beschreiben
+
+33
+00:01:10,920 --> 00:01:11,920
+und wiederholen Sie
+
+34
+00:01:11,920 --> 00:01:13,680
+den Prompt mit dem Zusatz
+
+35
+00:01:13,680 --> 00:01:15,760
+„In Berlin Kreuzberg“.
+
+36
+00:01:15,760 --> 00:01:16,680
+Wenn der Ortsname
+
+37
+00:01:16,680 --> 00:01:18,640
+den Fokus der Antwort verändert,
+
+38
+00:01:18,640 --> 00:01:19,400
+zeigt das,
+
+39
+00:01:19,400 --> 00:01:20,000
+wie stark
+
+40
+00:01:20,000 --> 00:01:21,440
+statistische Erwartungen
+
+41
+00:01:21,440 --> 00:01:23,040
+aus Trainingsdaten einwirken.
+
+42
+00:01:26,160 --> 00:01:28,200
+Rollenzuschreibungen beobachten.
+
+43
+00:01:28,200 --> 00:01:29,400
+Achten Sie darauf,
+
+44
+00:01:29,400 --> 00:01:30,520
+welche Darstellungen
+
+45
+00:01:30,520 --> 00:01:32,560
+ein Modell automatisch erzeugt.
+
+46
+00:01:32,560 --> 00:01:33,760
+Ein Beispiel:
+
+47
+00:01:33,760 --> 00:01:35,720
+Wenn bei der Generierung eines Bildes
+
+48
+00:01:35,720 --> 00:01:36,520
+einer Person
+
+49
+00:01:36,520 --> 00:01:37,880
+in der IT-Branche
+
+50
+00:01:37,880 --> 00:01:38,560
+überwiegend
+
+51
+00:01:38,560 --> 00:01:40,800
+männliche Darstellungen erscheinen,
+
+52
+00:01:40,800 --> 00:01:42,400
+weist das auf stereotype
+
+53
+00:01:42,400 --> 00:01:44,280
+Muster im Modell hin.
+
+54
+00:01:44,280 --> 00:01:46,320
+Solche einseitigen oder ständig
+
+55
+00:01:46,320 --> 00:01:48,040
+wiederkehrenden Merkmale
+
+56
+00:01:48,040 --> 00:01:51,040
+sind oft klare Hinweise auf Bias.
+
+57
+00:01:53,520 --> 00:01:56,080
+Ergebnisse kritisch prüfen.
+
+58
+00:01:56,080 --> 00:01:57,600
+Prüfen Sie, ob Antworten
+
+59
+00:01:57,600 --> 00:01:58,800
+über Varianten hinweg
+
+60
+00:01:58,800 --> 00:02:00,680
+gleich strukturiert bleiben
+
+61
+00:02:00,680 --> 00:02:01,640
+oder wiederholt
+
+62
+00:02:01,640 --> 00:02:04,320
+ähnliche Perspektiven betonen.
+
+63
+00:02:04,320 --> 00:02:06,760
+Wenn eine Antwort unabhängig vom Kontext
+
+64
+00:02:06,760 --> 00:02:07,720
+gleich aufgebaut
+
+65
+00:02:07,720 --> 00:02:08,880
+ist, folgt sie
+
+66
+00:02:08,880 --> 00:02:11,600
+vermutlich einem statistischen Muster.
+
+67
+00:02:11,600 --> 00:02:12,280
+Ein Vergleich
+
+68
+00:02:12,280 --> 00:02:14,120
+verschiedener KI-Modelle
+
+69
+00:02:14,120 --> 00:02:16,600
+kann diese Muster sichtbar machen.
+
+70
+00:02:16,600 --> 00:02:18,680
+Unterschiedliche Trainingsdaten
+
+71
+00:02:18,680 --> 00:02:21,080
+führen zu unterschiedlichen Ergebnissen
+
+72
+00:02:21,080 --> 00:02:22,680
+und damit werden Verzerrungen
+
+73
+00:02:22,680 --> 00:02:25,680
+besonders deutlich.
+
+74
+00:02:26,400 --> 00:02:27,880
+Nachdem wir uns angeschaut haben,
+
+75
+00:02:27,880 --> 00:02:29,920
+wie sich Bias erkennen lässt,
+
+76
+00:02:29,920 --> 00:02:31,240
+geht es nun darum,
+
+77
+00:02:31,240 --> 00:02:31,680
+wie Sie
+
+78
+00:02:31,680 --> 00:02:33,160
+Verzerrungen im Alltag
+
+79
+00:02:33,160 --> 00:02:35,400
+aktiv reduzieren können.
+
+80
+00:02:35,400 --> 00:02:37,800
+Auch hier reichen einfache Strategien,
+
+81
+00:02:37,800 --> 00:02:38,640
+die Sie während der
+
+82
+00:02:38,640 --> 00:02:40,840
+Nutzung umsetzen können.
+
+83
+00:02:40,840 --> 00:02:43,080
+Bewusstes Prompting nutzen.
+
+84
+00:02:43,080 --> 00:02:44,880
+Sie können viel Einfluss nehmen,
+
+85
+00:02:44,880 --> 00:02:47,400
+indem Sie die KI gezielt steuern.
+
+86
+00:02:47,400 --> 00:02:49,920
+Bitten Sie zum Beispiel um eine neutrale,
+
+87
+00:02:49,920 --> 00:02:51,720
+ausgewogene Darstellung
+
+88
+00:02:51,720 --> 00:02:52,600
+oder weisen Sie
+
+89
+00:02:52,600 --> 00:02:54,600
+das Modell an, stereotype
+
+90
+00:02:54,600 --> 00:02:56,480
+Annahmen zu vermeiden.
+
+91
+00:02:56,480 --> 00:02:57,280
+Hilfreich
+
+92
+00:02:57,280 --> 00:03:00,120
+sind auch sogenannte Debiasing-Prompts,
+
+93
+00:03:00,120 --> 00:03:02,400
+also Hinweise oder Rückfragen,
+
+94
+00:03:02,400 --> 00:03:03,920
+die das Modell dazu bringen, die
+
+95
+00:03:03,920 --> 00:03:05,640
+eigenen Muster zu überprüfen.
+
+96
+00:03:06,760 --> 00:03:08,120
+Beispiele sind:
+
+97
+00:03:08,120 --> 00:03:10,840
+Gibt es alternative Sichtweisen?
+
+98
+00:03:10,840 --> 00:03:12,360
+Welche Verzerrungen könnten
+
+99
+00:03:12,360 --> 00:03:14,360
+in deiner Antwort stecken?
+
+100
+00:03:14,360 --> 00:03:16,400
+Erstelle eine neutrale Version
+
+101
+00:03:16,400 --> 00:03:19,200
+ohne typische Rollenzuschreibungen.
+
+102
+00:03:19,200 --> 00:03:21,440
+Solche Prompt machen Antworten oft
+
+103
+00:03:21,440 --> 00:03:24,440
+deutlich ausgewogener.
+
+104
+00:03:26,160 --> 00:03:27,840
+Variantenvergleich.
+
+105
+00:03:27,840 --> 00:03:30,760
+Bitten Sie die KI, Ihnen zwei oder drei
+
+106
+00:03:30,760 --> 00:03:32,640
+unterschiedliche Versionen
+
+107
+00:03:32,640 --> 00:03:34,840
+derselben Antwort zu geben.
+
+108
+00:03:34,840 --> 00:03:36,640
+Im Vergleich wird sichtbar,
+
+109
+00:03:36,640 --> 00:03:38,880
+welche Elemente stabil bleiben
+
+110
+00:03:38,880 --> 00:03:40,960
+und welche sich ändern.
+
+111
+00:03:40,960 --> 00:03:43,080
+So können Sie einseitige Darstellungen
+
+112
+00:03:43,080 --> 00:03:46,080
+leichter erkennen.
+
+113
+00:03:47,120 --> 00:03:49,040
+Kritische Rückfragen.
+
+114
+00:03:49,040 --> 00:03:50,920
+Viele Verzerrungen entstehen,
+
+115
+00:03:50,920 --> 00:03:52,600
+weil die KI Annahmen trifft
+
+116
+00:03:52,600 --> 00:03:54,680
+oder Wissenslücken füllt.
+
+117
+00:03:54,680 --> 00:03:55,880
+Dem können Sie entgegen
+
+118
+00:03:55,880 --> 00:03:57,600
+wirken, indem Sie gezielte
+
+119
+00:03:57,600 --> 00:03:59,160
+Rückfragen stellen:
+
+120
+00:03:59,160 --> 00:04:01,520
+„Wie sicher ist diese Aussage?“
+
+121
+00:04:01,520 --> 00:04:04,320
+„Welche Informationen fehlen dir?“
+
+122
+00:04:04,320 --> 00:04:05,760
+„Was würde sich ändern,
+
+123
+00:04:05,760 --> 00:04:08,560
+wenn die Ausgangslage anders wäre?“
+
+124
+00:04:08,560 --> 00:04:09,960
+Solche Rückfragen lenken
+
+125
+00:04:09,960 --> 00:04:11,760
+das Modell zu präziseren
+
+126
+00:04:11,760 --> 00:04:14,760
+und reflektierteren Antworten.
+
+127
+00:04:16,800 --> 00:04:19,280
+Kontext bewusst nachliefern.
+
+128
+00:04:19,280 --> 00:04:21,240
+Wenn die Antwort zu allgemein oder
+
+129
+00:04:21,240 --> 00:04:22,600
+stereotyp wirkt,
+
+130
+00:04:22,600 --> 00:04:25,080
+Geben Sie aktiv zusätzlichen Kontext,
+
+131
+00:04:25,080 --> 00:04:26,440
+wie zum Beispiel:
+
+132
+00:04:26,440 --> 00:04:29,160
+„Die Person verfügt über viel Erfahrung.“
+
+133
+00:04:29,160 --> 00:04:30,920
+„Das Budget ist hoch.“
+
+134
+00:04:30,920 --> 00:04:33,120
+„Der Ort spielt keine Rolle.“
+
+135
+00:04:33,120 --> 00:04:34,440
+So steuern Sie das Modell
+
+136
+00:04:34,440 --> 00:04:36,800
+weg von statistischen Erwartungen
+
+137
+00:04:36,800 --> 00:04:39,200
+und hin zu Ihrer tatsächlichen Situation.
+
+138
+00:04:40,720 --> 00:04:41,920
+Bias lässt sich nicht
+
+139
+00:04:41,920 --> 00:04:43,400
+vollständig vermeiden,
+
+140
+00:04:43,400 --> 00:04:45,280
+aber durch bewusste Steuerung,
+
+141
+00:04:45,280 --> 00:04:47,520
+Rückfragen und Variantenvergleich
+
+142
+00:04:47,520 --> 00:04:49,600
+können Sie Verzerrungen sichtbar machen
+
+143
+00:04:49,600 --> 00:04:51,040
+und deutlich reduzieren.

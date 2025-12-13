@@ -35,7 +35,7 @@ Das Angebot richtet sich an Mitarbeitende von Behörden im Geschäftsbereich des
 
 **Voraussetzungen und Hinweise**
 
---
+-- 
 
 ## Bestandteile des Angebots
 
