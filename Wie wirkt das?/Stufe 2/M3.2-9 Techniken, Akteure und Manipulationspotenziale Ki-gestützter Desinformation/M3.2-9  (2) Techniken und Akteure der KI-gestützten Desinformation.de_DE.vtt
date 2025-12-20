@@ -1,0 +1,673 @@
+WEBVTT
+
+1
+00:00:06.480 --> 00:00:08.200
+In diesem Abschnitt schauen wir uns
+
+2
+00:00:08.200 --> 00:00:10.520
+genauer an, mit welchen technischen
+
+3
+00:00:10.520 --> 00:00:12.680
+Mitteln und durch welche Akteure
+
+4
+00:00:12.680 --> 00:00:15.600
+Desinformation mit Hilfe von KI heute
+
+5
+00:00:15.600 --> 00:00:17.280
+erzeugt und verbreitet wird.
+
+6
+00:00:21.120 --> 00:00:23.840
+Moderne Desinformationskampagnen nutzen
+
+7
+00:00:23.840 --> 00:00:26.000
+eine Vielzahl fortschrittlicher
+
+8
+00:00:26.000 --> 00:00:28.960
+KI-Technologien, um falsche oder irreführende
+
+9
+00:00:28.960 --> 00:00:31.320
+Inhalte zu erzeugen und zu verbreiten.
+
+10
+00:00:31.960 --> 00:00:35.160
+Im Zentrum stehen generative KI-Modelle –
+
+11
+00:00:35.160 --> 00:00:37.320
+also Algorithmen, die eigenständig
+
+12
+00:00:37.320 --> 00:00:39.640
+neue Inhalte produzieren können.
+
+13
+00:00:39.640 --> 00:00:44.840
+Dazu zählen große Sprachmodelle (LLMs) wie Claude, Gemini
+
+14
+00:00:44.840 --> 00:00:47.440
+oder ChatGPT, die in Sekundenschnelle
+
+15
+00:00:47.440 --> 00:00:50.040
+täuschend echt klingende Texte erstellen,
+
+16
+00:00:50.040 --> 00:00:53.560
+beispielsweise Fake-News-Artikel, erfundene
+
+17
+00:00:53.560 --> 00:00:56.160
+Social-Media-Beiträge oder Kommentare.
+
+18
+00:00:56.800 --> 00:00:59.320
+Für visuelle Medien kommen unter anderem
+
+19
+00:00:59.320 --> 00:01:02.240
+Generative Adversarial Networks (GANs)
+
+20
+00:01:03.920 --> 00:01:07.280
+und Diffusionsmodelle wie Stable Diffusion,
+
+21
+00:01:07.280 --> 00:01:10.160
+Midjourney oder DALL-E zum Einsatz.
+
+22
+00:01:11.280 --> 00:01:13.040
+Mit diesen Verfahren lassen sich
+
+23
+00:01:13.040 --> 00:01:15.080
+realistisch wirkende Bilder und
+
+24
+00:01:15.080 --> 00:01:17.760
+Videos synthetisch herstellen.
+
+25
+00:01:17.760 --> 00:01:19.760
+Ein Beispiel hierfür ist das viel
+
+26
+00:01:19.760 --> 00:01:22.370
+diskutierte KI-Bild von Vom Papst im
+
+27
+00:01:22.370 --> 00:01:25.330
+Designer-Mantel, das viral ging, obwohl es
+
+28
+00:01:25.330 --> 00:01:27.410
+komplett künstlich erstellt war.
+
+29
+00:01:27.410 --> 00:01:29.450
+Besonders brisant sind sogenannte
+
+30
+00:01:29.450 --> 00:01:32.570
+Deepfakes – also per KI manipulierte
+
+31
+00:01:32.570 --> 00:01:35.370
+Videos oder Audios, die existierende
+
+32
+00:01:35.370 --> 00:01:37.810
+Personen in Worten oder Handlungen zeigen,
+
+33
+00:01:37.810 --> 00:01:39.970
+die nie stattgefunden haben.
+
+34
+00:01:39.970 --> 00:01:42.090
+Dabei werden zum Beispiel Gesichter per
+
+35
+00:01:42.090 --> 00:01:44.690
+Face-Swapping in Videos montiert
+
+36
+00:01:44.690 --> 00:01:47.570
+oder Stimmen per Voice Cloning nachgeahmt.
+
+37
+00:01:48.340 --> 00:01:51.780
+Generative KI ist heute multimodal nutzbar:
+
+38
+00:01:51.780 --> 00:01:54.180
+Es gibt Systeme für die automatisierte
+
+39
+00:01:54.180 --> 00:01:56.420
+Texterstellung, Bilderzeugung,
+
+40
+00:01:56.420 --> 00:01:59.220
+Sprachausgabe und sogar Musik –
+
+41
+00:01:59.220 --> 00:02:01.580
+oft auch kombiniert, wie etwa in einem
+
+42
+00:02:01.580 --> 00:02:04.740
+gefälschten Video mit erfundener Tonspur
+
+43
+00:02:04.740 --> 00:02:06.580
+und passender Bildunterschrift.
+
+44
+00:02:07.220 --> 00:02:09.100
+Im Unterschied zu früher ist die
+
+45
+00:02:09.100 --> 00:02:10.940
+Produktion solcher Fakes heute
+
+46
+00:02:10.940 --> 00:02:13.180
+oft schnell, kostengünstig und
+
+47
+00:02:13.180 --> 00:02:14.740
+für viele Akteure zugänglich.
+
+48
+00:02:15.550 --> 00:02:17.310
+Dadurch können in kürzester Zeit
+
+49
+00:02:17.310 --> 00:02:19.550
+riesige Mengen an täuschend echten
+
+50
+00:02:19.550 --> 00:02:21.150
+Inhalten erstellt werden –
+
+51
+00:02:21.150 --> 00:02:24.110
+ein völlig neues Ausmaß an Desinformation.
+
+52
+00:02:27.310 --> 00:02:29.430
+Nicht nur die Erstellung, sondern auch
+
+53
+00:02:29.430 --> 00:02:31.390
+die Verbreitung von Desinformation
+
+54
+00:02:31.390 --> 00:02:34.190
+wird durch KI massiv erleichtert.
+
+55
+00:02:34.190 --> 00:02:36.470
+Automatisierte Accounts in sozialen
+
+56
+00:02:36.470 --> 00:02:39.630
+Netzwerken, sogenannte „Social Bots“, können
+
+57
+00:02:39.630 --> 00:02:42.590
+mit Hilfe von KI rund die Uhr Beiträge
+
+58
+00:02:42.590 --> 00:02:45.870
+und Kommentare posten, Hashtags verbreiten
+
+59
+00:02:45.870 --> 00:02:48.590
+oder Diskussionen beeinflussen.
+
+60
+00:02:48.590 --> 00:02:50.950
+KI-gestützte Bot-Profile wirken
+
+61
+00:02:50.950 --> 00:02:52.910
+dabei zunehmend authentisch,
+
+62
+00:02:52.910 --> 00:02:55.350
+inklusive generierter Profilbilder
+
+63
+00:02:55.350 --> 00:02:57.710
+und erfundener Biografien.
+
+64
+00:02:57.710 --> 00:03:01.070
+Das kann man sich zum Beispiel So vorstellem: im Jahr 2023
+
+65
+00:03:01.070 --> 00:03:05.070
+berichteten moldawische Behörden von
+
+66
+00:03:05.070 --> 00:03:07.510
+hunderten gefälschten Facebook Profilen
+
+67
+00:03:07.510 --> 00:03:10.460
+mit KI-generierten Porträtbildern und
+
+68
+00:03:10.460 --> 00:03:13.140
+absichtlich eingebauten kleinen Fehlern,
+
+69
+00:03:13.140 --> 00:03:15.340
+die pro-russische Desinformation
+
+70
+00:03:15.340 --> 00:03:16.780
+verbreiteten.
+
+71
+00:03:16.780 --> 00:03:19.420
+Diese Bot-Netzwerke posten koordiniert
+
+72
+00:03:19.420 --> 00:03:20.780
+falsche Behauptungen,
+
+73
+00:03:20.780 --> 00:03:23.020
+manipulieren Likes und Shares
+
+74
+00:03:23.020 --> 00:03:25.180
+und suggerieren so künstlich breite
+
+75
+00:03:25.180 --> 00:03:27.820
+Unterstützung für bestimmte Narrative.
+
+76
+00:03:27.820 --> 00:03:29.940
+Neben Social Bots werden auch
+
+77
+00:03:29.940 --> 00:03:32.460
+Fake-Websites und Content-Farmen eingesetzt:
+
+78
+00:03:32.460 --> 00:03:35.020
+Mit KI lassen sich in kurzer Zeit ganze
+
+79
+00:03:35.020 --> 00:03:37.210
+Nachrichtenseiten klonen und oder
+
+80
+00:03:37.210 --> 00:03:40.050
+pseudo-journalistische Artikel generieren.
+
+81
+00:03:40.050 --> 00:03:42.330
+Ein bekanntes Beispiel ist eine gefälschte
+
+82
+00:03:42.330 --> 00:03:44.330
+Nachrichtenseite im französischen
+
+83
+00:03:44.330 --> 00:03:48.090
+Wahlkampf 2017 die Emmanuel Macron
+
+84
+00:03:48.090 --> 00:03:49.850
+fälschlich Finanzhilfe aus
+
+85
+00:03:49.850 --> 00:03:51.330
+dem Ausland unterstellte.
+
+86
+00:03:54.850 --> 00:03:57.010
+Ein oft übersehener Aspekt ist,
+
+87
+00:03:57.010 --> 00:03:59.170
+dass Künstliche Intelligenz selbst
+
+88
+00:03:59.170 --> 00:04:01.330
+Ziel von Manipulation sein kann.
+
+89
+00:04:01.890 --> 00:04:05.120
+So nutzen Akteure sogenannte Adversarial
+
+90
+00:04:05.120 --> 00:04:08.400
+Attacks, beispielsweise Erkennungssysteme
+
+91
+00:04:08.400 --> 00:04:11.000
+für Deepfakes auszutricksen.
+
+92
+00:04:11.000 --> 00:04:13.760
+Bilder oder Videos werden dabei minimal
+
+93
+00:04:13.760 --> 00:04:17.560
+verändert, sodass KI-basierte Detektoren
+
+94
+00:04:17.560 --> 00:04:19.880
+sie nicht mehr als Fälschung erkennen.
+
+95
+00:04:21.959 --> 00:04:24.480
+Ebenso problematisch ist das sogenannte
+
+96
+00:04:24.480 --> 00:04:27.400
+Data Poisoning – also die bewusste
+
+97
+00:04:27.400 --> 00:04:29.640
+„Vergiftung“ von Trainingsdaten.
+
+98
+00:04:30.200 --> 00:04:33.200
+Wenn KI-Systeme mit tendenziösen oder
+
+99
+00:04:33.200 --> 00:04:35.480
+falschen Informationen trainiert werden,
+
+100
+00:04:35.480 --> 00:04:37.040
+kann das ihre Ausgaben und
+
+101
+00:04:37.040 --> 00:04:39.160
+Entscheidungen langfristig verzerren.
+
+102
+00:04:41.240 --> 00:04:43.400
+Dadurch könnten Sprachassistenten oder
+
+103
+00:04:43.400 --> 00:04:45.400
+Suchmaschinen unwissentlich
+
+104
+00:04:45.400 --> 00:04:48.080
+Desinformation weiterverbreiten, weil ihr
+
+105
+00:04:48.080 --> 00:04:50.120
+Wissensfundus manipuliert wurde.
+
+106
+00:04:54.040 --> 00:04:56.240
+Die Motive hinter KI-gestützter
+
+107
+00:04:56.240 --> 00:04:58.440
+Desinformation sind vielfältig:
+
+108
+00:04:59.150 --> 00:05:01.790
+Sie reichen von Machtgewinn und Einfluss,
+
+109
+00:05:01.790 --> 00:05:04.270
+gesellschaftlicher Destabilisierung,
+
+110
+00:05:04.270 --> 00:05:06.190
+ideologischen Zielen,
+
+111
+00:05:06.190 --> 00:05:08.750
+wirtschaftlichem Vorteil bis hin zu
+
+112
+00:05:08.750 --> 00:05:11.790
+persönlicher Rache oder Rufschädigung.
+
+113
+00:05:11.790 --> 00:05:15.150
+Die Methoden von massenhaft gestreuten
+
+114
+00:05:15.150 --> 00:05:17.350
+Fake-Posts bis zu aufwendig
+
+115
+00:05:17.350 --> 00:05:19.230
+Produzierten Deepfakes oder
+
+116
+00:05:19.230 --> 00:05:21.470
+gezielter Verbreitung von Gerüchten
+
+117
+00:05:21.470 --> 00:05:23.390
+und Verschwörungsmythen.
+
+118
+00:05:23.390 --> 00:05:26.030
+Die Umsetzung dieser Motive und Methoden
+
+119
+00:05:26.030 --> 00:05:28.310
+er erfolgt durch verschiedenste Gruppen,
+
+120
+00:05:28.310 --> 00:05:30.594
+die eigene Interessen verfolgen:
+
+121
+00:05:30.594 --> 00:05:31.910
+Staatliche Akteure.
+
+122
+00:05:32.550 --> 00:05:34.230
+Staatliche Akteure setzen
+
+123
+00:05:34.230 --> 00:05:36.750
+Desinformation gezielt als Werkzeug
+
+124
+00:05:36.750 --> 00:05:38.550
+hybrider Kriegsführung ein.
+
+125
+00:05:39.190 --> 00:05:41.310
+Autokratische Regime wie Russland
+
+126
+00:05:41.310 --> 00:05:42.070
+investieren
+
+127
+00:05:42.070 --> 00:05:45.390
+massiv in Propaganda-Trollfabriken und KI,
+
+128
+00:05:45.390 --> 00:05:48.470
+geopolitische Ziele zu verfolgen – sei es,
+
+129
+00:05:48.470 --> 00:05:51.470
+Gegner zu destabilisieren oder die eigene
+
+130
+00:05:51.470 --> 00:05:52.950
+Bevölkerung zu manipulieren.
+
+131
+00:05:53.680 --> 00:05:55.600
+Politische Gruppen und Parteien.
+
+132
+00:05:56.320 --> 00:05:58.320
+Auch politische Gruppen und Parteien
+
+133
+00:05:58.320 --> 00:05:59.600
+nutzen Desinformation
+
+134
+00:06:00.160 --> 00:06:03.040
+beispielsweise zur Wahlbeeinflussung oder
+
+135
+00:06:03.040 --> 00:06:04.640
+Gegner zu diskreditieren.
+
+136
+00:06:05.200 --> 00:06:07.840
+Beispiele aus der Slowakei, den USA
+
+137
+00:06:07.840 --> 00:06:10.960
+und der Türkei zeigen, wie KI-Deepfakes
+
+138
+00:06:10.960 --> 00:06:12.720
+kurz vor Wahlen eingesetzt werden,
+
+139
+00:06:13.280 --> 00:06:15.480
+um gezielt Zweifel zu säen oder
+
+140
+00:06:15.480 --> 00:06:18.320
+Kandidatinnen und Kandidaten zu schaden.
+
+141
+00:06:18.320 --> 00:06:20.800
+Kommerzielle Anbieter und Content Farmen.
+
+142
+00:06:21.440 --> 00:06:23.560
+Eine wachsende Rolle spielen sogenannte
+
+143
+00:06:23.560 --> 00:06:26.720
+„Disinformation-for-hire“-Dienstleister:
+
+144
+00:06:26.720 --> 00:06:28.858
+Firmen oder Online-Netzwerke,
+
+145
+00:06:28.858 --> 00:06:30.354
+die gegen Bezahlung,
+
+146
+00:06:30.354 --> 00:06:32.760
+Fake-Trends, gefälschte Kommentare oder
+
+147
+00:06:32.760 --> 00:06:35.040
+manipulierte Artikel liefern.
+
+148
+00:06:35.040 --> 00:06:37.280
+Besonders im internationalen Kontext
+
+149
+00:06:37.280 --> 00:06:40.400
+können-Bot Armeen und KI-Textgeneratoren
+
+150
+00:06:40.400 --> 00:06:42.400
+kostengünstig eingesetzt werden.
+
+151
+00:06:43.040 --> 00:06:46.000
+Extremistische Gruppen und Einzelpersonen.
+
+152
+00:06:46.000 --> 00:06:47.880
+Auch extremistische Gruppen und
+
+153
+00:06:47.880 --> 00:06:50.720
+Einzelpersonen nutzen KI-Desinformation,
+
+154
+00:06:51.490 --> 00:06:54.130
+etwa Feindbilder zu schüren oder bestimmte
+
+155
+00:06:54.130 --> 00:06:56.370
+politische Ziele zu verfolgen.
+
+156
+00:06:56.370 --> 00:06:58.930
+Die niedrige Eintrittsbarriere Durch frei
+
+157
+00:06:58.930 --> 00:07:01.890
+verfügbare KI-Tools ermöglicht es heute
+
+158
+00:07:01.890 --> 00:07:04.610
+praktisch jeder Person, Desinformation
+
+159
+00:07:04.610 --> 00:07:06.450
+zu produzieren und zu verbreiten.
+
+160
+00:07:07.170 --> 00:07:09.810
+Das Zusammenspiel aus neuen Technologien,
+
+161
+00:07:09.810 --> 00:07:12.170
+vielfältigen Akteuren und gezielten
+
+162
+00:07:12.170 --> 00:07:15.730
+Methoden macht KI-gestützte Desinformation
+
+163
+00:07:15.730 --> 00:07:16.650
+zu einer echten
+
+164
+00:07:16.650 --> 00:07:18.850
+Herausforderung für unsere Gesellschaft.
+
+165
+00:07:19.790 --> 00:07:21.990
+Deshalb ist es wichtiger denn je zu
+
+166
+00:07:21.990 --> 00:07:25.070
+verstehen, wie solche Fakes entstehen und
+
+167
+00:07:25.070 --> 00:07:27.630
+verbreitet werden – und wie wir uns als
+
+168
+00:07:27.630 --> 00:07:29.710
+Gesellschaft dagegen wappnen können.
