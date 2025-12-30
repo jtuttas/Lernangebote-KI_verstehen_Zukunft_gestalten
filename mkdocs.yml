@@ -1,0 +1,87 @@
+site_name: 'KI verstehen. Zukunft gestalten.'
+site_description: 'Lernangebote zur Kompetenzentwicklung im Bereich Künstliche Intelligenz (KI) für Lehrkräfte und Bildungspersonal'
+site_author: 'NLQ Niedersachsen'
+site_url: 'https://jtuttas.github.io/Lernangebote-KI_verstehen_Zukunft_gestalten/'
+
+repo_name: 'jtuttas/Lernangebote-KI_verstehen_Zukunft_gestalten'
+repo_url: 'https://github.com/jtuttas/Lernangebote-KI_verstehen_Zukunft_gestalten'
+
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search:
+      lang: de
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+
+nav:
+  - 'Startseite': 'index.md'
+  - 'Wie funktioniert das?':
+    - 'Übersicht': 'Wie funktioniert das?/index.md'
+    - 'Stufe 1':
+      - 'Wie funktioniert das?/Stufe 1/index.md'
+    - 'Stufe 2':
+      - 'Wie funktioniert das?/Stufe 2/index.md'
+  - 'Wie nutze ich das?':
+    - 'Übersicht': 'Wie nutze ich das?/Readme.md'
+    - 'Stufe 1':
+      - 'Wie nutze ich das?/Stufe 1/index.md'
+    - 'Stufe 2':
+      - 'Wie nutze ich das?/Stufe 2/index.md'
+  - 'Wie wirkt das?':
+    - 'Übersicht': 'Wie wirkt das?/index.md'
+    - 'Stufe 1':
+      - 'Wie wirkt das?/Stufe 1/index.md'
+    - 'Stufe 2':
+      - 'Wie wirkt das?/Stufe 2/index.md'
+  - 'Fortbildungsreihen':
+    - 'Fortbildungsreihen/index.md'
+  - 'Multiplizierende':
+    - 'Multiplizierende/Readme.md'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jtuttas/Lernangebote-KI_verstehen_Zukunft_gestalten
+
+copyright: |
+  &copy; 2024 NLQ Niedersachsen - 
+  <a href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">CC BY 4.0</a>
