@@ -56,22 +56,16 @@ nav:
   - 'Startseite': 'index.md'
   - 'Wie funktioniert das?':
     - 'Übersicht': 'Wie funktioniert das?/index.md'
-    - 'Stufe 1':
-      - 'Wie funktioniert das?/Stufe 1/index.md'
-    - 'Stufe 2':
-      - 'Wie funktioniert das?/Stufe 2/index.md'
+    - 'Stufe 1': 'Wie funktioniert das?/Stufe 1/index.md'
+    - 'Stufe 2': 'Wie funktioniert das?/Stufe 2/index.md'
   - 'Wie nutze ich das?':
     - 'Übersicht': 'Wie nutze ich das?/Readme.md'
-    - 'Stufe 1':
-      - 'Wie nutze ich das?/Stufe 1/index.md'
-    - 'Stufe 2':
-      - 'Wie nutze ich das?/Stufe 2/index.md'
+    - 'Stufe 1': 'Wie nutze ich das?/Stufe 1/index.md'
+    - 'Stufe 2': 'Wie nutze ich das?/Stufe 2/index.md'
   - 'Wie wirkt das?':
     - 'Übersicht': 'Wie wirkt das?/index.md'
-    - 'Stufe 1':
-      - 'Wie wirkt das?/Stufe 1/index.md'
-    - 'Stufe 2':
-      - 'Wie wirkt das?/Stufe 2/index.md'
+    - 'Stufe 1': 'Wie wirkt das?/Stufe 1/index.md'
+    - 'Stufe 2': 'Wie wirkt das?/Stufe 2/index.md'
   - 'Fortbildungsreihen':
     - 'Fortbildungsreihen/index.md'
   - 'Multiplizierende':
