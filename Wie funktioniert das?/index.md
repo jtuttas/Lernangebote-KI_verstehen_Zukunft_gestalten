@@ -6,32 +6,32 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 
 ## Kompetenzstufe 1:
 
--  [M1.1-1 Künstliche Intelligenz in Schule und Unterricht: Funktionsweise, Chancen und Herausforderungen](<Stufe 1/M1-1-1 Einführung: KI in Schule und Verwaltung – Funktionsweise, Chancen und Herausforderungen>)
+-  [M1.1-1 Künstliche Intelligenz in Schule und Unterricht: Funktionsweise, Chancen und Herausforderungen](<Stufe 1/M1-1-1 Einführung: KI in Schule und Verwaltung – Funktionsweise, Chancen und Herausforderungen/Readme.md>)
    -  Zielsetzung: Vermittlung der Grundlagen von KI und Sensibilisierung für Datenschutz und Urheberrecht.
 
-- [M1.1-2 Grundsätzliches Verständnis der Funktionsweise von KI](<Stufe 1/M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI>)
+- [M1.1-2 Grundsätzliches Verständnis der Funktionsweise von KI](<Stufe 1/M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI/Readme.md>)
   - Zielsetzung: Vermittlung eines grundlegenden Verständnisses darüber, was KI ist und wie sie funktioniert.
 
 - [M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen](<Stufe 1/M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen/Readme.md>)
   - Zielsetzung: Aufzeigen der Bandbreite an KI-Anwendungen und spezifischen Chatbots im Bildungskontext.
 
-- [M1.1-4 Grundlagen der KI in der Verwaltung](<Stufe 1/M1-1-4V Grundlagen der KI in der Verwaltung>)
+- [M1.1-4 Grundlagen der KI in der Verwaltung](<Stufe 1/M1-1-4V Grundlagen der KI in der Verwaltung/Readme.md>)
   - Zielsetzung:  Die Teilnehmenden verstehen grundlegende Konzepte der KI und deren Relevanz in Verwaltungsprozessen.
 
-- [M1.1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung](<Stufe 1/M1-1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung>)
+- [M1.1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung](<Stufe 1/M1-1-5 Einführung zu KI und Datenschutz in Schule und Verwaltung/Readme.md>)
   - Zielsetzung: 
     - Die Teilnehmenden können datenschutzrechtliche Risiken beim Einsatz von KI-Systemen erkennen, verstehen die Anforderungen von DSGVO und AI Act und wissen, wie sie KI verantwortungsvoll und datenschutzkonform einsetzen.
     - Sie entwickeln ein Bewusstsein für die relevanten Rahmenbedingungen und erweitern ihre Medienkompetenz im Hinblick auf Persönlichkeitsrechte und sichere digitale Prozesse.
 
-- [M1.1-6 Urheberrecht](<Stufe 1/M1-1-6 Einführung-Urheberrecht>)
+- [M1.1-6 Urheberrecht](<Stufe 1/M1-1-6 Einführung-Urheberrecht/Readme.md>)
   - Zielsetzung: Die Teilnehmenden erwerben die Kompetenz, zentrale urheberrechtliche Aspekte beim Einsatz von KI in Schule und Verwaltung zu beurteilen und anzuwenden.
 
 ## Kompetenzstufe 2:
 
-- [M1.2-1 Grundlegendes Verständnis von LLM und maschinellem Lernen](<Stufe 2/M1-2-1 Grundlegendes Verständnis von LLM und Maschinellem Lernen>)
+- [M1.2-1 Grundlegendes Verständnis von LLM und maschinellem Lernen](<Stufe 2/M1-2-1 Grundlegendes Verständnis von LLM und Maschinellem Lernen/Readme.md>)
    - Zielsetzung: Einführung in die Konzepte von Large Language Models und maschinellem Lernen.
 
-- [M1.2-2 Funktionsweise von KI](<Stufe 2/M1-2-2 Funktionsweise von KI>)
+- [M1.2-2 Funktionsweise von KI](<Stufe 2/M1-2-2 Funktionsweise von KI/Readme.md>)
    - Zielsetzung: Vertiefung des Verständnisses der technologischen Grundlagen hinter KI-Systemen.
 
 - M1.2-3 Datenqualität und KI-Anwendungen:
