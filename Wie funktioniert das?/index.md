@@ -12,7 +12,7 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 - [M1.1-2 Grundsätzliches Verständnis der Funktionsweise von KI](<Stufe 1/M1-1-2 Grundsätzliches Verständnis der Funktionsweise von KI>)
   - Zielsetzung: Vermittlung eines grundlegenden Verständnisses darüber, was KI ist und wie sie funktioniert.
 
-- [M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen](<Stufe 1/M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen>)
+- [M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen](<Stufe 1/M1.1-3 Kenntnisse verschiedener Arten von Chatbots und KI-Anwendungen im Bildungswesen/Readme.md>)
   - Zielsetzung: Aufzeigen der Bandbreite an KI-Anwendungen und spezifischen Chatbots im Bildungskontext.
 
 - [M1.1-4 Grundlagen der KI in der Verwaltung](<Stufe 1/M1-1-4V Grundlagen der KI in der Verwaltung>)
@@ -40,7 +40,7 @@ In diesem Repository finden Sie die definierten Lernangebote. Erstellte Lernange
 - M1.2-4 Trainingsdaten und Bias in der Verwaltung
    - Zielsetzung: Sensibilisierung für Bias in KI-Systemen und Entwicklung von Strategien zur Bias-Reduktion.
 
-- [M1-2-5 Grundlagen zu BIAS in KI](<Stufe 2/M1.2-5 Grundlagen zu BIAS in KI>)
+- [M1.2-5 Grundlagen zu BIAS in KI](<Stufe 2/M1.2-5 Grundlagen zu BIAS in KI/Readme.md>)
    - Zielsetzung: 
 
 ## Kompetenzstufe 3: 
